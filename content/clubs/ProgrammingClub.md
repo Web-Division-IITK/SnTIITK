@@ -43,38 +43,39 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Burhanuddin Merchant"
-    photo: https://drive.google.com/thumbnail?id=1pA2kjUEw3Czwh9u6dZuCVcJtUT4v1mB6&sz=w1000
-    linkedin: "https://www.linkedin.com/in/burhanuddin-merchant-23622a254/"
+  - name: "Aayush Anand"
+    photo:
+    linkedin:
     facebook: 
-    insta: "https://www.instagram.com/merchant_burhanuddin53/"
-  - name: "Divyansh Garg"
-    photo: https://drive.google.com/thumbnail?id=1PSDjQbgP_UAYQ-77gmXl-FB34yLKCtXp&sz=w1000
-    linkedin: "https://www.linkedin.com/in/divyansh-garg-780a94252/"
+    insta:
+  - name: "Himanshu Sharma"
+    photo: "https://drive.google.com/thumbnail?id=15pjLSo8iDYc5_eINbXh5-AQfIeZbRn0I&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/himanshu-sharma-152282217/"
+    facebook: 
+    insta: "https://www.instagram.com/sh_hi.man.shu/"
+  - name: "Kshitij Gupta"
+    photo:
+    linkedin:
+    facebook: 
+    insta:
+  - name: "Manas Jain Kuniya"
+    photo: "https://drive.google.com/thumbnail?id=1st1l17TGdOcvasW57SAIyhPgJNAkekTF&sz=w1000"
+    linkedin: "http://www.linkedin.com/in/manas-jain-kuniya"
     facebook: ""
-    insta: "https://www.instagram.com/_divyansh._.garg/"
-  - name: "Hardik Jindal"
-    photo: https://drive.google.com/thumbnail?id=1sqPadYQoQ5iR8AgiZjN1eqRjdjzu6nOm&sz=w1000
-    linkedin: "https://www.linkedin.com/in/hardik-jindal-1a2176250/"
-    facebook: ""
-    insta: "https://www.instagram.com/hardikj_1408/"
-  - name: "Yash Pratap Singh"
-    photo: https://drive.google.com/thumbnail?id=1f14U9OeQ-jtkuMS5sLufXnudlAWSitoo&sz=w1000
-    linkedin: "https://www.linkedin.com/in/its-me-yps/"
-    facebook: ""
-    insta: "https://www.instagram.com/yps_8181/"
+    insta: "http://www.linkedin.com/in/manas-jain-kuniya"
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
     
 ---
 
 <!-- Write about us section -->
 ## About us
-Programming Club (or PClub) is a community of students highly enthusiastic about coding, ethical hacking, Web Designing and all other aspects of programming. We are a team currently of 4 coordinators (pre-final year) and 24 secretaries (sophomores).
+Programming Club (or PClub) is a community of highly enthusiastic coders, ethical hackers, web developers, machine learning enthusiasts, and tech explorers of all kinds. We are currently a team of 4 coordinators (pre-final year) and 24 secretaries (sophomores).
 
-Our Instagram page boasts around 1.7K followers and is a hub for programming-related posts and information. We use it to share exciting updates, promote events, engage with our community, and put out informative posts that keep our followers up-to-date on the latest in the programming world.
+Our Instagram page boasts around 3.4K followers and is a hub for programming-related posts and information. We use it to share exciting updates, promote events, engage with our community, and put out informative posts that keep our followers up-to-date on the latest in the programming world.
 
-We organize activities related to Development (Web Development, Open Source, Game/App Development), programming contests, hackathons, Capture The Flag contests, et all. Lecture series are regularly taken on algorithms, web hijacking, development, among other things.
+We organize activities related to Development (Web Development, Open Source, Game/App Development), programming contests, hackathons, Capture The Flag contests, etc. Lecture series are regularly taken on algorithms, web hijacking, development, Machine Learning and other interesting topics.
 
-Programming Club is also dedicated to developing various applications that are beneficial for the campus junta, such as Puppy Love (during Valentine’s week), Student Search, Linux Install fest, and promoting open-source software.
+Programming Club is also dedicated to developing various applications that are beneficial for the campus junta, such as Puppy Love (during Valentine’s week), Student Search, Mail Client, Linux Install fest, and promoting open-source software.We are dedicated to campus upliftment through a variety of initiatives. One of our flagship programs is the Spring Camp, where we introduce freshmen to the fundamentals of various domains in programming, including Web Development, Competitive Programming, Cybersecurity, Computer Systems, Machine Learning, and Web 3.0.
 
-During summers, we offer a large number of projects to the first year students through our Summer Camp. The 2022 Summer Camp saw close to 300 applicants.
+
+During summers, we offer a large number of projects to the first year students through our Summer Camp. The 2025 Summer Camp saw close to 800 applicants.

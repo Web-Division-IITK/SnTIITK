@@ -42,26 +42,26 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Abhishek Srivastava"
-    photo: https://drive.google.com/thumbnail?id=1j2bRQY3p7Ssh50va8efa36bbu6mjPKna&sz=w1000
-    linkedin: "https://www.linkedin.com/in/abhishek-srivastava-286150262/"
-    insta: "https://www.instagram.com/srivabhi2004/"
+  - name: "Chinar Ratnesh Mhatre"
+    photo: "https://drive.google.com/thumbnail?id=1-ZOIdbBeySTnbzUiWjnsQdcFr_3ixNd8&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/chinar-mhatre-a03b03244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    insta: "https://www.instagram.com/_pallav.946?igsh=cDg4Y3F3b2YzbzRs"
     
-  - name: "Yuval Bansal"
-    photo: https://drive.google.com/thumbnail?id=1dERz2k27qXJDtzpGVDJEZdAfhDpk91pj&sz=w1000
-    linkedin: "https://www.linkedin.com/in/yuval-bansal-01465b212/"
+  - name: "Shivansh Gupta"
+    photo: "https://drive.google.com/thumbnail?id=1oxHTUJZ8GxCXqo3K6PWpxKouFsOtCShH&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/shivansh-gupta-5a4870285/"
     facebook: ""
-    insta: "https://www.instagram.com/yuval_bansal"
+    insta: "https://www.instagram.com/shivanshgupta406/"
 
-  - name: "Aayush Jaiswal"
-    photo: https://drive.google.com/thumbnail?id=1jPahL_57DC9iYMNeadZxBgQk2WTPWxCN&sz=w1000
-    linkedin: "https://www.linkedin.com/in/aayush-jaiswal-431b34223/"
-    insta: "https://www.instagram.com/aayush_jaiswal101"
+  - name: "Soumyajit Halder"
+    photo: "https://drive.google.com/thumbnail?id=1Sk3EoOvr8Wf0UJSjG-0Jtc_trTGSNTpf&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/soumyajit-halder-92ba00287/"
+    insta: "https://www.instagram.com/soumyajit._.halder/"
 
-  - name: "Manvi Bengani"
-    photo: https://drive.google.com/thumbnail?id=1ZsilWTlOxzqbqLWsHD2f4-Oqa8KmwyVg&sz=w1000
-    linkedin: "https://www.linkedin.com/in/manvi-bengani-7397641b0/"
-    insta: "https://www.instagram.com/justkeepswimming2305"
+  - name: "Ridhima Sharma"
+    photo: "https://drive.google.com/thumbnail?id=1yl7Ud2wkrHyLt-Fzp-QCOkQgU8ihw-d2&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/ridhima-sharma-4125972b5"
+    insta: "https://www.instagram.com/ridhima_1185"
 
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
 
@@ -91,8 +91,19 @@ cordies:
 
 <!-- Write about us section -->
 ## About us
-What if you could build a R2D2? How about Transformers? Or a WALL-E?
+Robotics
 
-If you have ever even secretly aspired to build your own robot, then the Robotics Club, IITK is the place for you! We are a diverse group of over-enthused robotics nerds who find roots across all academic departments of the institute as well as ‘seniority’. The club is a student body which finds its place under the Science and Technology Council, Student Gymkhana, IIT Kanpur. Interested in what kind of work we do? We build robots for academic purposes, to compete at both national and international events or just out of plain interest.
+Just hearing the word should make your chest swell with pride—we are, after all, engineers at IIT Kanpur. This is real engineering. The kind we all dream of doing.
 
-Having those newbie jitters? No worry. We are here to induct you into the rapidly expanding world of robotics. One on one guidance, workshops and tutorials along with tools, equipments, components and workspace eagerly await you!
+Robotics brings together everything we learn—mechanical, electrical, and software engineering—and fuses it into something that moves, reacts, and comes alive. It’s where theory meets action, and sparks fly—literally.
+
+Sure, some might enjoy sitting behind a laptop screen, tapping away at code—and that’s perfectly fine. But for those who crave adventure, who love to see ideas come to life, who enjoy cutting, welding, building—robotics is for you.
+
+What do we do? Well, it’s no mystery—we build robots.
+We go to competitions. We build cool stuff. We have fun.
+
+Whether you’re heading to a competition and need club support, or you’re just exploring a small hobby project—the club is always open to you. The secretaries and coordinators are here to help.
+
+If the idea of shaping the future with your own hands excites you then the Robotics Club is where you belong. Find us in A3, Hall 12.
+
+Everyone is welcome.

@@ -5,7 +5,7 @@
                 {{ $isSummerProjectsPage := or (eq .Title "Summer-Projects") (eq .Title "Takneek") (eq .Title "Inter-IIT") }}
                 {{ $isTakneek := (eq .Title "Takneek")}}
                 {{ $isInterIIT := (eq .Title "Inter-IIT")}}
-                {{ $isWebDivision := (eq .Title "Web-Division")}}
+                {{ $isCouncilCoordinators := (eq .Title "Council-Coordinators")}}
                 {{ if $isTakneek }}
                 <div class="w-full mx-auto p-4">
                     <!-- Leaderboard Section -->
@@ -155,18 +155,18 @@
     
                 {{else}}
                 <div class="grid gap-6 mx-auto mt-12 mb-4 lg:max-w-none 
-                    {{if $isWebDivision}} grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5
+                    {{if $isCouncilCoordinators}} grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5
                     {{ else if $isSummerProjectsPage}} grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5
                     {{else}} grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3
                     {{ end }}">
                 {{ range .Paginator.Pages }}
-                    {{ if $isWebDivision}} 
+                    {{ if $isCouncilCoordinators}} 
                     {{ range .Params.headsList}}
                     <div class="bg-white rounded-xl overflow-hidden transition-transform duration-300 hover:scale-105 w-full">
                         <img class="w-full h-32 sm:h-64 lg:h-64  object-cover transition-transform duration-300 hover:scale-110" src="https://drive.google.com/thumbnail?id={{ .photo }}&sz=w1000" alt="{{.name}}">
                         <div class="p-2 text-center">
                             <h5 class="block mt-2 text-[15px] sm:text-xl lg:text-2xl font-bold text-gray-900">{{.name}}</h5>
-                            <div class="font-bold text-[13px] sm:text-lg lg:text-xl text-gray-500 mb-2">Web Head</div>
+                            <div class="font-bold text-[13px] sm:text-lg lg:text-xl text-gray-500 mb-2">{{.vertical}}</div>
                             <div class="flex justify-center space-x-4">
                                 <a class="text-blue-700 hover:text-blue-900 transition-transform duration-300 hover:scale-110" href="{{.linkedin}}" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin fa-lg"></i></a>
                                 <a class="text-blue-400 hover:text-blue-600 transition-transform duration-300 hover:scale-110" href="{{.insta}}" target="_blank" aria-label="Instagram"><i class="fab fa-instagram fa-lg"></i></a>

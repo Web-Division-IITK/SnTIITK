@@ -6,7 +6,7 @@
     <description>Recent content on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Oct 2024 02:04:26 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 14:53:50 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Content Overview</title>
@@ -23,7 +23,14 @@
       <description>Our club aims to spread financial literacy amongst the campus community &amp;amp; aspires to make everyone adept in handling Personal Finances. We work at the merger of finance and analytics applying analytical understandings and tools in the areas of finance and economics. In the era of digitalization, rapid growth opportunities in fintech industries have sprung.</description>
     </item>
     <item>
-      <title>AUV </title>
+      <title>Aerial</title>
+      <link>//localhost:1313/teams/aerial/</link>
+      <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
+      <guid>//localhost:1313/teams/aerial/</guid>
+      <description>Our aim is to advance aerial autonomy by building autonomous UAVs. We are focused on developing open-source UAV solutions for real-world challenges. Since our start in 2017 we have represented IIT Kanpur at top competitions, including a global top-10 finish at IMAV 2019 and five consecutive podiums at the Inter IIT Tech Meet. Most recently, the team participated in ICUAS, securing the 3rd place globally.</description>
+    </item>
+    <item>
+      <title>AUV</title>
       <link>//localhost:1313/teams/teams-post-6/</link>
       <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
       <guid>//localhost:1313/teams/teams-post-6/</guid>
@@ -37,25 +44,25 @@
       <description>We are a team of undergraduates actively working with faculty and are dedicated to developing solutions to challenges in autonomous robotics and related domains. We develop cutting-edge robots aided by research and represent our university and nation in international competitions that see participants from prestigious colleges worldwide.</description>
     </item>
     <item>
-      <title>IITK Motorsports </title>
+      <title>IITK Motorsports</title>
       <link>//localhost:1313/teams/teams-post-3/</link>
       <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
       <guid>//localhost:1313/teams/teams-post-3/</guid>
       <description>IITK Motorsports has a vision - “Design &amp;amp; Build a Race Car”. We have four divisions, formula style racing car, all terrain vehicles, electric vehicles, efficient vehicles, with the last two being formed for the very first time this year. The first formula racing car we built, participated and performed decently in Formula Student Italy in September 2013.</description>
     </item>
     <item>
-      <title>Team Humanoid </title>
+      <title>IITK RaSET</title>
+      <link>//localhost:1313/teams/teams-post-1/</link>
+      <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
+      <guid>//localhost:1313/teams/teams-post-1/</guid>
+      <description>Our aim is to ignite the passion for space tech among the students by building next generation sounding rockets. We are pioneering the students in rocket engineering with the goal of launching a student-built rocket into space.</description>
+    </item>
+    <item>
+      <title>Team Humanoid</title>
       <link>//localhost:1313/teams/teams-post-4/</link>
       <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
       <guid>//localhost:1313/teams/teams-post-4/</guid>
       <description>When we think of robots, the first thing that we imagine is a picture of “C3PO” or “Chitti”, both exemplar symbols of the pop culture and more importantly, astonishingly awesome Humanoids! We at Team Humanoid are a group of enthusiastic students who are working towards developing a fully functional Humanoid robot of our own.</description>
-    </item>
-    <item>
-      <title>Team Vision </title>
-      <link>//localhost:1313/teams/teams-post-2/</link>
-      <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/teams/teams-post-2/</guid>
-      <description>IGVC is one of the biggest international competition of Intelligent Ground Vehicles. In our very first participation, we secured the 5th position in Design Category of IGVC 2018. Each year, some of the most brilliant, hard working, and sincere people of any institute interested in Autonomy, team up to build vehicles to participate in the competition.</description>
     </item>
     <item>
       <title>DesCon Society</title>
@@ -63,13 +70,6 @@
       <pubDate>Mon, 18 Apr 2022 11:10:36 +0800</pubDate>
       <guid>//localhost:1313/societies/news-post-2/</guid>
       <description>The Design and Construction group organizes different activities including designing of popsicle bridge, Spaghetti Bridge and other types of bridges. Along with that different structural analysis are performed practically. Students are encouraged to perform activities on their own ideas and use of different softwares for structural analysis. Basics of designing and softwares are taught through lectures and workshops throughout the year.</description>
-    </item>
-    <item>
-      <title>Science Coffee House</title>
-      <link>//localhost:1313/societies/news-post-5/</link>
-      <pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/societies/news-post-5/</guid>
-      <description>Science Coffee House is a warmly knit society of science enthusiasts. Taking roots from discussing anything and everything over a cup of coffee, the group has diversified into more activities. We organize the most interesting talks on all branches of science from Physics to Philosophy, host reading groups where you can explore novel and niche topics with your friends, and offer projects with definite goals in mind.</description>
     </item>
     <item>
       <title>About Us</title>
@@ -105,6 +105,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/summer-projects/summer_projects_template5---mantavya-upadhyay/</guid>
       <description>&#xD;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/teams/teams-post-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teams/teams-post-2/</guid>
+      <description></description>
     </item>
     <item>
       <title>Acrobatic Plane</title>
@@ -154,6 +161,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/summer-projects/programmingclub_capturetheflag---ritvik-goyal/</guid>
       <description>In this project, we participated in various Capture The Flag (CTF) competitions, focusing primarily on binary exploitation challenges. Through hands-on experience in these contests, we developed skills in identifying and exploiting vulnerabilities in binaries. These challenges ranged from buffer overflows to format string attacks, requiring a deep understanding of system internals, memory management, and reverse engineering techniques. By solving numerous challenges, we gained valuable knowledge in binary exploitation, enhancing our proficiency in security analysis and vulnerability research.</description>
+    </item>
+    <item>
+      <title>Council-Coordinators</title>
+      <link>//localhost:1313/council_coordinators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/council_coordinators/</guid>
+      <description></description>
     </item>
     <item>
       <title>CREATING VIRTUAL REALITY  WORLD  USING  BLENDER</title>
@@ -268,11 +282,25 @@
       <description>The Robotics Club at IIT Kanpur, part of the Science and Technology Council, is a diverse group of students passionate about robotics. They work on projects that involve designing, building, and programming robots for academic research, competitions, and personal interest. The club covers various technical aspects of robotics, including mechanical design, electronics, and coding. They provide workshops, tutorials, and one-on-one mentorship, offering access to tools, components, and a workspace. Whether you&amp;rsquo;re a beginner or experienced, the club supports your journey into the technical world of robotics, helping you create robots like R2D2, Transformers, or WALL-E.</description>
     </item>
     <item>
+      <title>SciMathsSoc</title>
+      <link>//localhost:1313/societies/scimathsoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/societies/scimathsoc/</guid>
+      <description>Welcome to SciMathSoc – a dynamic, student-driven initiative that unites science and mathematics through thought-provoking discussions, exciting competitions, and hands-on projects.</description>
+    </item>
+    <item>
       <title>Securing FPGA with Ethernet based Encryption</title>
       <link>//localhost:1313/summer-projects/eclub_fpga_bases_encryption---rohit-verma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/summer-projects/eclub_fpga_bases_encryption---rohit-verma/</guid>
       <description>The ever-growing demand for secure data transmission necessitates robust encryption protocols across various communication channels. Ethernet, being the backbone of modern networks, is no exception. This project proposes an implementation of an Ethernet encryption system using the Advanced Encryption Standard (AES) protocol on a Cora Z7 Field-Programmable Gate Array(FPGA).*By implementing AES on the Cora Z7 FPGA, this project aims to achieve significant performance improvements compared to software-based encryption solutions. The inherent parallelism of the FPGA architecture allows for efficientexecution of the AES algorithm, resulting in faster encryption/decryption times and improved overall network throughput.</description>
+    </item>
+    <item>
+      <title>Speedcubing</title>
+      <link>//localhost:1313/hobbygroup/speedcubing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hobbygroup/speedcubing/</guid>
+      <description>a vibrant community of puzzle enthusiasts dedicated to the art and science of solving twisty puzzles like the Rubik’s Cube. We are one of the dynamic clubs under the Science and Technology (SnT) Council of the Students&amp;rsquo; Gymkhana, fostering curiosity, logic, and hands-on learning.</description>
     </item>
     <item>
       <title>Stratoluanch</title>
@@ -308,13 +336,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/summer-projects/pclub_vcs---yash-pratap-singh/</guid>
       <description>The project covered foundational concepts of version control, providing a solid understanding of Git and its inner workings. It explored Git objects, HEAD, branching, merging, and commands such as git diff, git status, git log, git add, git commit, git branch, git merge, git remote, git fetch, and git push. The internal workings of these commands were studied, and a custom version control system was implemented in Go, incorporating these commands to enhance understanding of development and project structuring.</description>
-    </item>
-    <item>
-      <title>Web_heads</title>
-      <link>//localhost:1313/web_division/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/web_division/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,8 @@ enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
 canonifyURLs: true
-paginate: 9
+pagination:
+pagerSize: 9
 darkmode_js:
   - assets/js/darkmode.js
 enableInlineShortcodes: true
@@ -154,13 +155,13 @@ menu:
       name: Teams
       url: /categories/teams/
       weight: 30
-    - identifier: outreach
-      name: Outreach
-      url: /categories/outreach/
-      weight: 40
-    - identifier: web-division
-      name: Web Division
-      url: /categories/web-division/
+    # - identifier: outreach
+    #   name: Outreach
+    #   url: /categories/outreach/
+    #   weight: 40
+    - identifier: Council Coordinators
+      name: Council Coordinators
+      url: /categories/council-coordinators/
       weight: 50
   competitions:
     - identifier: takneek
@@ -197,9 +198,9 @@ menu:
       name: Teams
       url: /categories/teams/
       weight: 40
-    - identifier: web-division
-      name: Web Division
-      url: /categories/web-division/
+    - identifier: council-coordinators
+      name: Council Coordinators
+      url: /categories/council-coordinators/
       weight: 50
 
 markup:

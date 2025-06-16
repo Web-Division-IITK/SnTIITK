@@ -33,35 +33,34 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Astitva Roy"
-    photo: https://drive.google.com/thumbnail?id=19cUvD-L51G33QPc9-iPurVizRhosafe0&sz=w1000   #NO NEED TO CHANGE
-    linkedin: ""
-    facebook: https://www.facebook.com/100094067273667/
-    insta: "https://www.instagram.com/astitva5530/"
-  - name: "Ayush Bokad"
-    photo: https://drive.google.com/thumbnail?id=1uFVBx4FVqZ786PDDq4TzVsMgIRbKNZP2&sz=w1000   #NO NEED TO CHANGE
-    linkedin: "https://www.linkedin.com/in/ayush-bokad-476764262/"
-    facebook: "https://www.facebook.com/100086503962733/"
-    insta: "https://www.instagram.com/ayushbokad/"
-  - name: "Sohel Saini"
-    photo: https://drive.google.com/thumbnail?id=1FnzzKCIjknJsSRQLe9Ik2Jw0OhUwnD9S&sz=w1000   #NO NEED TO CHANGE
-    linkedin: "https://www.linkedin.com/in/sohel-saini-ab731624b/"
-    facebook: "https://www.facebook.com/100086464184830/"
-    insta: "https://www.instagram.com/sainisohel112/"
-  - name: "Tanish Singla"
-    photo: https://drive.google.com/thumbnail?id=1w2kKVZcrTSv8bw9dGnc-b7ETbqqbFNef&sz=w1000  #NO NEED TO CHANGE
-    linkedin: "https://www.linkedin.com/in/tanish-singla-496446258/"
-    facebook: "https://www.facebook.com/tanish.singla.73/"
-    insta: "https://www.instagram.com/m.tanishsingla/"
+  - name: "Chhavi Tanwar"
+    photo: "https://drive.google.com/thumbnail?id=14L81FXXc4O6xthkv92TRGnUgE7wXtIC3&sz=w1000" 
+    linkedin: "https://www.linkedin.com/in/chhavi-tanwar-b03197286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    facebook: ""
+    insta: "https://www.instagram.com/chhavitanwar_/profilecard/?igsh=OXR5ZGFhOGs5NmZl"
+  - name: "Devansh Kartik"
+    photo: "https://drive.google.com/thumbnail?id=1Kzr9yLy4urDV_IUowAep0ERbwRQPNDRh&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/devansh-kartik-b98343293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=a"
+    facebook: ""
+    insta: ""
+  - name: "Pearl Narang"
+    photo: "https://drive.google.com/thumbnail?id=1IdoDL6GfwYJ15Nj7KaJPqy3ZQAvJcOt8&sz=w1000" 
+    linkedin: "https://www.linkedin.com/in/pearl-narang-441519318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    facebook: ""
+    insta: "https://www.instagram.com/pearl_narang?igsh=NnQxNXBhcHUzaTM1"
+  - name: "Tarushi Srivastava"
+    photo: "https://drive.google.com/thumbnail?id=19twBMq9zuqmXIVYxrrGYIVZ65nQOsApF&sz=w1000"  
+    linkedin: "https://www.linkedin.com/in/tarushi-srivastava-86409b298"
+    facebook: ""
+    insta: "https://www.instagram.com/srivastavatarushi07?igsh=NzA0NG5uajdxZXF6"
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
     
 ---
 
 <!-- Write about us section -->
 ## About us
-Since the dawn of civilization, humans have gazed at the stars with wonder and curiosity. The mysteries of the cosmos have driven countless innovations and discoveries, and this thirst for knowledge continues to grow with each passing generation.
+Since the dawn of civilisation, humanity has looked up to the stars with awe, seeking meaning in the vastness above. The Astronomy Club of IIT Kanpur, established in 1975, carries forward that timeless curiosity, serving as a vibrant community for all who are captivated by the cosmos. With no requirement for prior expertise - just a spark of interest - the club welcomes anyone willing to journey beyond the skies.
 
-The Astronomy Club of IIT Kanpur, established in 1975, has been at the forefront of exploring the wonders of our cosmos to the campus community. The club's mission is to inspire an interest in astronomy and nurture the curiosity of those already enthralled by it. 
-Our annual flagship event is Astroventure, which marks one of the largest Astronomy fest across all IITs. Our signature events include night sky observation sessions, planetarium shows, workshops, competitions, talks, etc.. Major club assets include an Observatory, planetarium, range of telescopes, and a lot more. 
+We conduct a wide range of activities throughout the year, including night sky observation sessions, astrophotography, planetarium shows, hands-on workshops and projects, competitions and engaging lectures. Our club houses its own student-built planetarium as well as a research grade observatory with a 14-inch Celestron EdgeHD telescope. Through our annual flagship events like Astroventure and Hyperion, we celebrate the spirit of exploration, drawing participation from across the country.
 
-The Astronomy Club is more than just a platform for exploring the cosmos; it’s a community where imagination, curiosity, and science come together to unlock the secrets of the universe. We invite all students to join us on this journey beyond the stars.
+We invite all to come join us and gather beneath the stars, surrounded by the club’s telescopes, cameras and interesting student-made technical instruments. Because when you realise you’re made of stardust, it’s only natural to want to know your ancestors in the sky!

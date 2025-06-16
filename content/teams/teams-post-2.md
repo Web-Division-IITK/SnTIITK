@@ -1,6 +1,5 @@
----
-title: "Team Vision
-"
+<!-- ---
+title: "Team Vision"
 date: 2022-05-18T11:10:36+08:00
 draft: false
 language: en
@@ -32,4 +31,4 @@ cordies:
   #   insta: "https://www.instagram.com/shubhjain__007/"
 ---
 ## About Us
-IGVC is one of the biggest international competition of Intelligent Ground Vehicles. In our very first participation, we secured the 5th position in Design Category of IGVC 2018. Each year, some of the most brilliant, hard working, and sincere people of any institute interested in Autonomy, team up to build vehicles to participate in the competition.    
+IGVC is one of the biggest international competition of Intelligent Ground Vehicles. In our very first participation, we secured the 5th position in Design Category of IGVC 2018. Each year, some of the most brilliant, hard working, and sincere people of any institute interested in Autonomy, team up to build vehicles to participate in the competition.     -->

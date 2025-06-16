@@ -7,7 +7,7 @@ draft: false  #NO NEED TO CHANGE
 language: en  #NO NEED TO CHANGE
 
 featured_image: "../assets/images/featured/electronic.jpg"  #NO NEED TO CHANGE
-website: "https://eclub-iitk.netlify.app/"   #Write url of the club
+website: "https://eclub.iitk.ac.in/"   #Write url of the club
 instagramUrl : "https://www.instagram.com/electronicsclub.iitk?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
 linkedIn : "https://www.linkedin.com/company/electronics-club-iit-kanpur/mycompany/?viewAsMember=true"
 facebook : "https://www.facebook.com/electronicsclubiitk/?ref=embed_page"
@@ -38,31 +38,28 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Devansh Bansal"
-    photo: https://drive.google.com/thumbnail?id=1dXH_B2zDeIOlKopt1C0Lp8vO7bn2_0_e&sz=w1000
-    linkedin: "https://www.linkedin.com/in/devansh-bansal-923588255/"
+  - name: "Ashish Upadhyay"
+    photo: "https://drive.google.com/thumbnail?id=1oWEQb7gVoxAuhSR8qrcQyQo33m8_FkU8&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/ashish-upadhyay-b2044b338"
     facebook: 
-    insta: "https://www.instagram.com/devansh.b83/"
-  - name: "Likith Sai Jonna"
-    photo: https://drive.google.com/thumbnail?id=1yIkzTYHj3RbYYcnPF17tVeXAk-q-5GKS&sz=w1000
-    linkedin: "https://www.linkedin.com/in/likith-sai-jonna-6102b7257/"
+    insta: "https://www.instagram.com/ashish_upadhyay_01/"
+  - name: "Kshitij Bhardwaj"
+    photo: "https://drive.google.com/thumbnail?id=1b-Ux_J-V6nrGHoRHa1As-nfybJZthY5X&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/kshitijbhardwaj1729"
+    facebook: 
+    insta: "https://www.instagram.com/tensor.1729?igsh=bGp0cXpwNjE1c2xk"
+  - name: "Mrigesh Ashwin"
+    photo: "https://drive.google.com/thumbnail?id=1Q-4ReGujEaPmpG-tnpEFDABcqNHVO4UE&sz=w1000"
+    linkedin: "http://www.linkedin.com/in/mrigeesh-ashwin-8b2683286"
+    facebook: 
+    insta: "https://www.instagram.com/mrigeesh_ashwin/"
+  - name: "Rachit Agrawal"
+    photo: "https://drive.google.com/thumbnail?id=1q5Z0NwKc-wzhMa721XnwO1VRLWUjZ4vM&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/rachit-agarwal-980100287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
-    insta: "https://www.instagram.com/likith.sai_1303/"
-  - name: "Rohit Verma"
-    photo: https://drive.google.com/thumbnail?id=1yIkzTYHj3RbYYcnPF17tVeXAk-q-5GKS&sz=w1000
-    linkedin: "https://www.linkedin.com/in/rohit-verma-8a38b225b/"
-    facebook: ""
-    insta: "https://www.instagram.com/rohiiit_26/"
-  - name: "Shivang Agarwal"
-    photo: https://drive.google.com/thumbnail?id=16Di9CJa-BjXTWdhIEoWfrz6trOxQBYE9&sz=w1000
-    linkedin: "https://www.linkedin.com/in/shivang-agarwal-443635256/"
-    facebook: ""
-    insta: "https://www.instagram.com/shivangagarwal6/"
-  - name: "Vaneesha S Kumar"
-    photo: https://drive.google.com/thumbnail?id=1nGxHeP1WW_Enl9u0zoLvH2ADvb6tbvkQ&sz=w1000
-    linkedin: "https://www.linkedin.com/in/vaneesha-s-kumar-253166279/"
-    facebook: ""
-    insta: "https://www.instagram.com/vaneesha_0410/"
+    insta: "https://www.instagram.com/rac.hit_a6105?igsh=MjMzZ2VqOGUxZzF2"
+
+
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
     
 ---

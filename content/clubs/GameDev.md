@@ -33,26 +33,26 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: Abhishek Meena
-    photo: https://drive.google.com/thumbnail?id=16gTaDVMJkVm2AkKY_7lCDukVhXVY15ld&sz=w1000
-    linkedin: "https://www.linkedin.com/in/abhishekmeena33/"
+  - name: "Ishan Kamboj"
+    photo: "https://drive.google.com/thumbnail?id=1eMG-F51NCp0NWBMvbBsggv4PnKYv7JAC&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/cy9her"
     facebook: ""
-    insta: "https://www.instagram.com/_abhi.mn/"
-  - name: "Aryan Verma"
-    photo: https://drive.google.com/thumbnail?id=1elK5btWG20BnriUNtxttXhzN-8nRkH89&sz=w1000
-    linkedin: "https://www.linkedin.com/in/aryanverma212/"
+    insta: "https://www.instagram.com/_ishan_kamboj?igsh=NmFkZXQwbjRvbWEz"
+  - name: "Jaykant Nayak"
+    photo: "https://drive.google.com/thumbnail?id=1c1Uad4joW0SPiWFQTfZrG0evvLQm86Dr&sz=w1000"
+    linkedin: "http://www.linkedin.com/in/jaykant-nayak-0946352a7"
     facebook: ""
-    insta: "https://www.instagram.com/sunburnt_horizon/"
-  - name: "Harshit Sharma"
-    photo: https://drive.google.com/thumbnail?id=1FqTbWloVymaLvQga3yuwZhTKA40E9rz6&sz=w1000
-    linkedin: "https://www.linkedin.com/in/harshit-sharma-bb202227b/"
+    insta: "https://www.instagram.com/jaykant_29n?igsh=M25lY3YxNDV4MTQz"
+  - name: "Priyanka"
+    photo: "https://drive.google.com/thumbnail?id=14niiGue0OFADUyZ1osENjoYvP6PJElHY&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/priyanka-paliwal-77522928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
-    insta: "https://www.instagram.com/harshit.sharma1105/"
-  - name: "Kunal Shikhar"
-    photo: https://drive.google.com/thumbnail?id=1o8ifJwP2kq38uj63uXVg1GiIkU3ql8sz&sz=w1000
-    linkedin: "https://www.linkedin.com/in/kunal-shikhar-047164255/"
+    insta: "https://www.instagram.com/priyankapaliwal973?igsh=eW95NmVxdTJzeGtr"
+  - name: "Priyank Agnihotri"
+    photo: "https://drive.google.com/thumbnail?id=1Ab6a22aNz6z_nXNNC4-tAf39b23eR3cC&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/priyank-agnihotri-61081228b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     facebook: ""
-    insta: "https://www.instagram.com/immortal100100/"
+    insta: "https://www.instagram.com/prixyank?igsh=MWc1d2dweTB6cHdqaQ%3D%3D&utm_source=qr"
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
     
 ---
