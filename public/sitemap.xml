@@ -6,10 +6,10 @@
     <lastmod>2024-10-05T03:43:29+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-05-26T14:53:50+05:30</lastmod>
+    <lastmod>2025-06-16T23:45:41+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2025-05-26T14:53:50+05:30</lastmod>
+    <lastmod>2025-06-16T23:45:41+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/inter-iit/inter-iit-post-1/</loc>
     <lastmod>2024-08-24T15:26:37+05:30</lastmod>
@@ -24,7 +24,7 @@
     <lastmod>2025-05-26T11:56:21+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/teams/teams-post-6/</loc>
-    <lastmod>2025-05-26T11:56:21+05:30</lastmod>
+    <lastmod>2025-06-16T23:45:41+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/teams/teams-post-5/</loc>
     <lastmod>2025-05-26T11:56:21+05:30</lastmod>
@@ -36,13 +36,13 @@
     <lastmod>2025-05-26T11:56:21+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/teams/teams-post-4/</loc>
-    <lastmod>2025-05-26T11:56:21+05:30</lastmod>
+    <lastmod>2025-06-16T23:45:41+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/teams/</loc>
-    <lastmod>2025-05-26T11:56:21+05:30</lastmod>
+    <lastmod>2025-06-16T23:45:41+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/teams/</loc>
-    <lastmod>2025-05-26T11:56:21+05:30</lastmod>
+    <lastmod>2025-06-16T23:45:41+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/societies/news-post-2/</loc>
     <lastmod>2025-05-26T11:56:21+05:30</lastmod>
@@ -54,7 +54,7 @@
     <lastmod>2025-05-26T11:56:21+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/about/</loc>
-    <lastmod>2025-05-26T13:52:12+05:30</lastmod>
+    <lastmod>2025-06-16T23:45:41+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/takneek/takneek-post-1/</loc>
     <lastmod>2024-08-28T01:10:53+05:30</lastmod>
@@ -117,7 +117,7 @@
     <lastmod>2024-08-28T06:30:53+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/clubs/astronomyclub/</loc>
-    <lastmod>2025-05-26T11:56:21+05:30</lastmod>
+    <lastmod>2025-06-16T23:45:41+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/augmented-reality/</loc>
     <lastmod>2024-08-28T06:30:53+05:30</lastmod>
@@ -138,10 +138,10 @@
     <lastmod>2024-08-28T06:30:53+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/clubs/</loc>
-    <lastmod>2025-05-26T13:52:12+05:30</lastmod>
+    <lastmod>2025-06-16T23:45:41+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/clubs/</loc>
-    <lastmod>2025-05-26T13:52:12+05:30</lastmod>
+    <lastmod>2025-06-16T23:45:41+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/computer-vision/</loc>
     <lastmod>2024-08-28T06:30:53+05:30</lastmod>
@@ -150,10 +150,10 @@
     <lastmod>2024-08-28T06:30:53+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/council-coordinators/</loc>
-    <lastmod>2025-05-26T14:53:50+05:30</lastmod>
+    <lastmod>2025-06-16T23:45:41+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/council_coordinators/</loc>
-    <lastmod>2025-05-26T14:53:50+05:30</lastmod>
+    <lastmod>2025-06-16T23:45:41+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/summer-projects/descon_creating_virtual_reality_world_using_blender---kd-gone-crazy/</loc>
     <lastmod>2024-08-28T06:30:53+05:30</lastmod>
@@ -180,7 +180,7 @@
     <lastmod>2024-08-28T06:30:53+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/clubs/electronicsclub/</loc>
-    <lastmod>2025-05-26T13:52:12+05:30</lastmod>
+    <lastmod>2025-06-16T23:45:41+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/electronics_club/</loc>
     <lastmod>2024-08-28T06:30:53+05:30</lastmod>
@@ -233,7 +233,7 @@
     <lastmod>2024-08-24T15:15:22+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/clubs/gamedev/</loc>
-    <lastmod>2025-05-26T11:56:21+05:30</lastmod>
+    <lastmod>2025-06-16T23:45:41+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/git/</loc>
     <lastmod>2024-08-28T06:30:53+05:30</lastmod>
@@ -247,11 +247,9 @@
     <loc>//localhost:1313/tags/hardware/</loc>
     <lastmod>2024-08-28T06:30:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/hobbygroup/</loc>
-    <lastmod>2025-05-26T13:52:12+05:30</lastmod>
+    <loc>//localhost:1313/hobby-groups/</loc>
   </url><url>
-    <loc>//localhost:1313/hobbygroup/</loc>
-    <lastmod>2025-05-26T13:52:12+05:30</lastmod>
+    <loc>//localhost:1313/categories/hobby-groups/</loc>
   </url><url>
     <loc>//localhost:1313/summer-projects/descon-society_hotwheels3dgamewithfusion360/</loc>
     <lastmod>2024-08-28T06:30:53+05:30</lastmod>
@@ -329,8 +327,7 @@
     <loc>//localhost:1313/tags/signalprocessing/</loc>
     <lastmod>2024-08-28T06:30:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/hobbygroup/speedcubing/</loc>
-    <lastmod>2025-05-26T13:52:12+05:30</lastmod>
+    <loc>//localhost:1313/hobby-groups/speedcubing/</loc>
   </url><url>
     <loc>//localhost:1313/tags/stratolaunch/</loc>
     <lastmod>2024-08-28T06:30:53+05:30</lastmod>

@@ -2,7 +2,7 @@
 # This is the template of md file to render your club data on snt website. The below example is of Aeromodelling Club, please modify the data according to your clunb.
 # Also rename the file as ClubName.md, example: AeromodellingClub.md
 
-title: "Speedcubing"   #Write name of the club
+title: "Speed Cubing"   #Write name of the club
 draft: false  #NO NEED TO CHANGE
 language: en  #NO NEED TO CHANGE
 
@@ -15,7 +15,7 @@ featured_image: "../assets/images/featured/speedcubing.webp"  #NO NEED TO CHANGE
 # Change below summary
 summary: a vibrant community of puzzle enthusiasts dedicated to the art and science of solving twisty puzzles like the Rubik’s Cube. We are one of the dynamic clubs under the Science and Technology (SnT) Council of the Students' Gymkhana, fostering curiosity, logic, and hands-on learning.
 
-categories: hobbygroup   #NO NEED TO CHANGE
+categories: hobby-groups   #NO NEED TO CHANGE
 layout: "clubs_page"    #NO NEED TO CHANGE
 
 cordies:

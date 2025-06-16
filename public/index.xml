@@ -6,7 +6,7 @@
     <description>Recent content on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 May 2025 14:53:50 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 23:45:41 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Content Overview</title>
@@ -282,7 +282,7 @@
       <description>The Robotics Club at IIT Kanpur, part of the Science and Technology Council, is a diverse group of students passionate about robotics. They work on projects that involve designing, building, and programming robots for academic research, competitions, and personal interest. The club covers various technical aspects of robotics, including mechanical design, electronics, and coding. They provide workshops, tutorials, and one-on-one mentorship, offering access to tools, components, and a workspace. Whether you&amp;rsquo;re a beginner or experienced, the club supports your journey into the technical world of robotics, helping you create robots like R2D2, Transformers, or WALL-E.</description>
     </item>
     <item>
-      <title>SciMathsSoc</title>
+      <title>SciMathSoc</title>
       <link>//localhost:1313/societies/scimathsoc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/societies/scimathsoc/</guid>
@@ -296,10 +296,10 @@
       <description>The ever-growing demand for secure data transmission necessitates robust encryption protocols across various communication channels. Ethernet, being the backbone of modern networks, is no exception. This project proposes an implementation of an Ethernet encryption system using the Advanced Encryption Standard (AES) protocol on a Cora Z7 Field-Programmable Gate Array(FPGA).*By implementing AES on the Cora Z7 FPGA, this project aims to achieve significant performance improvements compared to software-based encryption solutions. The inherent parallelism of the FPGA architecture allows for efficientexecution of the AES algorithm, resulting in faster encryption/decryption times and improved overall network throughput.</description>
     </item>
     <item>
-      <title>Speedcubing</title>
-      <link>//localhost:1313/hobbygroup/speedcubing/</link>
+      <title>Speed Cubing</title>
+      <link>//localhost:1313/hobby-groups/speedcubing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/hobbygroup/speedcubing/</guid>
+      <guid>//localhost:1313/hobby-groups/speedcubing/</guid>
       <description>a vibrant community of puzzle enthusiasts dedicated to the art and science of solving twisty puzzles like the Rubik’s Cube. We are one of the dynamic clubs under the Science and Technology (SnT) Council of the Students&amp;rsquo; Gymkhana, fostering curiosity, logic, and hands-on learning.</description>
     </item>
     <item>

@@ -2,7 +2,7 @@
 # This is the template of md file to render your club data on snt website. The below example is of Aeromodelling Club, please modify the data according to your clunb.
 # Also rename the file as ClubName.md, example: AeromodellingClub.md
 
-title: "SciMathsSoc"   #Write name of the club
+title: "SciMathSoc"   #Write name of the club
 draft: false  #NO NEED TO CHANGE
 language: en  #NO NEED TO CHANGE
 

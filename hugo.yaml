@@ -155,10 +155,10 @@ menu:
       name: Teams
       url: /categories/teams/
       weight: 30
-    # - identifier: outreach
-    #   name: Outreach
-    #   url: /categories/outreach/
-    #   weight: 40
+    - identifier: hobby-groups
+      name: Hobby Groups
+      url: /categories/hobby-groups/
+      weight: 40
     - identifier: Council Coordinators
       name: Council Coordinators
       url: /categories/council-coordinators/
