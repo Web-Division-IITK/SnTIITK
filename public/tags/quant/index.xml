@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>QUANT on Science And Technology Council</title>
-    <link>//localhost:1313/tags/quant/</link>
+    <link>/tags/quant/</link>
     <description>Recent content in QUANT on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/quant/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/quant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>QuantWeb</title>
-      <link>//localhost:1313/summer-projects/quantweb/</link>
+      <link>/summer-projects/quantweb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/quantweb/</guid>
+      <guid>/summer-projects/quantweb/</guid>
       <description>The project aimed to develop a full fledged backtesting engine with multiple risk management measures to ease out the process of backtesting. The QuantWeb backtesting engine also allowed the user to create his/her own strategy using the create your own strategy method. This was achieved with the help of Django.</description>
     </item>
   </channel>

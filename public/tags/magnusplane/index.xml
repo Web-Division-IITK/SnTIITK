@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MagnusPlane on Science And Technology Council</title>
-    <link>//localhost:1313/tags/magnusplane/</link>
+    <link>/tags/magnusplane/</link>
     <description>Recent content in MagnusPlane on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/magnusplane/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/magnusplane/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Magnus Plane</title>
-      <link>//localhost:1313/summer-projects/magnus_plane---harshita-chaudhary/</link>
+      <link>/summer-projects/magnus_plane---harshita-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/magnus_plane---harshita-chaudhary/</guid>
+      <guid>/summer-projects/magnus_plane---harshita-chaudhary/</guid>
       <description>The Magnus Plane uses rotating cylinders to generate lift through the Magnus effect instead of traditional wings. The plane features four cylinders, each 45 cm in length, driven by 1400kv thrusters. It has a total weight of 1.8 kg and a dimension of 100 cm x 100 cm. The design enables short takeoffs, landings, and efficient low-speed flight. Theoretical calculations predict a lift force of 2.97 kg under optimal conditions.</description>
     </item>
   </channel>

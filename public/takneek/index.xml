@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Takneeks on Science And Technology Council</title>
-    <link>//localhost:1313/takneek/</link>
+    <link>/takneek/</link>
     <description>Recent content in Takneeks on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Aug 2024 01:10:53 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/takneek/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/takneek/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Us</title>
-      <link>//localhost:1313/takneek/takneek-post-1/</link>
+      <link>/takneek/takneek-post-1/</link>
       <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/takneek/takneek-post-1/</guid>
+      <guid>/takneek/takneek-post-1/</guid>
       <description>Discover the world of technology where you can innovate, learn, and create. Join us to explore new ideas, develop cutting-edge solutions, and advance your skills in a dynamic environment. Be part of the next breakthrough in technology—start your journey with us today!&#xA;What is the council about? Inspired by the principle that “Imagination is more important than knowledge,” the Science and Technology Council encourages individuals to transcend conventional limits. We provide a supportive platform where imagination can thrive and talents can be showcased.</description>
     </item>
   </channel>

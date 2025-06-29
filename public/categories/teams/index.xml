@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on Science And Technology Council</title>
-    <link>//localhost:1313/categories/teams/</link>
+    <link>/categories/teams/</link>
     <description>Recent content in Teams on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Jun 2025 23:45:41 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/teams/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/teams/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Aerial</title>
-      <link>//localhost:1313/teams/aerial/</link>
+      <title>Aerial Robotics</title>
+      <link>/teams/aerial/</link>
       <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/teams/aerial/</guid>
+      <guid>/teams/aerial/</guid>
       <description>Our aim is to advance aerial autonomy by building autonomous UAVs. We are focused on developing open-source UAV solutions for real-world challenges. Since our start in 2017 we have represented IIT Kanpur at top competitions, including a global top-10 finish at IMAV 2019 and five consecutive podiums at the Inter IIT Tech Meet. Most recently, the team participated in ICUAS, securing the 3rd place globally.</description>
     </item>
     <item>
       <title>AUV</title>
-      <link>//localhost:1313/teams/teams-post-6/</link>
+      <link>/teams/teams-post-6/</link>
       <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/teams/teams-post-6/</guid>
+      <guid>/teams/teams-post-6/</guid>
       <description>Concern for man and his fate must always form the chief interest of all technical endeavors. Never forget this in the midst of your diagrams and equations. - Einstein One of the most eminent teams of IITK, Team AUV aims at developing an autonomous underwater vehicle capable of performing a set of tasks underwater from marker dropping, buoy detection to torpedo firing to surveillance.</description>
     </item>
     <item>
       <title>Equipe de Robotique Autonome</title>
-      <link>//localhost:1313/teams/teams-post-5/</link>
+      <link>/teams/teams-post-5/</link>
       <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/teams/teams-post-5/</guid>
+      <guid>/teams/teams-post-5/</guid>
       <description>We are a team of undergraduates actively working with faculty and are dedicated to developing solutions to challenges in autonomous robotics and related domains. We develop cutting-edge robots aided by research and represent our university and nation in international competitions that see participants from prestigious colleges worldwide.</description>
     </item>
     <item>
       <title>IITK Motorsports</title>
-      <link>//localhost:1313/teams/teams-post-3/</link>
+      <link>/teams/teams-post-3/</link>
       <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/teams/teams-post-3/</guid>
+      <guid>/teams/teams-post-3/</guid>
       <description>IITK Motorsports has a vision - “Design &amp;amp; Build a Race Car”. We have four divisions, formula style racing car, all terrain vehicles, electric vehicles, efficient vehicles, with the last two being formed for the very first time this year. The first formula racing car we built, participated and performed decently in Formula Student Italy in September 2013.</description>
     </item>
     <item>
       <title>IITK RaSET</title>
-      <link>//localhost:1313/teams/teams-post-1/</link>
+      <link>/teams/teams-post-1/</link>
       <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/teams/teams-post-1/</guid>
+      <guid>/teams/teams-post-1/</guid>
       <description>Our aim is to ignite the passion for space tech among the students by building next generation sounding rockets. We are pioneering the students in rocket engineering with the goal of launching a student-built rocket into space.</description>
     </item>
     <item>
       <title>Team Humanoid</title>
-      <link>//localhost:1313/teams/teams-post-4/</link>
+      <link>/teams/teams-post-4/</link>
       <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/teams/teams-post-4/</guid>
+      <guid>/teams/teams-post-4/</guid>
       <description>When we think of robots, the first thing that we imagine is a picture of “C3PO” or “Chitti”, both exemplar symbols of the pop culture and more importantly, astonishingly awesome Humanoids! We at Team Humanoid are a group of enthusiastic students who are working towards developing a fully functional Humanoid robot of our own.</description>
     </item>
   </channel>

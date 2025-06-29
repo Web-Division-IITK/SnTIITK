@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3D on Science And Technology Council</title>
-    <link>//localhost:1313/tags/3d/</link>
+    <link>/tags/3d/</link>
     <description>Recent content in 3D on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/3d/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CREATING VIRTUAL REALITY  WORLD  USING  BLENDER</title>
-      <link>//localhost:1313/summer-projects/descon_creating_virtual_reality_world_using_blender---kd-gone-crazy/</link>
+      <link>/summer-projects/descon_creating_virtual_reality_world_using_blender---kd-gone-crazy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/descon_creating_virtual_reality_world_using_blender---kd-gone-crazy/</guid>
+      <guid>/summer-projects/descon_creating_virtual_reality_world_using_blender---kd-gone-crazy/</guid>
       <description>The primary objective of this project is to create a 3D virtual environment using an open source software Blender. The main motive is to make one comfortable in using the blender to create various projects and get known to its various applications.</description>
     </item>
   </channel>

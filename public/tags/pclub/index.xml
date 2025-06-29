@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pclub on Science And Technology Council</title>
-    <link>//localhost:1313/tags/pclub/</link>
+    <link>/tags/pclub/</link>
     <description>Recent content in Pclub on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/pclub/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/pclub/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Capture The Flag</title>
-      <link>//localhost:1313/summer-projects/programmingclub_capturetheflag---ritvik-goyal/</link>
+      <link>/summer-projects/programmingclub_capturetheflag---ritvik-goyal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/programmingclub_capturetheflag---ritvik-goyal/</guid>
+      <guid>/summer-projects/programmingclub_capturetheflag---ritvik-goyal/</guid>
       <description>In this project, we participated in various Capture The Flag (CTF) competitions, focusing primarily on binary exploitation challenges. Through hands-on experience in these contests, we developed skills in identifying and exploiting vulnerabilities in binaries. These challenges ranged from buffer overflows to format string attacks, requiring a deep understanding of system internals, memory management, and reverse engineering techniques. By solving numerous challenges, we gained valuable knowledge in binary exploitation, enhancing our proficiency in security analysis and vulnerability research.</description>
     </item>
     <item>
       <title>Mastering Web3.0</title>
-      <link>//localhost:1313/summer-projects/mastering_web3.0/</link>
+      <link>/summer-projects/mastering_web3.0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/mastering_web3.0/</guid>
+      <guid>/summer-projects/mastering_web3.0/</guid>
       <description>The project aimed at introducing Web3 to the campus junta along with developing a Web3 ecosystem at IIT Kanpur. The tasks assigned to the mentees covered the basics of blockchains, such as hashing, cryptography, and mining, along with development on Ethereum. The tasks were set in Solidity, a programming language meant to write smart contracts that can be deployed on the Ethereum blockchain.</description>
     </item>
   </channel>

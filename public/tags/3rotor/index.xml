@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3Rotor on Science And Technology Council</title>
-    <link>//localhost:1313/tags/3rotor/</link>
+    <link>/tags/3rotor/</link>
     <description>Recent content in 3Rotor on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/3rotor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/3rotor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tricopter</title>
-      <link>//localhost:1313/summer-projects/tricpoter---harshita-chaudhary/</link>
+      <link>/summer-projects/tricpoter---harshita-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/tricpoter---harshita-chaudhary/</guid>
+      <guid>/summer-projects/tricpoter---harshita-chaudhary/</guid>
       <description>A tricopter is a three-rotor unmanned aerial vehicle. It consists of a lightweight frame, brushless motors, ESCs, a flight controller, a battery, and servos. Used primarily for educational purposes, such as learning aerodynamics and electronics, it also serves in surveillance and recreational flying. Key components include a frame, propeller, tail rotor, and power distribution board. The ground control is managed by Mission Planner, with Ardupilot as the firmware.</description>
     </item>
   </channel>

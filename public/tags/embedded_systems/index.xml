@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Embedded_systems on Science And Technology Council</title>
-    <link>//localhost:1313/tags/embedded_systems/</link>
+    <link>/tags/embedded_systems/</link>
     <description>Recent content in Embedded_systems on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/embedded_systems/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/embedded_systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Securing FPGA with Ethernet based Encryption</title>
-      <link>//localhost:1313/summer-projects/eclub_fpga_bases_encryption---rohit-verma/</link>
+      <link>/summer-projects/eclub_fpga_bases_encryption---rohit-verma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/eclub_fpga_bases_encryption---rohit-verma/</guid>
+      <guid>/summer-projects/eclub_fpga_bases_encryption---rohit-verma/</guid>
       <description>The ever-growing demand for secure data transmission necessitates robust encryption protocols across various communication channels. Ethernet, being the backbone of modern networks, is no exception. This project proposes an implementation of an Ethernet encryption system using the Advanced Encryption Standard (AES) protocol on a Cora Z7 Field-Programmable Gate Array(FPGA).*By implementing AES on the Cora Z7 FPGA, this project aims to achieve significant performance improvements compared to software-based encryption solutions. The inherent parallelism of the FPGA architecture allows for efficientexecution of the AES algorithm, resulting in faster encryption/decryption times and improved overall network throughput.</description>
     </item>
   </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IoT Communication on Science And Technology Council</title>
-    <link>//localhost:1313/tags/iot-communication/</link>
+    <link>/tags/iot-communication/</link>
     <description>Recent content in IoT Communication on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/iot-communication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/iot-communication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AR Gesture Controlled Car</title>
-      <link>//localhost:1313/summer-projects/electronicsclub_argesturecontrolledcar---devansh-bansal/</link>
+      <link>/summer-projects/electronicsclub_argesturecontrolledcar---devansh-bansal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/electronicsclub_argesturecontrolledcar---devansh-bansal/</guid>
+      <guid>/summer-projects/electronicsclub_argesturecontrolledcar---devansh-bansal/</guid>
       <description>The integration of gesture control with IoT and augmented reality (AR) offers exciting prospects in the field of robotics and smart vehicles. Our project focuses on developing a gesture-controlled car that leverages camera modules and IoT to provide real-time video feed and overlay AR objects, transforming any regular floor into a dynamic race track.</description>
     </item>
   </channel>

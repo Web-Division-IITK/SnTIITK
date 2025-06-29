@@ -2,506 +2,506 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Science And Technology Council</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D</title>
-      <link>//localhost:1313/tags/3d/</link>
+      <link>/tags/3d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/3d/</guid>
+      <guid>/tags/3d/</guid>
       <description></description>
     </item>
     <item>
       <title>3Rotor</title>
-      <link>//localhost:1313/tags/3rotor/</link>
+      <link>/tags/3rotor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/3rotor/</guid>
+      <guid>/tags/3rotor/</guid>
       <description></description>
     </item>
     <item>
       <title>AcrobaticPlane</title>
-      <link>//localhost:1313/tags/acrobaticplane/</link>
+      <link>/tags/acrobaticplane/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/acrobaticplane/</guid>
+      <guid>/tags/acrobaticplane/</guid>
       <description></description>
     </item>
     <item>
       <title>Acrobatics</title>
-      <link>//localhost:1313/tags/acrobatics/</link>
+      <link>/tags/acrobatics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/acrobatics/</guid>
+      <guid>/tags/acrobatics/</guid>
       <description></description>
     </item>
     <item>
       <title>Aeromodelling Club</title>
-      <link>//localhost:1313/tags/aeromodelling-club/</link>
+      <link>/tags/aeromodelling-club/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/aeromodelling-club/</guid>
+      <guid>/tags/aeromodelling-club/</guid>
       <description></description>
     </item>
     <item>
       <title>AeromodellingClub</title>
-      <link>//localhost:1313/tags/aeromodellingclub/</link>
+      <link>/tags/aeromodellingclub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/aeromodellingclub/</guid>
+      <guid>/tags/aeromodellingclub/</guid>
       <description></description>
     </item>
     <item>
       <title>Aeronautics</title>
-      <link>//localhost:1313/tags/aeronautics/</link>
+      <link>/tags/aeronautics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/aeronautics/</guid>
+      <guid>/tags/aeronautics/</guid>
       <description></description>
     </item>
     <item>
       <title>Animation</title>
-      <link>//localhost:1313/tags/animation/</link>
+      <link>/tags/animation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/animation/</guid>
+      <guid>/tags/animation/</guid>
       <description></description>
     </item>
     <item>
       <title>Astronomy</title>
-      <link>//localhost:1313/tags/astronomy/</link>
+      <link>/tags/astronomy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/astronomy/</guid>
+      <guid>/tags/astronomy/</guid>
       <description></description>
     </item>
     <item>
       <title>Astronomy Club</title>
-      <link>//localhost:1313/tags/astronomy-club/</link>
+      <link>/tags/astronomy-club/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/astronomy-club/</guid>
+      <guid>/tags/astronomy-club/</guid>
       <description></description>
     </item>
     <item>
       <title>Augmented Reality</title>
-      <link>//localhost:1313/tags/augmented-reality/</link>
+      <link>/tags/augmented-reality/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/augmented-reality/</guid>
+      <guid>/tags/augmented-reality/</guid>
       <description></description>
     </item>
     <item>
       <title>Blended Wing Design</title>
-      <link>//localhost:1313/tags/blended-wing-design/</link>
+      <link>/tags/blended-wing-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/blended-wing-design/</guid>
+      <guid>/tags/blended-wing-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Cipher</title>
-      <link>//localhost:1313/tags/cipher/</link>
+      <link>/tags/cipher/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/cipher/</guid>
+      <guid>/tags/cipher/</guid>
       <description></description>
     </item>
     <item>
       <title>Classification Algorithms</title>
-      <link>//localhost:1313/tags/classification-algorithms/</link>
+      <link>/tags/classification-algorithms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/classification-algorithms/</guid>
+      <guid>/tags/classification-algorithms/</guid>
       <description></description>
     </item>
     <item>
       <title>Computer Vision</title>
-      <link>//localhost:1313/tags/computer-vision/</link>
+      <link>/tags/computer-vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/computer-vision/</guid>
+      <guid>/tags/computer-vision/</guid>
       <description></description>
     </item>
     <item>
       <title>Constellations</title>
-      <link>//localhost:1313/tags/constellations/</link>
+      <link>/tags/constellations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/constellations/</guid>
+      <guid>/tags/constellations/</guid>
       <description></description>
     </item>
     <item>
       <title>Cryptography</title>
-      <link>//localhost:1313/tags/cryptography/</link>
+      <link>/tags/cryptography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/cryptography/</guid>
+      <guid>/tags/cryptography/</guid>
       <description></description>
     </item>
     <item>
       <title>CTF</title>
-      <link>//localhost:1313/tags/ctf/</link>
+      <link>/tags/ctf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/ctf/</guid>
+      <guid>/tags/ctf/</guid>
       <description></description>
     </item>
     <item>
       <title>Descon</title>
-      <link>//localhost:1313/tags/descon/</link>
+      <link>/tags/descon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/descon/</guid>
+      <guid>/tags/descon/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>//localhost:1313/tags/development/</link>
+      <link>/tags/development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/development/</guid>
+      <guid>/tags/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Drone</title>
-      <link>//localhost:1313/tags/drone/</link>
+      <link>/tags/drone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/drone/</guid>
+      <guid>/tags/drone/</guid>
       <description></description>
     </item>
     <item>
       <title>Electronics</title>
-      <link>//localhost:1313/tags/electronics/</link>
+      <link>/tags/electronics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/electronics/</guid>
+      <guid>/tags/electronics/</guid>
       <description></description>
     </item>
     <item>
       <title>Electronics Club</title>
-      <link>//localhost:1313/tags/electronics-club/</link>
+      <link>/tags/electronics-club/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/electronics-club/</guid>
+      <guid>/tags/electronics-club/</guid>
       <description></description>
     </item>
     <item>
       <title>Electronics_club</title>
-      <link>//localhost:1313/tags/electronics_club/</link>
+      <link>/tags/electronics_club/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/electronics_club/</guid>
+      <guid>/tags/electronics_club/</guid>
       <description></description>
     </item>
     <item>
       <title>Elevons</title>
-      <link>//localhost:1313/tags/elevons/</link>
+      <link>/tags/elevons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/elevons/</guid>
+      <guid>/tags/elevons/</guid>
       <description></description>
     </item>
     <item>
       <title>Embedded_systems</title>
-      <link>//localhost:1313/tags/embedded_systems/</link>
+      <link>/tags/embedded_systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/embedded_systems/</guid>
+      <guid>/tags/embedded_systems/</guid>
       <description></description>
     </item>
     <item>
       <title>EMG Control</title>
-      <link>//localhost:1313/tags/emg-control/</link>
+      <link>/tags/emg-control/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/emg-control/</guid>
+      <guid>/tags/emg-control/</guid>
       <description></description>
     </item>
     <item>
       <title>Encryption</title>
-      <link>//localhost:1313/tags/encryption/</link>
+      <link>/tags/encryption/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/encryption/</guid>
+      <guid>/tags/encryption/</guid>
       <description></description>
     </item>
     <item>
       <title>Encryption and Decryption</title>
-      <link>//localhost:1313/tags/encryption-and-decryption/</link>
+      <link>/tags/encryption-and-decryption/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/encryption-and-decryption/</guid>
+      <guid>/tags/encryption-and-decryption/</guid>
       <description></description>
     </item>
     <item>
       <title>Exoplanets</title>
-      <link>//localhost:1313/tags/exoplanets/</link>
+      <link>/tags/exoplanets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/exoplanets/</guid>
+      <guid>/tags/exoplanets/</guid>
       <description></description>
     </item>
     <item>
       <title>FAC</title>
-      <link>//localhost:1313/tags/fac/</link>
+      <link>/tags/fac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/fac/</guid>
+      <guid>/tags/fac/</guid>
       <description></description>
     </item>
     <item>
       <title>Flying</title>
-      <link>//localhost:1313/tags/flying/</link>
+      <link>/tags/flying/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/flying/</guid>
+      <guid>/tags/flying/</guid>
       <description></description>
     </item>
     <item>
       <title>Flying Wings</title>
-      <link>//localhost:1313/tags/flying-wings/</link>
+      <link>/tags/flying-wings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/flying-wings/</guid>
+      <guid>/tags/flying-wings/</guid>
       <description></description>
     </item>
     <item>
       <title>Fpga</title>
-      <link>//localhost:1313/tags/fpga/</link>
+      <link>/tags/fpga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/fpga/</guid>
+      <guid>/tags/fpga/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>//localhost:1313/tags/git/</link>
+      <link>/tags/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/git/</guid>
+      <guid>/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>//localhost:1313/tags/golang/</link>
+      <link>/tags/golang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/golang/</guid>
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Hacking</title>
-      <link>//localhost:1313/tags/hacking/</link>
+      <link>/tags/hacking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/hacking/</guid>
+      <guid>/tags/hacking/</guid>
       <description></description>
     </item>
     <item>
       <title>Hardware</title>
-      <link>//localhost:1313/tags/hardware/</link>
+      <link>/tags/hardware/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/hardware/</guid>
+      <guid>/tags/hardware/</guid>
       <description></description>
     </item>
     <item>
       <title>Image Processing</title>
-      <link>//localhost:1313/tags/image-processing/</link>
+      <link>/tags/image-processing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/image-processing/</guid>
+      <guid>/tags/image-processing/</guid>
       <description></description>
     </item>
     <item>
       <title>Infosec</title>
-      <link>//localhost:1313/tags/infosec/</link>
+      <link>/tags/infosec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/infosec/</guid>
+      <guid>/tags/infosec/</guid>
       <description></description>
     </item>
     <item>
       <title>IoT Communication</title>
-      <link>//localhost:1313/tags/iot-communication/</link>
+      <link>/tags/iot-communication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/iot-communication/</guid>
+      <guid>/tags/iot-communication/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>//localhost:1313/tags/machine-learning/</link>
+      <link>/tags/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/machine-learning/</guid>
+      <guid>/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>MagnusEffect</title>
-      <link>//localhost:1313/tags/magnuseffect/</link>
+      <link>/tags/magnuseffect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/magnuseffect/</guid>
+      <guid>/tags/magnuseffect/</guid>
       <description></description>
     </item>
     <item>
       <title>MagnusPlane</title>
-      <link>//localhost:1313/tags/magnusplane/</link>
+      <link>/tags/magnusplane/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/magnusplane/</guid>
+      <guid>/tags/magnusplane/</guid>
       <description></description>
     </item>
     <item>
       <title>MATLAB</title>
-      <link>//localhost:1313/tags/matlab/</link>
+      <link>/tags/matlab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/matlab/</guid>
+      <guid>/tags/matlab/</guid>
       <description></description>
     </item>
     <item>
       <title>Microcontrollers</title>
-      <link>//localhost:1313/tags/microcontrollers/</link>
+      <link>/tags/microcontrollers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/microcontrollers/</guid>
+      <guid>/tags/microcontrollers/</guid>
       <description></description>
     </item>
     <item>
       <title>PCB_designing</title>
-      <link>//localhost:1313/tags/pcb_designing/</link>
+      <link>/tags/pcb_designing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/pcb_designing/</guid>
+      <guid>/tags/pcb_designing/</guid>
       <description></description>
     </item>
     <item>
       <title>Pclub</title>
-      <link>//localhost:1313/tags/pclub/</link>
+      <link>/tags/pclub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/pclub/</guid>
+      <guid>/tags/pclub/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming Club</title>
-      <link>//localhost:1313/tags/programming-club/</link>
+      <link>/tags/programming-club/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/programming-club/</guid>
+      <guid>/tags/programming-club/</guid>
       <description></description>
     </item>
     <item>
       <title>Project</title>
-      <link>//localhost:1313/tags/project/</link>
+      <link>/tags/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/project/</guid>
+      <guid>/tags/project/</guid>
       <description></description>
     </item>
     <item>
       <title>QUANT</title>
-      <link>//localhost:1313/tags/quant/</link>
+      <link>/tags/quant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/quant/</guid>
+      <guid>/tags/quant/</guid>
       <description></description>
     </item>
     <item>
       <title>Rotatingcylinders</title>
-      <link>//localhost:1313/tags/rotatingcylinders/</link>
+      <link>/tags/rotatingcylinders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/rotatingcylinders/</guid>
+      <guid>/tags/rotatingcylinders/</guid>
       <description></description>
     </item>
     <item>
       <title>Shooting Game</title>
-      <link>//localhost:1313/tags/shooting-game/</link>
+      <link>/tags/shooting-game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/shooting-game/</guid>
+      <guid>/tags/shooting-game/</guid>
       <description></description>
     </item>
     <item>
       <title>Signal Processing</title>
-      <link>//localhost:1313/tags/signal-processing/</link>
+      <link>/tags/signal-processing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/signal-processing/</guid>
+      <guid>/tags/signal-processing/</guid>
       <description></description>
     </item>
     <item>
       <title>SignalProcessing</title>
-      <link>//localhost:1313/tags/signalprocessing/</link>
+      <link>/tags/signalprocessing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/signalprocessing/</guid>
+      <guid>/tags/signalprocessing/</guid>
       <description></description>
     </item>
     <item>
       <title>Stratolaunch</title>
-      <link>//localhost:1313/tags/stratolaunch/</link>
+      <link>/tags/stratolaunch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/stratolaunch/</guid>
+      <guid>/tags/stratolaunch/</guid>
       <description></description>
     </item>
     <item>
       <title>StuntPlane</title>
-      <link>//localhost:1313/tags/stuntplane/</link>
+      <link>/tags/stuntplane/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/stuntplane/</guid>
+      <guid>/tags/stuntplane/</guid>
       <description></description>
     </item>
     <item>
       <title>Summer23</title>
-      <link>//localhost:1313/tags/summer23/</link>
+      <link>/tags/summer23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/summer23/</guid>
+      <guid>/tags/summer23/</guid>
       <description></description>
     </item>
     <item>
       <title>SystemIntegrator</title>
-      <link>//localhost:1313/tags/systemintegrator/</link>
+      <link>/tags/systemintegrator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/systemintegrator/</guid>
+      <guid>/tags/systemintegrator/</guid>
       <description></description>
     </item>
     <item>
       <title>ThrustControl</title>
-      <link>//localhost:1313/tags/thrustcontrol/</link>
+      <link>/tags/thrustcontrol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/thrustcontrol/</guid>
+      <guid>/tags/thrustcontrol/</guid>
       <description></description>
     </item>
     <item>
       <title>ThrustVectoring</title>
-      <link>//localhost:1313/tags/thrustvectoring/</link>
+      <link>/tags/thrustvectoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/thrustvectoring/</guid>
+      <guid>/tags/thrustvectoring/</guid>
       <description></description>
     </item>
     <item>
       <title>TiltRotor</title>
-      <link>//localhost:1313/tags/tiltrotor/</link>
+      <link>/tags/tiltrotor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/tiltrotor/</guid>
+      <guid>/tags/tiltrotor/</guid>
       <description></description>
     </item>
     <item>
       <title>Tricopter</title>
-      <link>//localhost:1313/tags/tricopter/</link>
+      <link>/tags/tricopter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/tricopter/</guid>
+      <guid>/tags/tricopter/</guid>
       <description></description>
     </item>
     <item>
       <title>TwinFuselage</title>
-      <link>//localhost:1313/tags/twinfuselage/</link>
+      <link>/tags/twinfuselage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/twinfuselage/</guid>
+      <guid>/tags/twinfuselage/</guid>
       <description></description>
     </item>
     <item>
       <title>UavIntegrator</title>
-      <link>//localhost:1313/tags/uavintegrator/</link>
+      <link>/tags/uavintegrator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/uavintegrator/</guid>
+      <guid>/tags/uavintegrator/</guid>
       <description></description>
     </item>
     <item>
       <title>Unity</title>
-      <link>//localhost:1313/tags/unity/</link>
+      <link>/tags/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/unity/</guid>
+      <guid>/tags/unity/</guid>
       <description></description>
     </item>
     <item>
       <title>UnmannedAerialVehicle</title>
-      <link>//localhost:1313/tags/unmannedaerialvehicle/</link>
+      <link>/tags/unmannedaerialvehicle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/unmannedaerialvehicle/</guid>
+      <guid>/tags/unmannedaerialvehicle/</guid>
       <description></description>
     </item>
     <item>
       <title>VectorThrust</title>
-      <link>//localhost:1313/tags/vectorthrust/</link>
+      <link>/tags/vectorthrust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/vectorthrust/</guid>
+      <guid>/tags/vectorthrust/</guid>
       <description></description>
     </item>
     <item>
       <title>VR</title>
-      <link>//localhost:1313/tags/vr/</link>
+      <link>/tags/vr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/vr/</guid>
+      <guid>/tags/vr/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Dev</title>
-      <link>//localhost:1313/tags/web-dev/</link>
+      <link>/tags/web-dev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/web-dev/</guid>
+      <guid>/tags/web-dev/</guid>
       <description></description>
     </item>
     <item>
       <title>Web3.0</title>
-      <link>//localhost:1313/tags/web3.0/</link>
+      <link>/tags/web3.0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/web3.0/</guid>
+      <guid>/tags/web3.0/</guid>
       <description></description>
     </item>
   </channel>

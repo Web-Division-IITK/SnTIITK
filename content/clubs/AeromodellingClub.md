@@ -68,7 +68,7 @@ cordies:
     photo: "https://drive.google.com/thumbnail?id=17NMbwhVPTjlqsTcnaNaQasLajzHngDJg&sz=w1000"
     linkedin: "https://www.linkedin.com/in/anshika-agrawal-11b1b82a4/"
     facebook: ""
-    insta: "https://www.instagram.com/pranayc_04/"
+    insta: "https://www.instagram.com/agrawalanshika18?igsh=MWd3N2I2b2IxZ2x2dw=="
   - name: "Karan Gupta"
     photo: "https://drive.google.com/thumbnail?id=1yaj-Cs85leQCNmia8wxJnOPr_MEHf9_J&sz=w1000"
     linkedin: "https://www.linkedin.com/in/karan-gupta-41a21332b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Science And Technology Council</title>
-    <link>//localhost:1313/tags/machine-learning/</link>
+    <link>/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exo-Stellar Nexus</title>
-      <link>//localhost:1313/summer-projects/astronomy-club_exo-stellar-nexus/</link>
+      <link>/summer-projects/astronomy-club_exo-stellar-nexus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/astronomy-club_exo-stellar-nexus/</guid>
+      <guid>/summer-projects/astronomy-club_exo-stellar-nexus/</guid>
       <description>The project aims to cover a wide domain of astronomy and its real world application of ML. Project started from very basic and touched advanced tech aspect for detection of constellations in night sky and detection of habitable exoplanets for future human endeavors through ESI.*Project covered theoretical astronomy, observational astronomy, and application of ML modelling to achieve final goal. Mapping the cosmos for constellation detection and learning contribution to the journey of Interstellar quest for survival by detecting habitable exoplanets served our two main objectives of the project which consecutively acted as path to reach the final goal.&lt;em&gt;Constellation detector model&lt;/em&gt;The first objective of project focused on learning about Constellations and developing ML model telling names of constellation present in any image by blending astronomy with fundamentals of image processing and ML. We worked with northen sky constellations.&lt;em&gt;Earth similarity detector model&lt;/em&gt;Once we have mapped cosmos, we moved on to find our potential homes in fine corners of this cosmos. We learnt about exoplanets, astrophysics and generated ML algorithm to find Earth similarity index of these exoplanets based on transit data and classifying habitable ones from them.</description>
     </item>
   </channel>

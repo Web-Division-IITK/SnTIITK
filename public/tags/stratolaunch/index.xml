@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stratolaunch on Science And Technology Council</title>
-    <link>//localhost:1313/tags/stratolaunch/</link>
+    <link>/tags/stratolaunch/</link>
     <description>Recent content in Stratolaunch on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/stratolaunch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/stratolaunch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stratoluanch</title>
-      <link>//localhost:1313/summer-projects/stratolaunch---harshita-chaudhary/</link>
+      <link>/summer-projects/stratolaunch---harshita-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/stratolaunch---harshita-chaudhary/</guid>
+      <guid>/summer-projects/stratolaunch---harshita-chaudhary/</guid>
       <description>This project recreates a downscale working model of Stratolaunch, the one and only operational twin fuselage aircraft in the world which is mainly used for launching rockets into space from high altitudes. The model boasts a total wingspan of 2 meters and basically features two of everything, ranging from fuselage to elevator to landing gears. The fuselages were symmetrically placed, and the Center of gravity was balanced accordingly. A single elevator connects both tails of the model, and each fuselage has a vertical stabilizer, which are controlled in sync.</description>
     </item>
   </channel>

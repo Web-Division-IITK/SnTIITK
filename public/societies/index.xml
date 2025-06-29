@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Societies on Science And Technology Council</title>
-    <link>//localhost:1313/societies/</link>
+    <link>/societies/</link>
     <description>Recent content in Societies on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 May 2025 11:56:21 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/societies/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jun 2025 02:26:48 +0530</lastBuildDate>
+    <atom:link href="/societies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DesCon Society</title>
-      <link>//localhost:1313/societies/news-post-2/</link>
+      <link>/societies/news-post-2/</link>
       <pubDate>Mon, 18 Apr 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/societies/news-post-2/</guid>
+      <guid>/societies/news-post-2/</guid>
       <description>The Design and Construction group organizes different activities including designing of popsicle bridge, Spaghetti Bridge and other types of bridges. Along with that different structural analysis are performed practically. Students are encouraged to perform activities on their own ideas and use of different softwares for structural analysis. Basics of designing and softwares are taught through lectures and workshops throughout the year.</description>
     </item>
     <item>
       <title>IITK Consulting Group</title>
-      <link>//localhost:1313/societies/icg/</link>
+      <link>/societies/icg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/societies/icg/</guid>
+      <guid>/societies/icg/</guid>
       <description>We are a group of consulting and data science enthusiasts at the IIT Kanpur Consulting Group, established in 2018. Our vision is to harness data science and strategy consulting skills to help organizations extract valuable insights from their data and devise growth strategies for them, ultimately driving positive social impact. By bringing together a talented pool of individuals, we ensure that we provide outstanding solutions to address the pressing societal challenges at hand.</description>
     </item>
     <item>
       <title>SciMathSoc</title>
-      <link>//localhost:1313/societies/scimathsoc/</link>
+      <link>/societies/scimathsoc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/societies/scimathsoc/</guid>
+      <guid>/societies/scimathsoc/</guid>
       <description>Welcome to SciMathSoc – a dynamic, student-driven initiative that unites science and mathematics through thought-provoking discussions, exciting competitions, and hands-on projects.</description>
     </item>
   </channel>

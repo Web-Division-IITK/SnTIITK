@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AeromodellingClub on Science And Technology Council</title>
-    <link>//localhost:1313/tags/aeromodellingclub/</link>
+    <link>/tags/aeromodellingclub/</link>
     <description>Recent content in AeromodellingClub on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/aeromodellingclub/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/aeromodellingclub/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acrobatic Plane</title>
-      <link>//localhost:1313/summer-projects/aero_acrobaticplane/</link>
+      <link>/summer-projects/aero_acrobaticplane/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/aero_acrobaticplane/</guid>
+      <guid>/summer-projects/aero_acrobaticplane/</guid>
       <description>The acrobatic plane, constructed from lightweight balsa wood, offers the capability for complex maneuvers such as loops, inverted flight, and vertical stands. It features a symmetric airfoil with S8035 profile wings, while the elevator and rudder utilize the NACA0012 profile. Laser cutting creates precise shapes for the components. The wings span 1.5 meters with a chord length of 31 cm, divided into two symmetrical sections, each fabricated separately. Ailerons, each 6 cm wide, are cut from the wings. The propulsion system comprises a 580kV Propdrive brushless DC motor, four servos, a 14.8 V 4S 4200 mAh LiPo battery, a 100 Amp electronic speed controller (ESC), and a six-channel receiver.</description>
     </item>
     <item>
       <title>Magnus Plane</title>
-      <link>//localhost:1313/summer-projects/magnus_plane---harshita-chaudhary/</link>
+      <link>/summer-projects/magnus_plane---harshita-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/magnus_plane---harshita-chaudhary/</guid>
+      <guid>/summer-projects/magnus_plane---harshita-chaudhary/</guid>
       <description>The Magnus Plane uses rotating cylinders to generate lift through the Magnus effect instead of traditional wings. The plane features four cylinders, each 45 cm in length, driven by 1400kv thrusters. It has a total weight of 1.8 kg and a dimension of 100 cm x 100 cm. The design enables short takeoffs, landings, and efficient low-speed flight. Theoretical calculations predict a lift force of 2.97 kg under optimal conditions.</description>
     </item>
     <item>
       <title>Stratoluanch</title>
-      <link>//localhost:1313/summer-projects/stratolaunch---harshita-chaudhary/</link>
+      <link>/summer-projects/stratolaunch---harshita-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/stratolaunch---harshita-chaudhary/</guid>
+      <guid>/summer-projects/stratolaunch---harshita-chaudhary/</guid>
       <description>This project recreates a downscale working model of Stratolaunch, the one and only operational twin fuselage aircraft in the world which is mainly used for launching rockets into space from high altitudes. The model boasts a total wingspan of 2 meters and basically features two of everything, ranging from fuselage to elevator to landing gears. The fuselages were symmetrically placed, and the Center of gravity was balanced accordingly. A single elevator connects both tails of the model, and each fuselage has a vertical stabilizer, which are controlled in sync.</description>
     </item>
     <item>
       <title>Thrust Vectoring Jet</title>
-      <link>//localhost:1313/summer-projects/thrust_vectoring---harshita-chaudhary/</link>
+      <link>/summer-projects/thrust_vectoring---harshita-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/thrust_vectoring---harshita-chaudhary/</guid>
+      <guid>/summer-projects/thrust_vectoring---harshita-chaudhary/</guid>
       <description>The Thrust Vectoring project involves creating a scale model inspired by the F-22 jet, focusing on enhancing flight maneuverability through thrust vectoring. Key specifications include a 100 cm wingspan, 145 cm fuselage length, and electronics featuring dual 40-amp ESCs, a Lipo 4S 2200mAh battery, and 4 micro servos. The model is designed to explore innovative aircraft design and improve agility in flight.</description>
     </item>
     <item>
       <title>Tricopter</title>
-      <link>//localhost:1313/summer-projects/tricpoter---harshita-chaudhary/</link>
+      <link>/summer-projects/tricpoter---harshita-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/tricpoter---harshita-chaudhary/</guid>
+      <guid>/summer-projects/tricpoter---harshita-chaudhary/</guid>
       <description>A tricopter is a three-rotor unmanned aerial vehicle. It consists of a lightweight frame, brushless motors, ESCs, a flight controller, a battery, and servos. Used primarily for educational purposes, such as learning aerodynamics and electronics, it also serves in surveillance and recreational flying. Key components include a frame, propeller, tail rotor, and power distribution board. The ground control is managed by Mission Planner, with Ardupilot as the firmware.</description>
     </item>
     <item>
       <title>UAV Integrator</title>
-      <link>//localhost:1313/summer-projects/uav_integrator---harshita-chaudhary/</link>
+      <link>/summer-projects/uav_integrator---harshita-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/uav_integrator---harshita-chaudhary/</guid>
+      <guid>/summer-projects/uav_integrator---harshita-chaudhary/</guid>
       <description>The UAV(Unmanned Aerial Vehicle) Integrator is a versatile and efficient aerial platform, featuring a fuselage of 50x33 cm made from lightweight dapron and a 1.5 m wingspan crafted from polystyrene foam for optimal lift. The 40.5x19 cm elevator and 8.5x22.5x12.5 cm rudder, both made from dapron, ensure precise control and stability. Carbon tubes, 650 mm long and 10 mm thick, connect the wings and elevator, providing robust support. This design balances durability and maneuverability providing a robust and reliable platform suitable for a range of UAV applications</description>
     </item>
   </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unity on Science And Technology Council</title>
-    <link>//localhost:1313/tags/unity/</link>
+    <link>/tags/unity/</link>
     <description>Recent content in Unity on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EMG Controlled Shooting Game</title>
-      <link>//localhost:1313/summer-projects/electronicsclub_emgcontrolledshootinggame---shivang-agarwal/</link>
+      <link>/summer-projects/electronicsclub_emgcontrolledshootinggame---shivang-agarwal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/electronicsclub_emgcontrolledshootinggame---shivang-agarwal/</guid>
+      <guid>/summer-projects/electronicsclub_emgcontrolledshootinggame---shivang-agarwal/</guid>
       <description>The Electromyography (EMG) controlled shooting game is an exciting blend of neurophysiology, gaming technology, and human-computer interaction. By utilizing the electrical signals produced by muscle activity, EMG technology allows players to control game actions through their muscle movements. This innovative approach not only offers a unique and immersive gaming experience but also holds great potential for applications in rehabilitation and assistive technologies.**In our game, EMG sensors detect the subtle electrical signals produced during muscle contractions. These signals are then translated into precise and responsive in-game actions, offering players an unparalleled level of control. The game is developed using Unity, a popular and user-friendly game development platform.**The final outcome of our project is a real-time system that allows users to control a Unity-based shooting game using their muscle activity. The EMG sensors capture muscle signals, which are processed and transmitted by a Python script and TCP server. Unity then retrieves this processed data to control game elements, creating an interactive and immersive gaming experience.</description>
     </item>
   </channel>

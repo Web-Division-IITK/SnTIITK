@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clubs on Science And Technology Council</title>
-    <link>//localhost:1313/clubs/</link>
+    <link>/clubs/</link>
     <description>Recent content in Clubs on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/clubs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/clubs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aeromodelling Club</title>
-      <link>//localhost:1313/clubs/aeromodellingclub/</link>
+      <link>/clubs/aeromodellingclub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/clubs/aeromodellingclub/</guid>
+      <guid>/clubs/aeromodellingclub/</guid>
       <description>Aeromodelling Club, IIT Kanpur has been innovating new concept planes since 2003 and ever since then there was no turning back, with time the projects have improved, new conceptual airplanes have been made here and it has set its own benchmark at the world level (especially at SAE Aero). Summer project provides the first step to students to convert their innovations, their new ideas and their imaginations into reality, a working model. Similar work has been done this year, many new planes have been made and tested effectively..</description>
     </item>
     <item>
       <title>Astronomy Club</title>
-      <link>//localhost:1313/clubs/astronomyclub/</link>
+      <link>/clubs/astronomyclub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/clubs/astronomyclub/</guid>
+      <guid>/clubs/astronomyclub/</guid>
       <description>Founded in 1975, the Astronomy Club at IIT Kanpur has been a hub of cosmic exploration. Our club is open to everyone, with members from diverse academic backgrounds, all you need is a little curiosity about the universe, and we&amp;rsquo;ll help you fall in love with the cosmos.The club offers a wide range of activities for the campus community and provides advanced resources and facilities to those who wants to dive deeper. The Astronomy Club is more than just a place to learn—it&amp;rsquo;s a community where curiosity and science meet to explore the mysteries of the universe.</description>
     </item>
     <item>
       <title>Brain and Cognitive Science Club</title>
-      <link>//localhost:1313/clubs/bcs/</link>
+      <link>/clubs/bcs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/clubs/bcs/</guid>
+      <guid>/clubs/bcs/</guid>
       <description>Throughout the semester, the Brain and Cognitive Science Club  hosts various activities to engage members in the latest developments in the field. These include monthly Journal Club meetings, where students present and discuss recent research, fostering curiosity and knowledge sharing. The club also promotes three types of semester projects mainly replication of previous studies to verify their reproducibility, exploration of new research ideas, and projects aimed at learning for beginners. Additionally, BCS organizes talks and lectures by experts, along with workshops to provide foundational knowledge to newcomers.</description>
     </item>
     <item>
       <title>Electronics Club</title>
-      <link>//localhost:1313/clubs/electronicsclub/</link>
+      <link>/clubs/electronicsclub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/clubs/electronicsclub/</guid>
+      <guid>/clubs/electronicsclub/</guid>
       <description>Electronics Club, is a students’ organisation passionate about electronics and technology, coming together to explore, learn, and innovate. Our club provides a collaborative environment where members can work on exciting projects, enhance their skills, and connect with like-minded individuals. Whether you&amp;rsquo;re a beginner or an experienced enthusiast, you&amp;rsquo;ll find opportunities to engage in hands-on activities, attend workshops, and participate in competitions.</description>
     </item>
     <item>
       <title>Finance and Analytics Club</title>
-      <link>//localhost:1313/clubs/financeandanalytics/</link>
+      <link>/clubs/financeandanalytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/clubs/financeandanalytics/</guid>
+      <guid>/clubs/financeandanalytics/</guid>
       <description>Finace and Analytics Club , IIT Kanpur ever since its formation in 2020 ,has been aiming to prepare IITK for corporate &amp;amp; research-based financial problems grounded in quantitative &amp;amp; visualization methods..</description>
     </item>
     <item>
       <title>Game Development Club</title>
-      <link>//localhost:1313/clubs/gamedev/</link>
+      <link>/clubs/gamedev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/clubs/gamedev/</guid>
+      <guid>/clubs/gamedev/</guid>
       <description>The Game Development Club at IIT Kanpur is a vibrant community of game development enthusiasts. The club actively participates in national and international game jams, encouraging creativity and innovation. It organizes summer and winter projects, along with bootcamps tailored to introduce freshers to the world of game development. Additionally, the club represents IIT Kanpur in the prestigious Inter-IIT Tech Meet, showcasing its members&amp;rsquo; skills and passion for game development. Whether seasoned developers or beginners, members find a supportive environment to learn, create, and collaborate on exciting game development projects.</description>
     </item>
     <item>
       <title>Programming Club</title>
-      <link>//localhost:1313/clubs/programmingclub/</link>
+      <link>/clubs/programmingclub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/clubs/programmingclub/</guid>
+      <guid>/clubs/programmingclub/</guid>
       <description>Programming Club is a community of IITK students who are highly enthusiastic about development, algorithms, security, ML, and all other aspects of programming.</description>
     </item>
     <item>
       <title>Robotics Club</title>
-      <link>//localhost:1313/clubs/roboticsclub/</link>
+      <link>/clubs/roboticsclub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/clubs/roboticsclub/</guid>
+      <guid>/clubs/roboticsclub/</guid>
       <description>The Robotics Club at IIT Kanpur, part of the Science and Technology Council, is a diverse group of students passionate about robotics. They work on projects that involve designing, building, and programming robots for academic research, competitions, and personal interest. The club covers various technical aspects of robotics, including mechanical design, electronics, and coding. They provide workshops, tutorials, and one-on-one mentorship, offering access to tools, components, and a workspace. Whether you&amp;rsquo;re a beginner or experienced, the club supports your journey into the technical world of robotics, helping you create robots like R2D2, Transformers, or WALL-E.</description>
     </item>
   </channel>

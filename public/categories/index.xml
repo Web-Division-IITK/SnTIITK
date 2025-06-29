@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Science And Technology Council</title>
-    <link>//localhost:1313/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jun 2025 23:45:41 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jun 2025 02:26:48 +0530</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inter-IIT</title>
-      <link>//localhost:1313/categories/inter-iit/</link>
+      <link>/categories/inter-iit/</link>
       <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/categories/inter-iit/</guid>
+      <guid>/categories/inter-iit/</guid>
       <description></description>
     </item>
     <item>
       <title>Teams</title>
-      <link>//localhost:1313/categories/teams/</link>
+      <link>/categories/teams/</link>
       <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/categories/teams/</guid>
+      <guid>/categories/teams/</guid>
       <description></description>
     </item>
     <item>
       <title>Societies</title>
-      <link>//localhost:1313/categories/societies/</link>
+      <link>/categories/societies/</link>
       <pubDate>Mon, 18 Apr 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/categories/societies/</guid>
+      <guid>/categories/societies/</guid>
       <description></description>
     </item>
     <item>
       <title>Clubs</title>
-      <link>//localhost:1313/categories/clubs/</link>
+      <link>/categories/clubs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/clubs/</guid>
+      <guid>/categories/clubs/</guid>
       <description></description>
     </item>
     <item>
       <title>Council-Coordinators</title>
-      <link>//localhost:1313/categories/council-coordinators/</link>
+      <link>/categories/council-coordinators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/council-coordinators/</guid>
+      <guid>/categories/council-coordinators/</guid>
       <description></description>
     </item>
     <item>
       <title>Hobby-Groups</title>
-      <link>//localhost:1313/categories/hobby-groups/</link>
+      <link>/categories/hobby-groups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/hobby-groups/</guid>
+      <guid>/categories/hobby-groups/</guid>
       <description></description>
     </item>
     <item>
       <title>Summer-Projects</title>
-      <link>//localhost:1313/categories/summer-projects/</link>
+      <link>/categories/summer-projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/summer-projects/</guid>
+      <guid>/categories/summer-projects/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,142 +2,142 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Summer-Projects on Science And Technology Council</title>
-    <link>//localhost:1313/categories/summer-projects/</link>
+    <link>/categories/summer-projects/</link>
     <description>Recent content in Summer-Projects on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/categories/summer-projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/summer-projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acrobatic Plane</title>
-      <link>//localhost:1313/summer-projects/aero_acrobaticplane/</link>
+      <link>/summer-projects/aero_acrobaticplane/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/aero_acrobaticplane/</guid>
+      <guid>/summer-projects/aero_acrobaticplane/</guid>
       <description>The acrobatic plane, constructed from lightweight balsa wood, offers the capability for complex maneuvers such as loops, inverted flight, and vertical stands. It features a symmetric airfoil with S8035 profile wings, while the elevator and rudder utilize the NACA0012 profile. Laser cutting creates precise shapes for the components. The wings span 1.5 meters with a chord length of 31 cm, divided into two symmetrical sections, each fabricated separately. Ailerons, each 6 cm wide, are cut from the wings. The propulsion system comprises a 580kV Propdrive brushless DC motor, four servos, a 14.8 V 4S 4200 mAh LiPo battery, a 100 Amp electronic speed controller (ESC), and a six-channel receiver.</description>
     </item>
     <item>
       <title>Air Drums</title>
-      <link>//localhost:1313/summer-projects/eclub_airdrums---vaneesha-sathya-kumar/</link>
+      <link>/summer-projects/eclub_airdrums---vaneesha-sathya-kumar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/eclub_airdrums---vaneesha-sathya-kumar/</guid>
+      <guid>/summer-projects/eclub_airdrums---vaneesha-sathya-kumar/</guid>
       <description>We’ve developed an electronic drum kit with an interface consisting of two drumsticks, each equipped with an Inertial Measurement Unit sensor. The traditional drum pads or any striking surface are omitted. When a drumstick downstroke is detected, drum sounds purely synthesized by the pygame will be played. The drum kit features six types of sounds—hi-hat, snare, hi-toms, crash, lo-toms, ride. Fundamentally, the project comprises of these core layers that require integration- fabrication of drumsticks, drumstick motion sensing, master and peripheral device communication via Bluetooth, audio synthesis program and a frontend for the application to allow for user inputs. As extension goals, we plan on allowing some way for users to give inputs for the kick drum, but for now we plan on focusing on the snare drums, cymbals and the tom-tom drums. As a result of this device, we hope to decrease the noise created by an actual drum-kit, increase the portability and completely eliminate the set up time.</description>
     </item>
     <item>
       <title>AR Gesture Controlled Car</title>
-      <link>//localhost:1313/summer-projects/electronicsclub_argesturecontrolledcar---devansh-bansal/</link>
+      <link>/summer-projects/electronicsclub_argesturecontrolledcar---devansh-bansal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/electronicsclub_argesturecontrolledcar---devansh-bansal/</guid>
+      <guid>/summer-projects/electronicsclub_argesturecontrolledcar---devansh-bansal/</guid>
       <description>The integration of gesture control with IoT and augmented reality (AR) offers exciting prospects in the field of robotics and smart vehicles. Our project focuses on developing a gesture-controlled car that leverages camera modules and IoT to provide real-time video feed and overlay AR objects, transforming any regular floor into a dynamic race track.</description>
     </item>
     <item>
       <title>Capture The Flag</title>
-      <link>//localhost:1313/summer-projects/programmingclub_capturetheflag---ritvik-goyal/</link>
+      <link>/summer-projects/programmingclub_capturetheflag---ritvik-goyal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/programmingclub_capturetheflag---ritvik-goyal/</guid>
+      <guid>/summer-projects/programmingclub_capturetheflag---ritvik-goyal/</guid>
       <description>In this project, we participated in various Capture The Flag (CTF) competitions, focusing primarily on binary exploitation challenges. Through hands-on experience in these contests, we developed skills in identifying and exploiting vulnerabilities in binaries. These challenges ranged from buffer overflows to format string attacks, requiring a deep understanding of system internals, memory management, and reverse engineering techniques. By solving numerous challenges, we gained valuable knowledge in binary exploitation, enhancing our proficiency in security analysis and vulnerability research.</description>
     </item>
     <item>
       <title>CREATING VIRTUAL REALITY  WORLD  USING  BLENDER</title>
-      <link>//localhost:1313/summer-projects/descon_creating_virtual_reality_world_using_blender---kd-gone-crazy/</link>
+      <link>/summer-projects/descon_creating_virtual_reality_world_using_blender---kd-gone-crazy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/descon_creating_virtual_reality_world_using_blender---kd-gone-crazy/</guid>
+      <guid>/summer-projects/descon_creating_virtual_reality_world_using_blender---kd-gone-crazy/</guid>
       <description>The primary objective of this project is to create a 3D virtual environment using an open source software Blender. The main motive is to make one comfortable in using the blender to create various projects and get known to its various applications.</description>
     </item>
     <item>
       <title>EMG Controlled Shooting Game</title>
-      <link>//localhost:1313/summer-projects/electronicsclub_emgcontrolledshootinggame---shivang-agarwal/</link>
+      <link>/summer-projects/electronicsclub_emgcontrolledshootinggame---shivang-agarwal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/electronicsclub_emgcontrolledshootinggame---shivang-agarwal/</guid>
+      <guid>/summer-projects/electronicsclub_emgcontrolledshootinggame---shivang-agarwal/</guid>
       <description>The Electromyography (EMG) controlled shooting game is an exciting blend of neurophysiology, gaming technology, and human-computer interaction. By utilizing the electrical signals produced by muscle activity, EMG technology allows players to control game actions through their muscle movements. This innovative approach not only offers a unique and immersive gaming experience but also holds great potential for applications in rehabilitation and assistive technologies.**In our game, EMG sensors detect the subtle electrical signals produced during muscle contractions. These signals are then translated into precise and responsive in-game actions, offering players an unparalleled level of control. The game is developed using Unity, a popular and user-friendly game development platform.**The final outcome of our project is a real-time system that allows users to control a Unity-based shooting game using their muscle activity. The EMG sensors capture muscle signals, which are processed and transmitted by a Python script and TCP server. Unity then retrieves this processed data to control game elements, creating an interactive and immersive gaming experience.</description>
     </item>
     <item>
       <title>Encryption and Decryption using MATLAB</title>
-      <link>//localhost:1313/summer-projects/descon_encryptionanddecryptionusingmatlab---ankit-kumar/</link>
+      <link>/summer-projects/descon_encryptionanddecryptionusingmatlab---ankit-kumar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/descon_encryptionanddecryptionusingmatlab---ankit-kumar/</guid>
+      <guid>/summer-projects/descon_encryptionanddecryptionusingmatlab---ankit-kumar/</guid>
       <description>In this project, our main aim was to implement and create ciphers in MATLAB using both classical and modern techniques. We started with MATLAB basics, progressed through various ciphers and advanced to image and audio encryption.At the end everyone created a unique cipher, blending programming with cryptographic principles</description>
     </item>
     <item>
       <title>Exo-Stellar Nexus</title>
-      <link>//localhost:1313/summer-projects/astronomy-club_exo-stellar-nexus/</link>
+      <link>/summer-projects/astronomy-club_exo-stellar-nexus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/astronomy-club_exo-stellar-nexus/</guid>
+      <guid>/summer-projects/astronomy-club_exo-stellar-nexus/</guid>
       <description>The project aims to cover a wide domain of astronomy and its real world application of ML. Project started from very basic and touched advanced tech aspect for detection of constellations in night sky and detection of habitable exoplanets for future human endeavors through ESI.*Project covered theoretical astronomy, observational astronomy, and application of ML modelling to achieve final goal. Mapping the cosmos for constellation detection and learning contribution to the journey of Interstellar quest for survival by detecting habitable exoplanets served our two main objectives of the project which consecutively acted as path to reach the final goal.&lt;em&gt;Constellation detector model&lt;/em&gt;The first objective of project focused on learning about Constellations and developing ML model telling names of constellation present in any image by blending astronomy with fundamentals of image processing and ML. We worked with northen sky constellations.&lt;em&gt;Earth similarity detector model&lt;/em&gt;Once we have mapped cosmos, we moved on to find our potential homes in fine corners of this cosmos. We learnt about exoplanets, astrophysics and generated ML algorithm to find Earth similarity index of these exoplanets based on transit data and classifying habitable ones from them.</description>
     </item>
     <item>
       <title>Flying Wings</title>
-      <link>//localhost:1313/summer-projects/flying_wing---harshita-chaudhary/</link>
+      <link>/summer-projects/flying_wing---harshita-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/flying_wing---harshita-chaudhary/</guid>
+      <guid>/summer-projects/flying_wing---harshita-chaudhary/</guid>
       <description>The Flying Wing project focuses on an aircraft design that eliminates the fuselage and tail, integrating all components into the main wing to reduce drag and enhance aerodynamic efficiency. Key specifications include a 120 cm wingspan with an MH60 airfoil, a 2600kV motor, a 2200mAh LiPo battery, and 40Amp ESC. The model is built using biofoam and features a propeller and T-spar for structural support. This design aims to explore innovative aerodynamics for improved flight performance.</description>
     </item>
     <item>
       <title>HOT WHEELS &amp; 3D GAME WITH FUSION 360 </title>
-      <link>//localhost:1313/summer-projects/descon-society_hotwheels3dgamewithfusion360/</link>
+      <link>/summer-projects/descon-society_hotwheels3dgamewithfusion360/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/descon-society_hotwheels3dgamewithfusion360/</guid>
+      <guid>/summer-projects/descon-society_hotwheels3dgamewithfusion360/</guid>
       <description>This project invites participants to explore the world of 3-D car modeling by using Autodesk Fusion 360. The experience begins with hands-on design work in Fusion 360, where creativity meets technical skill in crafting sleek car models. These digital designs are then brought to life through 3D printing. The initiative aims to build proficiency in Fusion 360 by guiding participants through structured design projects, culminating in the tangible creation of their car models.</description>
     </item>
     <item>
       <title>Magnus Plane</title>
-      <link>//localhost:1313/summer-projects/magnus_plane---harshita-chaudhary/</link>
+      <link>/summer-projects/magnus_plane---harshita-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/magnus_plane---harshita-chaudhary/</guid>
+      <guid>/summer-projects/magnus_plane---harshita-chaudhary/</guid>
       <description>The Magnus Plane uses rotating cylinders to generate lift through the Magnus effect instead of traditional wings. The plane features four cylinders, each 45 cm in length, driven by 1400kv thrusters. It has a total weight of 1.8 kg and a dimension of 100 cm x 100 cm. The design enables short takeoffs, landings, and efficient low-speed flight. Theoretical calculations predict a lift force of 2.97 kg under optimal conditions.</description>
     </item>
     <item>
       <title>Mastering Web3.0</title>
-      <link>//localhost:1313/summer-projects/mastering_web3.0/</link>
+      <link>/summer-projects/mastering_web3.0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/mastering_web3.0/</guid>
+      <guid>/summer-projects/mastering_web3.0/</guid>
       <description>The project aimed at introducing Web3 to the campus junta along with developing a Web3 ecosystem at IIT Kanpur. The tasks assigned to the mentees covered the basics of blockchains, such as hashing, cryptography, and mining, along with development on Ethereum. The tasks were set in Solidity, a programming language meant to write smart contracts that can be deployed on the Ethereum blockchain.</description>
     </item>
     <item>
       <title>QuantWeb</title>
-      <link>//localhost:1313/summer-projects/quantweb/</link>
+      <link>/summer-projects/quantweb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/quantweb/</guid>
+      <guid>/summer-projects/quantweb/</guid>
       <description>The project aimed to develop a full fledged backtesting engine with multiple risk management measures to ease out the process of backtesting. The QuantWeb backtesting engine also allowed the user to create his/her own strategy using the create your own strategy method. This was achieved with the help of Django.</description>
     </item>
     <item>
       <title>Securing FPGA with Ethernet based Encryption</title>
-      <link>//localhost:1313/summer-projects/eclub_fpga_bases_encryption---rohit-verma/</link>
+      <link>/summer-projects/eclub_fpga_bases_encryption---rohit-verma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/eclub_fpga_bases_encryption---rohit-verma/</guid>
+      <guid>/summer-projects/eclub_fpga_bases_encryption---rohit-verma/</guid>
       <description>The ever-growing demand for secure data transmission necessitates robust encryption protocols across various communication channels. Ethernet, being the backbone of modern networks, is no exception. This project proposes an implementation of an Ethernet encryption system using the Advanced Encryption Standard (AES) protocol on a Cora Z7 Field-Programmable Gate Array(FPGA).*By implementing AES on the Cora Z7 FPGA, this project aims to achieve significant performance improvements compared to software-based encryption solutions. The inherent parallelism of the FPGA architecture allows for efficientexecution of the AES algorithm, resulting in faster encryption/decryption times and improved overall network throughput.</description>
     </item>
     <item>
       <title>Stratoluanch</title>
-      <link>//localhost:1313/summer-projects/stratolaunch---harshita-chaudhary/</link>
+      <link>/summer-projects/stratolaunch---harshita-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/stratolaunch---harshita-chaudhary/</guid>
+      <guid>/summer-projects/stratolaunch---harshita-chaudhary/</guid>
       <description>This project recreates a downscale working model of Stratolaunch, the one and only operational twin fuselage aircraft in the world which is mainly used for launching rockets into space from high altitudes. The model boasts a total wingspan of 2 meters and basically features two of everything, ranging from fuselage to elevator to landing gears. The fuselages were symmetrically placed, and the Center of gravity was balanced accordingly. A single elevator connects both tails of the model, and each fuselage has a vertical stabilizer, which are controlled in sync.</description>
     </item>
     <item>
       <title>Thrust Vectoring Jet</title>
-      <link>//localhost:1313/summer-projects/thrust_vectoring---harshita-chaudhary/</link>
+      <link>/summer-projects/thrust_vectoring---harshita-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/thrust_vectoring---harshita-chaudhary/</guid>
+      <guid>/summer-projects/thrust_vectoring---harshita-chaudhary/</guid>
       <description>The Thrust Vectoring project involves creating a scale model inspired by the F-22 jet, focusing on enhancing flight maneuverability through thrust vectoring. Key specifications include a 100 cm wingspan, 145 cm fuselage length, and electronics featuring dual 40-amp ESCs, a Lipo 4S 2200mAh battery, and 4 micro servos. The model is designed to explore innovative aircraft design and improve agility in flight.</description>
     </item>
     <item>
       <title>Tricopter</title>
-      <link>//localhost:1313/summer-projects/tricpoter---harshita-chaudhary/</link>
+      <link>/summer-projects/tricpoter---harshita-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/tricpoter---harshita-chaudhary/</guid>
+      <guid>/summer-projects/tricpoter---harshita-chaudhary/</guid>
       <description>A tricopter is a three-rotor unmanned aerial vehicle. It consists of a lightweight frame, brushless motors, ESCs, a flight controller, a battery, and servos. Used primarily for educational purposes, such as learning aerodynamics and electronics, it also serves in surveillance and recreational flying. Key components include a frame, propeller, tail rotor, and power distribution board. The ground control is managed by Mission Planner, with Ardupilot as the firmware.</description>
     </item>
     <item>
       <title>UAV Integrator</title>
-      <link>//localhost:1313/summer-projects/uav_integrator---harshita-chaudhary/</link>
+      <link>/summer-projects/uav_integrator---harshita-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/uav_integrator---harshita-chaudhary/</guid>
+      <guid>/summer-projects/uav_integrator---harshita-chaudhary/</guid>
       <description>The UAV(Unmanned Aerial Vehicle) Integrator is a versatile and efficient aerial platform, featuring a fuselage of 50x33 cm made from lightweight dapron and a 1.5 m wingspan crafted from polystyrene foam for optimal lift. The 40.5x19 cm elevator and 8.5x22.5x12.5 cm rudder, both made from dapron, ensure precise control and stability. Carbon tubes, 650 mm long and 10 mm thick, connect the wings and elevator, providing robust support. This design balances durability and maneuverability providing a robust and reliable platform suitable for a range of UAV applications</description>
     </item>
     <item>
       <title>Version Control System</title>
-      <link>//localhost:1313/summer-projects/pclub_vcs---yash-pratap-singh/</link>
+      <link>/summer-projects/pclub_vcs---yash-pratap-singh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/pclub_vcs---yash-pratap-singh/</guid>
+      <guid>/summer-projects/pclub_vcs---yash-pratap-singh/</guid>
       <description>The project covered foundational concepts of version control, providing a solid understanding of Git and its inner workings. It explored Git objects, HEAD, branching, merging, and commands such as git diff, git status, git log, git add, git commit, git branch, git merge, git remote, git fetch, and git push. The internal workings of these commands were studied, and a custom version control system was implemented in Go, incorporating these commands to enhance understanding of development and project structuring.</description>
     </item>
   </channel>

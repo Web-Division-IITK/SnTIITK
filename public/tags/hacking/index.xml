@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hacking on Science And Technology Council</title>
-    <link>//localhost:1313/tags/hacking/</link>
+    <link>/tags/hacking/</link>
     <description>Recent content in Hacking on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Capture The Flag</title>
-      <link>//localhost:1313/summer-projects/programmingclub_capturetheflag---ritvik-goyal/</link>
+      <link>/summer-projects/programmingclub_capturetheflag---ritvik-goyal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/programmingclub_capturetheflag---ritvik-goyal/</guid>
+      <guid>/summer-projects/programmingclub_capturetheflag---ritvik-goyal/</guid>
       <description>In this project, we participated in various Capture The Flag (CTF) competitions, focusing primarily on binary exploitation challenges. Through hands-on experience in these contests, we developed skills in identifying and exploiting vulnerabilities in binaries. These challenges ranged from buffer overflows to format string attacks, requiring a deep understanding of system internals, memory management, and reverse engineering techniques. By solving numerous challenges, we gained valuable knowledge in binary exploitation, enhancing our proficiency in security analysis and vulnerability research.</description>
     </item>
   </channel>

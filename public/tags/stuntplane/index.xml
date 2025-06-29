@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>StuntPlane on Science And Technology Council</title>
-    <link>//localhost:1313/tags/stuntplane/</link>
+    <link>/tags/stuntplane/</link>
     <description>Recent content in StuntPlane on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/stuntplane/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/stuntplane/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acrobatic Plane</title>
-      <link>//localhost:1313/summer-projects/aero_acrobaticplane/</link>
+      <link>/summer-projects/aero_acrobaticplane/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/aero_acrobaticplane/</guid>
+      <guid>/summer-projects/aero_acrobaticplane/</guid>
       <description>The acrobatic plane, constructed from lightweight balsa wood, offers the capability for complex maneuvers such as loops, inverted flight, and vertical stands. It features a symmetric airfoil with S8035 profile wings, while the elevator and rudder utilize the NACA0012 profile. Laser cutting creates precise shapes for the components. The wings span 1.5 meters with a chord length of 31 cm, divided into two symmetrical sections, each fabricated separately. Ailerons, each 6 cm wide, are cut from the wings. The propulsion system comprises a 580kV Propdrive brushless DC motor, four servos, a 14.8 V 4S 4200 mAh LiPo battery, a 100 Amp electronic speed controller (ESC), and a six-channel receiver.</description>
     </item>
   </channel>

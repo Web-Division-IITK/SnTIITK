@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electronics Club on Science And Technology Council</title>
-    <link>//localhost:1313/tags/electronics-club/</link>
+    <link>/tags/electronics-club/</link>
     <description>Recent content in Electronics Club on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/electronics-club/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/electronics-club/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AR Gesture Controlled Car</title>
-      <link>//localhost:1313/summer-projects/electronicsclub_argesturecontrolledcar---devansh-bansal/</link>
+      <link>/summer-projects/electronicsclub_argesturecontrolledcar---devansh-bansal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/electronicsclub_argesturecontrolledcar---devansh-bansal/</guid>
+      <guid>/summer-projects/electronicsclub_argesturecontrolledcar---devansh-bansal/</guid>
       <description>The integration of gesture control with IoT and augmented reality (AR) offers exciting prospects in the field of robotics and smart vehicles. Our project focuses on developing a gesture-controlled car that leverages camera modules and IoT to provide real-time video feed and overlay AR objects, transforming any regular floor into a dynamic race track.</description>
     </item>
     <item>
       <title>EMG Controlled Shooting Game</title>
-      <link>//localhost:1313/summer-projects/electronicsclub_emgcontrolledshootinggame---shivang-agarwal/</link>
+      <link>/summer-projects/electronicsclub_emgcontrolledshootinggame---shivang-agarwal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/electronicsclub_emgcontrolledshootinggame---shivang-agarwal/</guid>
+      <guid>/summer-projects/electronicsclub_emgcontrolledshootinggame---shivang-agarwal/</guid>
       <description>The Electromyography (EMG) controlled shooting game is an exciting blend of neurophysiology, gaming technology, and human-computer interaction. By utilizing the electrical signals produced by muscle activity, EMG technology allows players to control game actions through their muscle movements. This innovative approach not only offers a unique and immersive gaming experience but also holds great potential for applications in rehabilitation and assistive technologies.**In our game, EMG sensors detect the subtle electrical signals produced during muscle contractions. These signals are then translated into precise and responsive in-game actions, offering players an unparalleled level of control. The game is developed using Unity, a popular and user-friendly game development platform.**The final outcome of our project is a real-time system that allows users to control a Unity-based shooting game using their muscle activity. The EMG sensors capture muscle signals, which are processed and transmitted by a Python script and TCP server. Unity then retrieves this processed data to control game elements, creating an interactive and immersive gaming experience.</description>
     </item>
   </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UnmannedAerialVehicle on Science And Technology Council</title>
-    <link>//localhost:1313/tags/unmannedaerialvehicle/</link>
+    <link>/tags/unmannedaerialvehicle/</link>
     <description>Recent content in UnmannedAerialVehicle on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/unmannedaerialvehicle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/unmannedaerialvehicle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UAV Integrator</title>
-      <link>//localhost:1313/summer-projects/uav_integrator---harshita-chaudhary/</link>
+      <link>/summer-projects/uav_integrator---harshita-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/uav_integrator---harshita-chaudhary/</guid>
+      <guid>/summer-projects/uav_integrator---harshita-chaudhary/</guid>
       <description>The UAV(Unmanned Aerial Vehicle) Integrator is a versatile and efficient aerial platform, featuring a fuselage of 50x33 cm made from lightweight dapron and a 1.5 m wingspan crafted from polystyrene foam for optimal lift. The 40.5x19 cm elevator and 8.5x22.5x12.5 cm rudder, both made from dapron, ensure precise control and stability. Carbon tubes, 650 mm long and 10 mm thick, connect the wings and elevator, providing robust support. This design balances durability and maneuverability providing a robust and reliable platform suitable for a range of UAV applications</description>
     </item>
   </channel>

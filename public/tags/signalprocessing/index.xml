@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SignalProcessing on Science And Technology Council</title>
-    <link>//localhost:1313/tags/signalprocessing/</link>
+    <link>/tags/signalprocessing/</link>
     <description>Recent content in SignalProcessing on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/signalprocessing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/signalprocessing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Air Drums</title>
-      <link>//localhost:1313/summer-projects/eclub_airdrums---vaneesha-sathya-kumar/</link>
+      <link>/summer-projects/eclub_airdrums---vaneesha-sathya-kumar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/eclub_airdrums---vaneesha-sathya-kumar/</guid>
+      <guid>/summer-projects/eclub_airdrums---vaneesha-sathya-kumar/</guid>
       <description>We’ve developed an electronic drum kit with an interface consisting of two drumsticks, each equipped with an Inertial Measurement Unit sensor. The traditional drum pads or any striking surface are omitted. When a drumstick downstroke is detected, drum sounds purely synthesized by the pygame will be played. The drum kit features six types of sounds—hi-hat, snare, hi-toms, crash, lo-toms, ride. Fundamentally, the project comprises of these core layers that require integration- fabrication of drumsticks, drumstick motion sensing, master and peripheral device communication via Bluetooth, audio synthesis program and a frontend for the application to allow for user inputs. As extension goals, we plan on allowing some way for users to give inputs for the kick drum, but for now we plan on focusing on the snare drums, cymbals and the tom-tom drums. As a result of this device, we hope to decrease the noise created by an actual drum-kit, increase the portability and completely eliminate the set up time.</description>
     </item>
   </channel>

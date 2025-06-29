@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elevons on Science And Technology Council</title>
-    <link>//localhost:1313/tags/elevons/</link>
+    <link>/tags/elevons/</link>
     <description>Recent content in Elevons on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/elevons/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/elevons/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flying Wings</title>
-      <link>//localhost:1313/summer-projects/flying_wing---harshita-chaudhary/</link>
+      <link>/summer-projects/flying_wing---harshita-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/summer-projects/flying_wing---harshita-chaudhary/</guid>
+      <guid>/summer-projects/flying_wing---harshita-chaudhary/</guid>
       <description>The Flying Wing project focuses on an aircraft design that eliminates the fuselage and tail, integrating all components into the main wing to reduce drag and enhance aerodynamic efficiency. Key specifications include a 120 cm wingspan with an MH60 airfoil, a 2600kV motor, a 2200mAh LiPo battery, and 40Amp ESC. The model is built using biofoam and features a propeller and T-spar for structural support. This design aims to explore innovative aerodynamics for improved flight performance.</description>
     </item>
   </channel>

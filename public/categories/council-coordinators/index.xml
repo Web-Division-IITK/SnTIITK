@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Council-Coordinators on Science And Technology Council</title>
-    <link>//localhost:1313/categories/council-coordinators/</link>
+    <link>/categories/council-coordinators/</link>
     <description>Recent content in Council-Coordinators on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/categories/council-coordinators/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/council-coordinators/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Council-Coordinators</title>
-      <link>//localhost:1313/council_coordinators/</link>
+      <link>/council_coordinators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/council_coordinators/</guid>
+      <guid>/council_coordinators/</guid>
       <description></description>
     </item>
   </channel>
