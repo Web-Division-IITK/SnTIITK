@@ -41,11 +41,6 @@ cordies:
     linkedin:
     facebook: 
     insta:
-  - name: "Pranjal Gupta"
-    photo:
-    linkedin:
-    facebook: 
-    insta:
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
 
 
