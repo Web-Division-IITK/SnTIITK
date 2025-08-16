@@ -26,6 +26,20 @@ isec:
     linkedin: "https://www.linkedin.com/in/yuval-bansal-01465b212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
     insta: "https://www.instagram.com/yuval_bansal?igsh=MWQwcnVuY2dxOGZhMQ=="
+
+facad:
+  - name: 'Abhilash Patel'
+    position: 'Faculty Advisor, SnT Council 2025-26'
+    photo: '/teams/Abhilash.png'
+    website: 'https://home.iitk.ac.in/~apatel/'
+  - name: 'Amitabha Bandyopadhyay'
+    position: 'Faculty Advisor, Makespace 2025-26'
+    photo: '/teams/Amitabha.jpg'
+    website: 'https://sites.google.com/view/ablab-iitk/home'
+  - name: 'Shubham Sahay'
+    position: 'Faculty Advisor, SnT Council 2024-25'
+    photo: '/teams/Shubham.png'
+    website: 'https://home.iitk.ac.in/~ssahay/people.html'
 ---
 ---
 Discover the world of technology where you can innovate, learn, and create. Join us to explore new ideas, develop cutting-edge solutions, and advance your skills in a dynamic environment. Be part of the next breakthrough in technology—start your journey with us today!
