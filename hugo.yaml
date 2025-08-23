@@ -164,14 +164,18 @@ menu:
       url: /categories/council-coordinators/
       weight: 50
   competitions:
-    - identifier: takneek
-      name: Takneek
-      url: "/tkn/"
+    - identifier: takneek'25
+      name: Takneek'25
+      url: "/tkn2/"
       weight: 20
+    - identifier: takneek'24
+      name: Takneek'24
+      url: "/tkn/"
+      weight: 30
     - identifier: inter-IIT
       name: Inter-IIT
       url: "/categories/inter-IIT/"
-      weight: 30
+      weight: 40
   resources:
     - identifier: summer-projects
       name: Summer Projects
