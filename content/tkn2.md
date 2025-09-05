@@ -116,8 +116,8 @@ on_spot:
     summary: TBD
 
 snt_code:
-  - title: 'TBD'
-    link: ''
+  - title: 'Scavenger Hunt'
+    link: 'https://drive.google.com/file/d/10IJd80zpp_8BwkRPz158kT2C9vpXSDbI/view?usp=drivesdk'
     image: '/takneek_2025/Takneek_2025.jpeg'
     scores:
       Aryans: 0
@@ -125,5 +125,5 @@ snt_code:
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-    summary: TBD
+    summary: 
 ---
