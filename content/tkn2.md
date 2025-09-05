@@ -236,7 +236,26 @@ snt_code:
       Peshwas: 0
       Shauryas: 0
     summary:
-
+  - title: 'Gamedev_51'
+    link: 'https://drive.google.com/file/d/1gfoGfcA6-74QpH187TROf_t7Yst03xr-/view?usp=sharing'
+    image: '/takneek_2025/SnT_Code/gamedev51.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+  - title: 'FAC_42'
+    link: 'https://drive.google.com/file/d/170N3QqZd2gXoNJQ8oyTs2Wbmpowwi2F0/view?usp=sharing'
+    image: '/takneek_2025/SnT_Code/fac42.png'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
 
 
 ---
