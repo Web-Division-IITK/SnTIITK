@@ -226,6 +226,16 @@ snt_code:
       Peshwas: 0
       Shauryas: 0
     summary:
+  - title: 'Pclub_72'
+    link: 'https://drive.google.com/file/d/1xaXmkb6pxInETIKcU1SpWcpBtaaYfiSs/view?usp=sharing'
+    image: '/takneek_2025/SnT_Code/pclub72.png'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
 
 
 
