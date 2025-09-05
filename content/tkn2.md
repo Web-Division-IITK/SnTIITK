@@ -266,6 +266,15 @@ snt_code:
       Peshwas: 0
       Shauryas: 0
     summary:
-
+  - title: 'ICG_62'
+    link: 'https://drive.google.com/file/d/1lxAHiA8EBCYAsX-APyzzsu3lzTaLR3ot/view?usp=sharing'
+    image: '/takneek_2025/SnT_Code/icg62.jpg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
 
 ---
