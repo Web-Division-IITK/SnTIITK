@@ -186,4 +186,36 @@ snt_code:
       Peshwas: 0
       Shauryas: 0
     summary:
+  - title: 'Pclub_73'
+    link: 'https://drive.google.com/file/d/1e3yt0ioT--BooRrLUkVTlxXtVldoSVQi/view?usp=sharing'
+    image: '/takneek_2025/SnT_Code/pclub73.png'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+  - title: 'Astronomy_11'
+    link: 'https://drive.google.com/file/d/1bXGiu4ZV1a2HOiaFr-J7LYKB7fBHwBe2/view?usp=sharing'
+    image: '/takneek_2025/SnT_Code/astro11.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+  - title: 'Robotics_82'
+    link: 'https://drive.google.com/file/d/1-86r8HYqCzmXUjUL2dtAqdp-hxR2_5g1/view?usp=sharing'
+    image: '/takneek_2025/SnT_Code/robotics82.png'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+
 ---
