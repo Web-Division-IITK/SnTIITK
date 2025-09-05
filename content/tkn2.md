@@ -125,5 +125,35 @@ snt_code:
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
+    summary:
+  - title: 'FAC_41'
+    link: 'https://drive.google.com/file/d/1jbDo9Ii_dIttQinKsBnUoUI9BpoGlm28/view?usp=sharing'
+    image: '/takneek_2025/SnT_Code/fac1.png'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:  
+  - title: 'Robotics_81'
+    link: 'https://drive.google.com/file/d/1KH7kcAmY1rMxpWcwBhyHCLEMRFnC7c_G/view?usp=sharing'
+    image: '/takneek_2025/SnT_Code/roboticsps1.png'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+  - title: 'Aeromodelling_01'
+    link: 'https://drive.google.com/file/d/1RnvwxxylVKG_UlyjA5D0gT92MCWFJT3I/view?usp=sharing'
+    image: '/takneek_2025/SnT_Code/aero01.png'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
     summary: 
 ---
