@@ -156,4 +156,34 @@ snt_code:
       Peshwas: 0
       Shauryas: 0
     summary: 
+  - title: 'Pclub_71'
+    link: 'https://drive.google.com/file/d/18FAYCH2Ch8ZEfUKg5DujIFP8onjqIiXo/view?usp=sharing'
+    image: '/takneek_2025/SnT_Code/pclub1.png'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary: 
+  - title: 'ICG_61'
+    link: 'https://drive.google.com/file/d/1ds-mUdEM2ON7jJxSNd5UI9DabFabDKcK/view?usp=sharing'
+    image: '/takneek_2025/SnT_Code/icg61.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+  - title: 'Scimathsoc_92'
+    link: 'https://drive.google.com/file/d/1JUWem_ApAtcRjxa1DoFWAOVysWvKq5pT/view?usp=sharing'
+    image: '/takneek_2025/SnT_Code/scimathsoc92.jpg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
 ---
