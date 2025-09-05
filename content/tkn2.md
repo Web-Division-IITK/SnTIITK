@@ -131,9 +131,9 @@ snt_code:
     image: '/takneek_2025/SnT_Code/fac1.png'
     scores:
       Aryans: 10
-      Nawabs: 35
-      Kshatriyas: 65
-      Peshwas: 100
+      Nawabs: 100
+      Kshatriyas: 35
+      Peshwas: 65
       Shauryas: 20
     summary:  
   - title: 'Robotics_81'
@@ -180,7 +180,7 @@ snt_code:
     link: 'https://drive.google.com/file/d/1JUWem_ApAtcRjxa1DoFWAOVysWvKq5pT/view?usp=sharing'
     image: '/takneek_2025/SnT_Code/scimathsoc92.jpg'
     scores:
-      Aryans: 10
+      Aryans: 100
       Nawabs: 65
       Kshatriyas: 10
       Peshwas: 20
@@ -220,11 +220,11 @@ snt_code:
     link: 'https://drive.google.com/file/d/1egpE35x4uwdz1zYGazd6GQikM35PE8ya/view?usp=sharing'
     image: '/takneek_2025/SnT_Code/scimathsoc91.jpg'
     scores:
-      Aryans: 0
-      Nawabs: 0
-      Kshatriyas: 0
-      Peshwas: 0
-      Shauryas: 0
+      Aryans: 10
+      Nawabs: 35
+      Kshatriyas: 20
+      Peshwas: 100
+      Shauryas: 65
     summary:
   - title: 'Pclub_72'
     link: 'https://drive.google.com/file/d/1xaXmkb6pxInETIKcU1SpWcpBtaaYfiSs/view?usp=sharing'
@@ -279,6 +279,16 @@ snt_code:
   - title: 'Eclub_31'
     link: 'https://drive.google.com/file/d/15NCRPwkLNf7-_G1W7KlwqJnF99d6EZWn/view?usp=sharing'
     image: '/takneek_2025/SnT_Code/eclub31.jpg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+  - title: 'BCS_22'
+    link: 'https://drive.google.com/file/d/1_srFLybU3cUut9sTik9pBHS0mXRFltSV/view?usp=sharing'
+    image: '/takneek_2025/SnT_Code/bcs1.jpg'
     scores:
       Aryans: 0
       Nawabs: 0
