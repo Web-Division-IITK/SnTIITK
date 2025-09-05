@@ -216,6 +216,17 @@ snt_code:
       Peshwas: 0
       Shauryas: 0
     summary:
+  - title: 'Scimathsoc_91'
+    link: 'https://drive.google.com/file/d/1egpE35x4uwdz1zYGazd6GQikM35PE8ya/view?usp=sharing'
+    image: '/takneek_2025/SnT_Code/scimathsoc91.jpg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
 
 
 ---
