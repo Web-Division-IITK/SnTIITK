@@ -253,8 +253,8 @@ snt_code:
       Aryans: 20
       Nawabs: 35
       Kshatriyas: 100
-      Peshwas: 0
-      Shauryas: 65
+      Peshwas: 65
+      Shauryas: 0
     summary:
   - title: 'Astronomy_12'
     link: 'https://drive.google.com/file/d/1m7Y2x6vMdz75FXGvLVISQimyBeBwxVKB/view?usp=sharing'
