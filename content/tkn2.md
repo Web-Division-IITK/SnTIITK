@@ -262,7 +262,7 @@ snt_code:
       Aryans: 20
       Nawabs: 35
       Kshatriyas: 100
-      Peshwas: 65
+      Peshwas: 61.75
       Shauryas: 0
     summary:
   - title: 'Astronomy_12'
@@ -280,18 +280,18 @@ snt_code:
     image: '/takneek_2025/SnT_Code/icg62.jpg'
     scores:
       Aryans: 0
-      Nawabs: 0
-      Kshatriyas: 100
-      Peshwas: 0
-      Shauryas: 0
+      Nawabs: 45
+      Kshatriyas: 90
+      Peshwas: 76.5
+      Shauryas: 63
   - title: 'Pclub_74'
     link: 'https://drive.google.com/file/d/1gS2aadZVPsJMIGAu779tRty3mMu_6eZv/view?usp=sharing'
     image: '/takneek_2025/SnT_Code/pclub74.jpg'
     scores:
-      Aryans: 100
+      Aryans: 65
       Nawabs: 100
       Kshatriyas: 100
-      Peshwas: 65
+      Peshwas: 100
       Shauryas: 0
     summary:
   - title: 'Eclub_31'
