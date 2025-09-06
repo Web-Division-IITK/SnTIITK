@@ -284,6 +284,15 @@ snt_code:
       Kshatriyas: 100
       Peshwas: 0
       Shauryas: 0
+  - title: 'Pclub_74'
+    link: 'https://drive.google.com/file/d/1gS2aadZVPsJMIGAu779tRty3mMu_6eZv/view?usp=sharing'
+    image: '/takneek_2025/SnT_Code/pclub74.jpg'
+    scores:
+      Aryans: 100
+      Nawabs: 100
+      Kshatriyas: 100
+      Peshwas: 65
+      Shauryas: 0
     summary:
   - title: 'Eclub_31'
     link: 'https://drive.google.com/file/d/15NCRPwkLNf7-_G1W7KlwqJnF99d6EZWn/view?usp=sharing'
