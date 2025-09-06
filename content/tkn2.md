@@ -270,7 +270,7 @@ snt_code:
     link: 'https://drive.google.com/file/d/1lxAHiA8EBCYAsX-APyzzsu3lzTaLR3ot/view?usp=sharing'
     image: '/takneek_2025/SnT_Code/icg62.jpg'
     scores:
-      Aryans: 0
+      Aryans: 65
       Nawabs: 20
       Kshatriyas: 100
       Peshwas: 65
