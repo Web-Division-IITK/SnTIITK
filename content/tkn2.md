@@ -250,31 +250,31 @@ snt_code:
     link: 'https://drive.google.com/file/d/170N3QqZd2gXoNJQ8oyTs2Wbmpowwi2F0/view?usp=sharing'
     image: '/takneek_2025/SnT_Code/fac42.png'
     scores:
-      Aryans: 0
-      Nawabs: 0
-      Kshatriyas: 0
+      Aryans: 20
+      Nawabs: 35
+      Kshatriyas: 100
       Peshwas: 0
-      Shauryas: 0
+      Shauryas: 65
     summary:
   - title: 'Astronomy_12'
     link: 'https://drive.google.com/file/d/1m7Y2x6vMdz75FXGvLVISQimyBeBwxVKB/view?usp=sharing'
     image: '/takneek_2025/SnT_Code/astro11.jpeg'
     scores:
-      Aryans: 0
-      Nawabs: 0
-      Kshatriyas: 0
-      Peshwas: 0
-      Shauryas: 0
+      Aryans: 35
+      Nawabs: 65
+      Kshatriyas: 20
+      Peshwas: 100
+      Shauryas: 10
     summary:
   - title: 'ICG_62'
     link: 'https://drive.google.com/file/d/1lxAHiA8EBCYAsX-APyzzsu3lzTaLR3ot/view?usp=sharing'
     image: '/takneek_2025/SnT_Code/icg62.jpg'
     scores:
       Aryans: 0
-      Nawabs: 0
-      Kshatriyas: 0
-      Peshwas: 0
-      Shauryas: 0
+      Nawabs: 20
+      Kshatriyas: 100
+      Peshwas: 65
+      Shauryas: 35
     summary:
   - title: 'Eclub_31'
     link: 'https://drive.google.com/file/d/15NCRPwkLNf7-_G1W7KlwqJnF99d6EZWn/view?usp=sharing'
