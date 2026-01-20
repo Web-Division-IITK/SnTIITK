@@ -3,7 +3,7 @@ title: "About Us"
 date: 2021-12-18T11:10:36+08:00
 draft: false
 language: en
-featured_image: "/images/snt_core_team_cover.png"
+featured_image: "/images/SnT_Cover.JPG"
 layout: "about"
 gensec: "Tanush Goel"
 gensecPhoto: "/teams/Tanush.jpg"

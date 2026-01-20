@@ -142,6 +142,10 @@ menu:
       name: Calendar
       url: https://calendar.sntiitk.com/
       weight: 60
+    - identifier: alumni
+      name: Alumni
+      url: /alumni/
+      weight: 70
   entities:
     - identifier: clubs
       name: Clubs

@@ -1,0 +1,65 @@
+{{ define "main" }}
+
+<article>
+  <!-- Header -->
+  <header class="mb-4 bg-primary-600">
+    <h1 class="py-16 text-3xl md:text-5xl font-black text-center text-white">
+      {{ .Title }}
+    </h1>
+  </header>
+
+  {{ range .Params.batches }}
+  <div class="flex justify-center rounded-xl pb-12 px-6">
+    <div class="flex flex-col justify-center items-center w-full max-w-7xl rounded-[20px] border border-gray-500 bg-gray-300 dark:bg-gray-900">
+
+      <!-- Batch Title -->
+      <div class="font-bold text-gray-900 dark:text-gray-100 mb-4 text-3xl md:text-4xl p-6 text-center">
+        {{ .batch }}
+      </div>
+
+      <!-- Executives Grid -->
+      <div class="w-full px-6 pb-8">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 justify-items-center">
+
+          {{ range .exec }}
+          <div class="bg-white rounded-xl overflow-hidden transition-transform duration-300 hover:scale-105 w-[250px]">
+            <img class="w-full h-[260px] object-cover transition-transform duration-300 hover:scale-110"
+                 src="{{ .photo }}"
+                 alt="{{ .name }}">
+
+            <div class="p-4 text-center">
+              <h5 class="text-xl font-bold">{{ .name }}</h5>
+              <div class="font-bold text-gray-500 mb-2">{{ .position }}</div>
+
+              <div class="flex justify-center space-x-4">
+                {{ with .linkedin }}
+                <a href="{{ . }}" target="_blank" aria-label="LinkedIn">
+                  <i class="fab fa-linkedin fa-lg"></i>
+                </a>
+                {{ end }}
+
+                {{ with .insta }}
+                <a href="{{ . }}" target="_blank" aria-label="Instagram">
+                  <i class="fab fa-instagram fa-lg"></i>
+                </a>
+                {{ end }}
+
+                {{ with .facebook }}
+                <a href="{{ . }}" target="_blank" aria-label="Facebook">
+                  <i class="fab fa-facebook fa-lg"></i>
+                </a>
+                {{ end }}
+              </div>
+            </div>
+          </div>
+          {{ end }}
+
+        </div>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+
+</article>
+
+{{ end }}
