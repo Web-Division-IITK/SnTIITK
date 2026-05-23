@@ -7,8 +7,8 @@ categories: summer-projects     #NO NEED TO CHANGE
 status: "completed"     #NO NEED TO CHANGE
 tenure: 2024-25   #NO NEED TO CHANGE
 
-cover_image: https://drive.google.com/thumbnail?id=1dO_ckDqw-eYHJ26_rsrxRoNv13qiK8Ob&sz=w1000
-poster: https://drive.google.com/thumbnail?id=16y22kNK8JzVEgbT9iyp2rEJLcL9o3s7x&sz=w1000  
+cover_image: /images/summer-projects/covers/magnusplane-harshita-chaudhary.png
+poster: /images/summer-projects/posters/magnusplane-harshita-chaudhary-poster.png  
 documentation: "https://drive.google.com/file/d/171tq0fGucoHDGeHcRewYdlSg-cf6qfWf/view?usp=sharing"
 githubLink: ""
 club: "Aeromodelling Club"   # Write name of the club

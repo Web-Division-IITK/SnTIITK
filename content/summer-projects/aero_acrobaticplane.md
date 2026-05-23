@@ -7,8 +7,8 @@ categories: summer-projects     #NO NEED TO CHANGE
 status: "completed"     #NO NEED TO CHANGE
 tenure: 2024-25   #NO NEED TO CHANGE
 
-cover_image: https://drive.google.com/thumbnail?id=1dO_ckDqw-eYHJ26_rsrxRoNv13qiK8Ob&sz=w1000
-poster: https://drive.google.com/thumbnail?id=16xKOeF3Tk9-nAwuNRBtaC-GSMUGDJ4R4&sz=w1000     
+cover_image: /images/summer-projects/covers/aeroacrobaticplane.png
+poster: /images/summer-projects/posters/aeroacrobaticplane-poster.png     
 documentation: "https://drive.google.com/file/d/171Fuz-S0aH_-2nucXORQ4Byl0vQAdoaf/view?usp=sharing"
 githubLink: ""
 club: "Aeromodelling Club"   # Write name of the club

@@ -1,4 +1,4 @@
----
+﻿---
 # This is the template of md file to render your club data on snt website. The below example is of Aeromodelling Club, please modify the data according to your clunb.
 # Also rename the file as ClubName.md, example: AeromodellingClub.md
 
@@ -59,27 +59,21 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Ananya Naryani"
-    photo: "https://drive.google.com/thumbnail?id=14y-eT0AHxM3pgGuQPrZ1wNBwu6XgUrqw&sz=w1000"
-    linkedin: "http://www.linkedin.com/in/ananya-narayani-532210332"
-    facebook: 
-    insta: "https://www.instagram.com/ananyaa__0820?igsh=cXF3MjF2Ym1zdnJo"
-  - name: "Anshika Agrawal"
-    photo: "https://drive.google.com/thumbnail?id=17NMbwhVPTjlqsTcnaNaQasLajzHngDJg&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/anshika-agrawal-11b1b82a4/"
-    facebook: ""
-    insta: "https://www.instagram.com/agrawalanshika18?igsh=MWd3N2I2b2IxZ2x2dw=="
-  - name: "Karan Gupta"
-    photo: "https://drive.google.com/thumbnail?id=1yaj-Cs85leQCNmia8wxJnOPr_MEHf9_J&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/karan-gupta-41a21332b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-    facebook: ""
-    insta: "https://www.instagram.com/currentgupta?igsh=aGJoMHJpcWpoejVn"
-  - name: "Kirpa Singh"
-    photo: "https://drive.google.com/thumbnail?id=1ePnxDzIXYAPU-xXn4WLhuYF4MwYajSJU&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/kirpa-singh-584354329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
-    facebook: ""
-    insta: "https://www.instagram.com/i_kirpasingh?igsh=eTJhZndhNmVoMjZy"
-    # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
+  - name: "Nishant Sharma"
+    photo: "/images/clubs/aeromodelling/nishant-sharma.jpg"
+    designation: "Coordinator"
+    email: "nishants24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/nishant-sharma-06a37540b?trk=contact-info"
+    github: ""
+    insta: "https://www.instagram.com/nishant_sharma5206?igsh=MTZoZ3Fzdmg5ZWR1Mw=="
+  - name: "Ronit Roy"
+    photo: "/images/clubs/aeromodelling/ronit-roy.webp"
+    designation: "Coordinator"
+    email: "ronitr24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/ronit-roy-233155313"
+    github: "https://github.com/raeyFoxtrot"
+    insta: "https://www.instagram.com/ronit_24_?igsh=eHdlcnkwZzZxbWN1"
+    # To add more cordies, copy/paste name,photo,linkedin,designation,email,github and insta in same format as above.
 
 
 #SUMMER PROJECTS

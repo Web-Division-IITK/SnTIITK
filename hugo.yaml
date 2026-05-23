@@ -48,8 +48,8 @@ markup:
 
 params:
   author: Web Team
-  authorimage: https://drive.google.com/thumbnail?id=1nUMfW3gmCEljTetiQT_cAV_Dmqdy2OLn&sz=w1000
-  og_image: https://drive.google.com/thumbnail?id=1nUMfW3gmCEljTetiQT_cAV_Dmqdy2OLn&sz=w1000
+  authorimage: /images/site/author.jpg
+  og_image: /images/site/author.jpg
   moto: "Innovate, Collaborate, Lead"
   description: ""
   disable_theme_toggle: false
@@ -210,11 +210,6 @@ menu:
       name: Council Coordinators
       url: /categories/council-coordinators/
       weight: 50
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
 
 taxonomies:
   category: Categories

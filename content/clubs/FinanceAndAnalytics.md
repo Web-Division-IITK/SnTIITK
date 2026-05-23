@@ -36,27 +36,35 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Anurag Thakur"
-    photo:
-    linkedin:
-    facebook:
-    insta:
-  - name: "Keshav Bansal"
-    photo: "https://drive.google.com/thumbnail?id=1SvSRr-qTvouwfKkV6zRXA2b-CHEHlxCd&sz=w1000"  #NO NEED TO CHANGE
-    linkedin: "https://www.linkedin.com/in/keshav-bansal-076628284/"
-    facebook:
-    insta: "https://www.instagram.com/keshav_bansal_5/"
-  - name: "Harshvardhann Gaur"
-    photo: "https://drive.google.com/thumbnail?id=1FS0bijjF_06BYhtAAriyLlGeiUeMOFNR&sz=w1000"   #NO NEED TO CHANGE
-    linkedin: "https://www.linkedin.com/in/harshvardhan-gaur-2aa136309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-    facebook: ""
-    insta: "https://www.instagram.com/harshvardhan_gaur_/"
-  - name: "Pallav Rastogi"
-    photo: "https://drive.google.com/thumbnail?id=1jygD1dpvLPjL0Pu-1t2oU_fP1d0VCtk5&sz=w1000"   #NO NEED TO CHANGE
-    linkedin: "https://www.linkedin.com/in/pallav-rastogi-390862293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-    facebook: ""
-    insta: "https://www.instagram.com/_pallav.946?igsh=cDg4Y3F3b2YzbzRs"
-    # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
+  - name: "Sthit Pragye"
+    photo: "/images/clubs/finance-analytics/sthit-pragye.jpg"
+    designation: "Coordinator"
+    email: "sthitp24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/sthit-pragye/"
+    github: "https://github.com/sthitpragye"
+    insta: "https://www.instagram.com/sthitpragye/"
+  - name: "Archit Rahalkar"
+    photo: "/images/clubs/finance-analytics/archit-rahalkar.jpg"
+    designation: "Coordinator"
+    email: "architsr24@iitk.ac.in"
+    linkedin: "https://in.linkedin.com/in/archit-rahalkar-a59b80312"
+    github: "https://github.com/architsr13"
+    insta: "https://www.instagram.com/archit.rahalkar/"
+  - name: "Aarmaan Choudhary"
+    photo: "/images/clubs/finance-analytics/aarmaan-choudhary.jpg"
+    designation: "Coordinator"
+    email: "aarmaanc24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/aarmaan-c-625558313/"
+    github: "https://github.com/Aarmaan-Choudhary"
+    insta: "https://www.instagram.com/aarmaan1502/"
+  - name: "Kritin Khowala"
+    photo: "/images/clubs/finance-analytics/kritin-khowala.jpg"
+    designation: "Coordinator"
+    email: "kritink24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/kritin-khowala-08359b322"
+    github: "https://github.com/kritin06"
+    insta: "https://www.instagram.com/kritin.khowala/"
+    # To add more cordies, copy/paste name,photo,linkedin,designation,email,github and insta in same format as above.
 
 ---
 

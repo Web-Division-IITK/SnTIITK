@@ -7,8 +7,8 @@ categories: summer-projects     #NO NEED TO CHANGE
 status: "completed"     #NO NEED TO CHANGE
 tenure: 2024-25   #NO NEED TO CHANGE
 
-cover_image: https://drive.google.com/thumbnail?id=18eYxbTZ468-7pvszBOVqqCDSK-GphQQf&sz=w1000
-poster: https://drive.google.com/thumbnail?id=1vnLO-0yks6wMo6TB0aAP-4SNjywNERjr&sz=w1000     
+cover_image: /images/summer-projects/covers/eclubairdrums-vaneesha-sathya-kumar.png
+poster: /images/summer-projects/posters/eclubairdrums-vaneesha-sathya-kumar-poster.png     
 documentation: "https://drive.google.com/file/d/1rM2oKnJE6yTAKbH5cLYzoPUPXJowq-f_/view?usp=sharing"
 githubLink: "https://github.com/ElectronicsClub-IITK/Airdrums"
 club: "Electronics Club"   # Write name of the club

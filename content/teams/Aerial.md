@@ -14,31 +14,21 @@ categories: teams
 layout: "clubs_page"
 
 cordies:
-  - name: "Prasun Shrivastav"
-    photo: "https://drive.google.com/thumbnail?id=1bc-r9n4ToBLjOWx91Ei1xbffmmaeBqVJ&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/prasun-shrivastav-0674b528b/"
-    facebook: ""
-    insta: "https://www.instagram.com/prasunshrivastav_/"
-  - name: "Sunraj Patel"
-    photo: "https://drive.google.com/thumbnail?id=1FA3Krr7HgvnIka0f8pxn5ycODJxEkhyJ&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/sunraj-patel-b55a80196/"
-    facebook: ""
-    insta: "https://instagram.com/sunraj_pat"
-  - name: "Ayush Goyal"
-    photo: "https://drive.google.com/thumbnail?id=1E4CXv-RsUnR_jq1TJ9abkxhqKHQU_rV_&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/ayush-goyal-20247127b/"
-    facebook: ""
-    insta: "https://www.instagram.com/a_yu_sh_g"
-  - name: "Shivang Sonker"
-    photo:
-    linkedin:
-    facebook: 
-    insta:
-  - name: "Somya Garg"
-    photo: "https://drive.google.com/thumbnail?id=1vaav1uS3zLo_IH8xyyon3fREjL4a160h&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/somya-garg-7589b3280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
-    facebook: ""
-    insta: "https://www.instagram.com/somya_duhh?igsh=eGpkdnkxcDJ4aXo3&utm_source=qr"
+  - name: "Soumya Jhunjhunwala"
+    photo: "/images/teams/aerial-robotics/soumya-jhunjhunwala.jpg"
+    designation: "Head"
+    email: "soumyajh24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/soumya-jhunjhunwala-27b48923b/"
+    github: "https://github.com/Soumya-prog-tech"
+    insta: "https://www.instagram.com/__soumya_26__?igsh=MXJxYjlnNXdqbGx5cg=="
+  - name: "Mansoju Vivekananda"
+    photo: "/images/teams/aerial-robotics/mansoju-vivekananda.jpg"
+    designation: "Head"
+    email: "mvivek24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/m-vivekananda-77b922284"
+    github: "https://github.com/CODER-7777"
+    insta: ""
+    # To add more cordies, copy/paste name,photo,linkedin,designation,email,github and insta in same format as above.
 ---
 
 ## About Us
