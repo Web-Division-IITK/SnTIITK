@@ -7,8 +7,8 @@ categories: summer-projects     #NO NEED TO CHANGE
 status: "completed"     #NO NEED TO CHANGE
 tenure: 2024-25   #NO NEED TO CHANGE
 
-cover_image: https://drive.google.com/thumbnail?id=18eYxbTZ468-7pvszBOVqqCDSK-GphQQf&sz=w1000
-poster: https://drive.google.com/thumbnail?id=1lAhvZ-igqizr79T-NXhIDcW_cBnZpqjz&sz=w1000
+cover_image: /images/summer-projects/covers/electronicsclubargesturecontrolledcar-devansh-bansal.png
+poster: /images/summer-projects/posters/electronicsclubargesturecontrolledcar-devansh-bansal-poster.png
 documentation: "https://drive.google.com/file/d/1lE5aDMk3k8nhRxppKeNrAt7dOSJhzCmJ/view?usp=drivesdk"
 githubLink: ""
 club: "Electronics Club"   # Write name of the club

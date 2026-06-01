@@ -7,21 +7,21 @@ categories: summer-projects
 status: "completed"
 tenure: 2024-25
 
-cover_image: https://drive.google.com/thumbnail?id=1C1LT4JqTgDqBnRmupsUDNENl3WhoyBiY&sz=w1000
-poster: https://drive.google.com/thumbnail?id=1iFwFOshPVlVCXcgBm__YbdR4nIxNTp61&sz=w1000     
+cover_image: /images/summer-projects/covers/masteringweb30.jpg
+poster: /images/summer-projects/posters/masteringweb30-poster.png     
 documentation: https://drive.google.com/file/d/1V5apAf-EsmiMbQTSnDcC-4fUxNZbrXw4/view?usp=sharing
 githubLink: https://github.com/surya2003-real/Gymkhana-election-dapp
 club: Programming Club
 
 mentors:
   - name: Devansh Jain
-    photo: https://drive.google.com/thumbnail?id=1yIkzTYHj3RbYYcnPF17tVeXAk-q-5GKS&sz=w1000
+    photo: /images/summer-projects/mentors/devansh-jain.png
     email: jdevansh21@iitk.ac.in
   - name: Pratham Sahu
-    photo: https://drive.google.com/thumbnail?id=1yIkzTYHj3RbYYcnPF17tVeXAk-q-5GKS&sz=w1000
+    photo: /images/summer-projects/mentors/devansh-jain.png
     email: spratham21@iitk.ac.in
   - name: Divyansh Mittal
-    photo: https://drive.google.com/thumbnail?id=1yIkzTYHj3RbYYcnPF17tVeXAk-q-5GKS&sz=w1000
+    photo: /images/summer-projects/mentors/devansh-jain.png
     email: dmittal21@iitk.ac.in
 
 

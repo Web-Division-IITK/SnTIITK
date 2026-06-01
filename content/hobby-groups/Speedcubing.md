@@ -1,4 +1,4 @@
----
+﻿---
 # This is the template of md file to render your club data on snt website. The below example is of Aeromodelling Club, please modify the data according to your clunb.
 # Also rename the file as ClubName.md, example: AeromodellingClub.md
 
@@ -20,22 +20,28 @@ layout: "clubs_page"    #NO NEED TO CHANGE
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Mohit Parihar"
-    photo: "https://drive.google.com/thumbnail?id=19RSjnp8UmjM9a0TasYEFRpzOyvtsAw4V&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/mohit-parihar-4a6659312/"
-    facebook: 
-    insta: "https://www.instagram.com/mohit_____parihar/"
-  - name: "Ravi Kumar"
-    photo: "https://drive.google.com/thumbnail?id=1FGmImgg15mzE1L5Xdaq3FHkKiGRNrZpt&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/rvi-kumar/"
-    facebook: ""
-    insta: "https://www.instagram.com/rvi_arya/"
-  - name: "Ranik Biswas"
-    photo: 
-    linkedin:
-    facebook: 
-    insta:
-    # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
+  - name: "Shubham Joshi"
+    photo: "/images/hobby-groups/speedcubing/shubham-joshi.jpg"
+    designation: "Coordinator"
+    email: "shubhamj24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/shubham-joshi-4a64b4321"
+    github: "https://github.com/SHUB-1806"
+    insta: "https://www.instagram.com/shubhamj_1806?igsh=MnJ6bHUzc2pkZTNn"
+  - name: "Jeetendar Meena"
+    photo: "/images/hobby-groups/speedcubing/jeetendar-meena.png"
+    designation: "Leader"
+    email: "jeetendarm24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/jeetendar-meena-204a11336/"
+    github: "https://github.com/jeetendarm777-hub"
+    insta: "https://www.instagram.com/jeetendar01/"
+  - name: "Aditya Krishna"
+    photo: "/images/hobby-groups/speedcubing/aditya-krishna.jpg"
+    designation: "Leader"
+    email: "adityas24@gmail.com"
+    linkedin: "https://www.linkedin.com/in/aditya-krishna-7000iitk"
+    github: "https://github.com/assassin-adi"
+    insta: "https://www.instagram.com/adityakrishna_7000/?hl=en"
+    # To add more cordies, copy/paste name,photo,linkedin,designation,email,github and insta in same format as above.
     
 ---
 

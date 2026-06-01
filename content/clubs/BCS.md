@@ -1,4 +1,4 @@
----
+﻿---
 # This is the template of md file to render your club data on snt website. The below example is of Aeromodelling Club, please modify the data according to your clunb.
 # Also rename the file as ClubName.md, example: AeromodellingClub.md
 
@@ -35,27 +35,35 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Akshay Reddy Kamatam"
-    photo: "https://drive.google.com/thumbnail?id=1QuGTEjsWSboQ9GfwvqQBv_khCKSU8bu2&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/akshay-reddy-kamatam-1baa14292/"
-    facebook: 
-    insta: "https://www.instagram.com/_me_akshayy/?hl=en"
-  - name: "Gaurav Rampuria"
-    photo: "https://drive.google.com/thumbnail?id=1-Ye9yaHVdCWjUBTE7j9SbgCAcRTZi8Py&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/gaurav-kumar-rampuria-2246a916b/"
-    facebook: ""
-    insta: "https://www.instagram.com/gaurav_rampuria_/"
-  - name: "Siddhant Shekhar"
-    photo: "https://drive.google.com/thumbnail?id=15dCdN4QTP9Dw-irKlb9Xw3dm1MtPuVZR&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/siddhant-shekhar-848b88284/"
-    facebook: ""
-    insta: "https://www.instagram.com/siddhantshekhar_/"
-  - name: "Sunraj Patel"
-    photo: "https://drive.google.com/thumbnail?id=18ZGOIXGagu-gwNrgkmiTQVFSz8mXpXvh&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/sunraj-patel-b55a80196/"
-    facebook: ""
-    insta: "https://www.instagram.com/sunraj_pat"
-    # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
+  - name: "Suhani Bansal"
+    photo: "/images/clubs/bcs/suhani-bansal.png"
+    designation: "Coordinator"
+    email: "suhanib24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/suhani-bansal-3b8b39341"
+    github: "https://github.com/suhani2210"
+    insta: "https://www.instagram.com/suhanibansal._/"
+  - name: "Archisman Dhar"
+    photo: "/images/clubs/bcs/archisman-dhar.jpg"
+    designation: "Coordinator"
+    email: "archismand24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/archisman-dhar"
+    github: "https://github.com/archislegend100"
+    insta: "https://www.instagram.com/archislegend100"
+  - name: "Dabeet Das"
+    photo: "/images/clubs/bcs/dabeet-das.jpg"
+    designation: "Coordinator"
+    email: "dabeetkd24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/dabeet-das-a17bb22ba"
+    github: "https://github.com/DabeetDas"
+    insta: "https://www.instagram.com/__dabeet?igsh=emYzMW96djFnNXMx"
+  - name: "Vishesh Kumar Singh"
+    photo: "/images/clubs/bcs/vishesh-kumar-singh.jpg"
+    designation: "Coordinator"
+    email: "visheshk24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/thevishesh16/"
+    github: "https://github.com/vishesh-kumar-singh"
+    insta: "https://www.instagram.com/vishesh_kumar_singh/"
+    # To add more cordies, copy/paste name,photo,linkedin,designation,email,github and insta in same format as above.
     
 ---
 

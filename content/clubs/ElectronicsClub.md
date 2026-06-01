@@ -38,29 +38,35 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Ashish Upadhyay"
-    photo: "https://drive.google.com/thumbnail?id=1oWEQb7gVoxAuhSR8qrcQyQo33m8_FkU8&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/ashish-upadhyay-b2044b338"
-    facebook: 
-    insta: "https://www.instagram.com/ashish_upadhyay_01/"
-  - name: "Kshitij Bhardwaj"
-    photo: "https://drive.google.com/thumbnail?id=1b-Ux_J-V6nrGHoRHa1As-nfybJZthY5X&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/kshitijbhardwaj1729"
-    facebook: 
-    insta: "https://www.instagram.com/tensor.1729?igsh=bGp0cXpwNjE1c2xk"
-  - name: "Mrigesh Ashwin"
-    photo: "https://drive.google.com/thumbnail?id=1Q-4ReGujEaPmpG-tnpEFDABcqNHVO4UE&sz=w1000"
-    linkedin: "http://www.linkedin.com/in/mrigeesh-ashwin-8b2683286"
-    facebook: 
-    insta: "https://www.instagram.com/mrigeesh_ashwin/"
-  - name: "Rachit Agrawal"
-    photo: "https://drive.google.com/thumbnail?id=1q5Z0NwKc-wzhMa721XnwO1VRLWUjZ4vM&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/rachit-agarwal-980100287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-    facebook: ""
-    insta: "https://www.instagram.com/rac.hit_a6105?igsh=MjMzZ2VqOGUxZzF2"
-
-
-    # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
+  - name: "Arushi Kondaskar"
+    photo: "/images/clubs/electronics/arushi-kondaskar.jpg"
+    designation: "Coordinator"
+    email: "arushik24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/arushi-kondaskar-90971a319/"
+    github: "https://github.com/Arushi1407"
+    insta: "https://www.instagram.com/arushi_kondaskar_14?igsh=MTY3ZWpqd3dveG44cg=="
+  - name: "Aashutosh Kushwaha"
+    photo: "/images/clubs/electronics/aashutosh-kushwaha.jpg"
+    designation: "Coordinator"
+    email: "aashutoshk24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/aashutosh-kushwaha/"
+    github: "https://github.com/AashutoshKushwaha"
+    insta: "https://www.instagram.com/aashutosh_k21"
+  - name: "Sahil Agarwal"
+    photo: "/images/clubs/electronics/sahil-agarwal.jpg"
+    designation: "Coordinator"
+    email: "Sahilag24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/sahil-agarwal-3864a7315"
+    github: "https://github.com/The-Bread-Omelette"
+    insta: "https://www.instagram.com/buri_._buri_._zaemon?igsh=MWVtZzExM2sybjJtOA=="
+  - name: "Lakshya Gupta"
+    photo: "/images/clubs/electronics/lakshya-gupta.jpg"
+    designation: "Coordinator"
+    email: "lakshyag24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/lakshya-gupta-71a909190/"
+    github: "https://github.com/lakshyagarg911"
+    insta: "https://www.instagram.com/lakshyag911"
+    # To add more cordies, copy/paste name,photo,linkedin,designation,email,github and insta in same format as above.
     
 ---
 

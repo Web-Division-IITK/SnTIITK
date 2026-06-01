@@ -1,4 +1,4 @@
----
+﻿---
 # This is the template of md file to render your club data on snt website. The below example is of Aeromodelling Club, please modify the data according to your clunb.
 # Also rename the file as ClubName.md, example: AeromodellingClub.md
 
@@ -43,27 +43,35 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Aayush Anand"
-    photo:
-    linkedin:
-    facebook: 
-    insta:
-  - name: "Himanshu Sharma"
-    photo: "https://drive.google.com/thumbnail?id=15pjLSo8iDYc5_eINbXh5-AQfIeZbRn0I&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/himanshu-sharma-152282217/"
-    facebook: 
-    insta: "https://www.instagram.com/sh_hi.man.shu/"
-  - name: "Kshitij Gupta"
-    photo:
-    linkedin:
-    facebook: 
-    insta:
-  - name: "Manas Jain Kuniya"
-    photo: "https://drive.google.com/thumbnail?id=1st1l17TGdOcvasW57SAIyhPgJNAkekTF&sz=w1000"
-    linkedin: "http://www.linkedin.com/in/manas-jain-kuniya"
-    facebook: ""
-    insta: "http://www.linkedin.com/in/manas-jain-kuniya"
-    # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
+  - name: "Aditya Sai Vemparala"
+    photo: "/images/clubs/programming/aditya-sai-vemparala.png"
+    designation: "Coordinator"
+    email: "adityasv24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/aditya-sai-vemparala-10964a31a/"
+    github: "https://github.com/kingpsi15"
+    insta: "https://www.instagram.com/aditya_sv15/"
+  - name: "Parth Patil"
+    photo: "/images/clubs/programming/parth-patil.jpg"
+    designation: "Coordinator"
+    email: "parthnp24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/parth2412?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    github: "https://github.com/Parth-2412"
+    insta: "https://www.instagram.com/parth_2412_/"
+  - name: "Suvan Arora"
+    photo: "/images/clubs/programming/suvan-arora.jpg"
+    designation: "Coordinator"
+    email: "suvan24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/suuvannaroraa"
+    github: "https://github.com/syntaxking-7"
+    insta: "https://www.instagram.com/aroraasuuvan"
+  - name: "Ketan Agarwal"
+    photo: "/images/clubs/programming/ketan-agarwal.jpg"
+    designation: "Coordinator"
+    email: "ketanlal24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/ketan--agarwal/"
+    github: "https://github.com/Ketan-Agarwal"
+    insta: "https://www.instagram.com/ketan__aggarwal"
+    # To add more cordies, copy/paste name,photo,linkedin,designation,email,github and insta in same format as above.
     
 ---
 

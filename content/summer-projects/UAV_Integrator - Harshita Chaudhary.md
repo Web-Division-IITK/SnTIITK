@@ -7,8 +7,8 @@ categories: summer-projects     #NO NEED TO CHANGE
 status: "completed"     #NO NEED TO CHANGE
 tenure: 2024-25   #NO NEED TO CHANGE
 
-cover_image: https://drive.google.com/thumbnail?id=1dO_ckDqw-eYHJ26_rsrxRoNv13qiK8Ob&sz=w1000
-poster: https://drive.google.com/thumbnail?id=16VEw4At5PSpNH2cKDBEyEm9jJAHGyrgc&sz=w1000
+cover_image: /images/summer-projects/covers/uavintegrator-harshita-chaudhary.png
+poster: /images/summer-projects/posters/uavintegrator-harshita-chaudhary-poster.png
 documentation: "https://drive.google.com/file/d/16zcrjJ7nyT-42Oh74I9N4F3qoIlKFLhN/view?usp=drive_link"
 githubLink: ""
 club: "Aeromodelling Club"   # Write name of the club

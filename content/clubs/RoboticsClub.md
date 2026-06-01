@@ -1,4 +1,4 @@
----
+﻿---
 # This is the template of md file to render your club data on snt website. The below example is of Aeromodelling Club, please modify the data according to your clunb.
 # Also rename the file as ClubName.md, example: AeromodellingClub.md
 
@@ -42,28 +42,28 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Chinar Ratnesh Mhatre"
-    photo: "https://drive.google.com/thumbnail?id=1-ZOIdbBeySTnbzUiWjnsQdcFr_3ixNd8&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/chinar-mhatre-a03b03244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-    insta: "https://www.instagram.com/_pallav.946?igsh=cDg4Y3F3b2YzbzRs"
-    
-  - name: "Shivansh Gupta"
-    photo: "https://drive.google.com/thumbnail?id=1oxHTUJZ8GxCXqo3K6PWpxKouFsOtCShH&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/shivansh-gupta-5a4870285/"
-    facebook: ""
-    insta: "https://www.instagram.com/shivanshgupta406/"
-
-  - name: "Soumyajit Halder"
-    photo: "https://drive.google.com/thumbnail?id=1Sk3EoOvr8Wf0UJSjG-0Jtc_trTGSNTpf&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/soumyajit-halder-92ba00287/"
-    insta: "https://www.instagram.com/soumyajit._.halder/"
-
-  - name: "Ridhima Sharma"
-    photo: "https://drive.google.com/thumbnail?id=1yl7Ud2wkrHyLt-Fzp-QCOkQgU8ihw-d2&sz=w1000"
-    linkedin: "https://www.linkedin.com/in/ridhima-sharma-4125972b5"
-    insta: "https://www.instagram.com/ridhima_1185"
-
-    # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
+  - name: "Rudraksh Kumawat"
+    photo: "/images/clubs/robotics/rudraksh-kumawat.png"
+    designation: "Coordinator"
+    email: "rudrakshk24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/rudraksh-kumawat-04165431b/"
+    github: "https://github.com/Rudraksh919"
+    insta: "https://www.instagram.com/rudrakshk.919/"
+  - name: "Vishnu Sarathy B"
+    photo: "/images/clubs/robotics/vishnu-sarathy-b.jpg"
+    designation: "Coordinator"
+    email: "vishnusb24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/vishnu-sarathy-071255371/"
+    github: "https://github.com/VishnuSarathy"
+    insta: "https://www.instagram.com/vishnusarathy2006/"
+  - name: "Harsh Chandwani"
+    photo: "/images/clubs/robotics/harsh-chandwani.jpg"
+    designation: "Coordinator"
+    email: "charsh24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/harsh-chandwani-477969223/"
+    github: "https://github.com/HarshC2006"
+    insta: "https://www.instagram.com/harsh_chandwani24/"
+    # To add more cordies, copy/paste name,photo,linkedin,designation,email,github and insta in same format as above.
 
 
 #SUMMER PROJECTS

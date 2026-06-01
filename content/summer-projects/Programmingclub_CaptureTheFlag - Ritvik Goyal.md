@@ -7,8 +7,8 @@ categories: summer-projects
 status: "completed"     
 tenure: 2024-25  
 
-cover_image: https://drive.google.com/thumbnail?id=1pNgc_GwlACz2_Q3vC7Xcc20lMuN6YEsW&sz=w1000
-poster: https://drive.google.com/thumbnail?id=1VjlbmgEb8EHZ8FLK90FghF0ovq9OnJ-v&sz=w1000
+cover_image: /images/summer-projects/covers/programmingclubcapturetheflag-ritvik-goyal.png
+poster: /images/summer-projects/posters/programmingclubcapturetheflag-ritvik-goyal-poster.png
 documentation: "https://drive.google.com/file/d/1RoZDgXKuso8LAu-d_a7Vnlfge7JtO0xx/view?usp=sharing"
 githubLink: "link_of_github_if_available"
 club: "Programming Club"

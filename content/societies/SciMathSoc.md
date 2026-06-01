@@ -21,27 +21,35 @@ layout: "clubs_page"    #NO NEED TO CHANGE
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Shaurya Johari"
-    photo:
-    linkedin:
-    facebook: 
-    insta:
-  - name: "Shravan Agrawal"
-    photo: https://drive.google.com/thumbnail?id=16-YzsJ467AHMcjp_u7_JZnTI-wzQkNTJ&sz=w1000
-    linkedin: "https://www.linkedin.com/in/shravan-agrawal-539646296"
-    facebook: ""
-    insta: "https://www.instagram.com/shravanagrawal47/"
-  - name: "Shrey Solanki"
-    photo:
-    linkedin:
-    facebook: 
-    insta:
-  - name: "Soumyadittya Chandra"
-    photo:
-    linkedin:
-    facebook: 
-    insta:
-    # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
+  - name: "Kshitij Jain"
+    photo: "/images/societies/sci-math-soc/kshitij-jain.jpg"
+    designation: "Leader"
+    email: "jkshitij24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/kshitij-jain-5028ba313/"
+    github: "https://github.com/ks1104"
+    insta: "https://www.instagram.com/kj_4611/"
+  - name: "Aarya Bhatt"
+    photo: "/images/societies/sci-math-soc/aarya-bhatt.jpg"
+    designation: "Leader"
+    email: "aaryajb24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/aarya-bhatt-01666b356"
+    github: "https://github.com/vbm375"
+    insta: "https://www.instagram.com/aaryajb375?igsh=MTd0ZWVscHM0c2s0eA=="
+  - name: "Saransh Saluja"
+    photo: "/images/societies/sci-math-soc/saransh-saluja.jpg"
+    designation: "Leader"
+    email: "saranshs24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/saransh-saluja-367571335"
+    github: "https://github.com/strugglingUG"
+    insta: "https://www.instagram.com/saransh0606?igsh=eTEyaDBhZHNnMDE="
+  - name: "Vinayak Chandra Srivastava"
+    photo: "/images/societies/sci-math-soc/vinayak-chandra-srivastava.jpg"
+    designation: "Leader"
+    email: "vinayakc24@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/vinayak-chandra-srivastava/"
+    github: "https://github.com/vinayakc24"
+    insta: "https://www.instagram.com/vinayaksrivastavaa/"
+    # To add more cordies, copy/paste name,photo,linkedin,designation,email,github and insta in same format as above.
 
 
 #SUMMER PROJECTS

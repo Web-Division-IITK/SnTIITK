@@ -6,8 +6,8 @@ featured_image: ""  #NO NEED TO CHANGE
 categories: summer-projects     #NO NEED TO CHANGE
 status: "completed"     #NO NEED TO CHANGE
 tenure: 2024-25   #NO NEED TO CHANGE
-cover_image: https://drive.google.com/thumbnail?id=1pNgc_GwlACz2_Q3vC7Xcc20lMuN6YEsW&sz=w1000
-poster: https://drive.google.com/thumbnail?id=1IgIf2Aw2bDj_apXk_9oGZ2r4OZB96aaW&sz=w1000
+cover_image: /images/summer-projects/covers/pclubvcs-yash-pratap-singh.png
+poster: /images/summer-projects/posters/pclubvcs-yash-pratap-singh-poster.png
 documentation: "https://www.overleaf.com/read/gphjhqpzfzwv#987240"
 githubLink: "link_of_github_if_available"
 club: "Programming Club"   # Write name of the club

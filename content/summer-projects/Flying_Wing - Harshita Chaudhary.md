@@ -7,8 +7,8 @@ categories: summer-projects     #NO NEED TO CHANGE
 status: "completed"     #NO NEED TO CHANGE
 tenure: 2024-25   #NO NEED TO CHANGE
 
-cover_image: https://drive.google.com/thumbnail?id=1dO_ckDqw-eYHJ26_rsrxRoNv13qiK8Ob&sz=w1000
-poster: https://drive.google.com/thumbnail?id=16w3fmgEQv0PZGXXEzkr9CAe7NvxkOIDd&sz=w1000
+cover_image: /images/summer-projects/covers/flyingwing-harshita-chaudhary.png
+poster: /images/summer-projects/posters/flyingwing-harshita-chaudhary-poster.png
 documentation: "https://docs.google.com/document/d/1VcUKsR1K1Lrni0Y6c_t7OT_eY54atUs8/edit?usp=sharing&ouid=107516691963095021823&rtpof=true&sd=true"
 githubLink: ""
 club: "Aeromodelling Club"   # Write name of the club
