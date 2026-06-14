@@ -138,10 +138,10 @@ menu:
       name: Gallery
       url: /gallery/
       weight: 50
-    - identifier: calendar
-      name: Calendar
-      url: https://calendar.sntiitk.com/
-      weight: 60
+    # - identifier: calendar
+    #   name: Calendar
+    #   url: https://calendar.sntiitk.com/
+    #   weight: 60
     - identifier: alumni
       name: Alumni
       url: /alumni/
