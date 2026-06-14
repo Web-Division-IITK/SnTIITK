@@ -42,6 +42,14 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
+  - name: "Anurag Patil"
+    photo: "/images/clubs/robotics/anurag-patil.jpeg"
+    designation: "Coordinator"
+    email: "anuragrp24@iitk.ac.in "
+    linkedin: "https://www.linkedin.com/in/anurag-rameshgouda-patil-96570b314?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    github: "https://github.com/AnuragPatil24"
+    insta: ""
+
   - name: "Rudraksh Kumawat"
     photo: "/images/clubs/robotics/rudraksh-kumawat.png"
     designation: "Coordinator"
@@ -49,6 +57,7 @@ cordies:
     linkedin: "https://www.linkedin.com/in/rudraksh-kumawat-04165431b/"
     github: "https://github.com/Rudraksh919"
     insta: "https://www.instagram.com/rudrakshk.919/"
+
   - name: "Vishnu Sarathy B"
     photo: "/images/clubs/robotics/vishnu-sarathy-b.jpg"
     designation: "Coordinator"
@@ -56,6 +65,7 @@ cordies:
     linkedin: "https://www.linkedin.com/in/vishnu-sarathy-071255371/"
     github: "https://github.com/VishnuSarathy"
     insta: "https://www.instagram.com/vishnusarathy2006/"
+
   - name: "Harsh Chandwani"
     photo: "/images/clubs/robotics/harsh-chandwani.jpg"
     designation: "Coordinator"
