@@ -5,40 +5,48 @@ draft: false
 language: en
 featured_image: "/images/SnT_Cover.JPG"
 layout: "about"
-gensec: "Tanush Goel"
-gensecPhoto: "/teams/Tanush.jpg"
-insta: "https://www.instagram.com/tanush.goel247?igsh=djY4czJqNHMxMGk1"
-linkedin: "https://www.linkedin.com/in/tanush-goel-a622a5289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+gensec: "Aayush Jhawar"
+gensecPhoto: "/teams/Aayush-Jhawar.jpg"
+gensecEmail: "gensec@sntiitk.co.in"
+insta: "https://www.instagram.com/_silentcipher/"
+linkedin: "https://www.linkedin.com/in/aayushjhawar05/"
+github: "https://github.com/Aayush-Jhawar"
 
 isec:
-  - name: "Aniket Nandi"
-    photo: "/teams/Aniket.png"
-    linkedin: "https://www.linkedin.com/in/aniket-nandi-6a9832260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-    facebook: ""
-    insta: "https://www.instagram.com/attenuator2004?igsh=MXkxcnVzZHFyY3BnMA=="
-  - name: "Yash Pratap Singh"
-    photo: "/teams/Yash.jpg"
-    linkedin: "https://www.linkedin.com/in/its-me-yps?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-    facebook: ""
-    insta: "https://www.instagram.com/yps_8181?igsh=c2FxOHlzYnpmcHJt"
-  - name: "Yuval Bansal"
-    photo: "/teams/Yuval.jpg"
-    linkedin: "https://www.linkedin.com/in/yuval-bansal-01465b212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-    facebook: ""
-    insta: "https://www.instagram.com/yuval_bansal?igsh=MWQwcnVuY2dxOGZhMQ=="
+  - name: "Anurag Thakur"
+    photo: "/teams/Anurag-Thakur.jpeg"
+    email: "anuragtha23@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/anurag-thakur-089a4b280?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    github: "https://github.com/alphaKin12"
+    insta: "https://www.instagram.com/anurag_t03/"
+  - name: "Shivansh Gupta"
+    photo: "/teams/Shivansh-Gupta.png"
+    email: "shivanshg23@iitk.ac.in"
+    linkedin: ""
+    github: "https://github.com/Shivansh-gupta2005"
+    insta: "https://www.instagram.com/shivanshgupta406?igsh=MTY3Mnh5dXhncWx3cA=="
+  - name: "Vivek Pawar"
+    photo: "/teams/Vivek-Pawar.png"
+    email: "pawarvi23@iitk.ac.in"
+    linkedin: "https://www.linkedin.com/in/vivek-pawar-iitk?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    github: ""
+    insta: "https://www.instagram.com/viwa__pawar?igsh=d3EzMGdzc3M4b2Z1"
 
 facad:
   - name: 'Abhilash Patel'
     position: 'Faculty Advisor, SnT Council 2025-26'
     photo: '/teams/Abhilash.png'
+    email: ''
     website: 'https://home.iitk.ac.in/~apatel/'
   - name: 'Amitabha Bandyopadhyay'
     position: 'Faculty Advisor, Makespace 2025-26'
     photo: '/teams/Amitabha.jpg'
+    email: ''
     website: 'https://sites.google.com/view/ablab-iitk/home'
   - name: 'Shubham Sahay'
     position: 'Faculty Advisor, SnT Council 2024-25'
     photo: '/teams/Shubham.png'
+    email: ''
     website: 'https://home.iitk.ac.in/~ssahay/people.html'
 ---
 ---
