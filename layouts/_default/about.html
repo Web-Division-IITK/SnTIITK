@@ -48,7 +48,7 @@
                         <img class="w-full h-48 object-cover transition-transform duration-300 hover:scale-110" src="{{ .photo }}" alt="{{.name}}">
                         <div class="p-2 text-center">
                             <h5 class="text-base sm:text-lg font-bold truncate">{{.name}}</h5>
-                            <p class="text-sm text-gray-500 truncate">Institute Secretary</p>
+                            <p class="text-sm text-gray-500">Institute Secretary{{ with .vertical }}, {{ . }}{{ end }}</p>
                             {{ with .email }}<p class="text-xs text-gray-400 truncate pb-2">{{ . }}</p>{{ end }}
                             <div class="flex justify-center space-x-4 pt-2">
                                 <a class="text-blue-700 hover:text-blue-900 transition-transform duration-300 hover:scale-110" href="{{.linkedin}}" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin fa-lg"></i></a>
