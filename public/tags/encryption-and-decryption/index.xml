@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Encryption and Decryption on Science And Technology Council</title>
-		<link>https://sntiitk.co.in/tags/encryption-and-decryption/</link>
+		<link>http://localhost:1313/tags/encryption-and-decryption/</link>
 		<description>Recent content in Encryption and Decryption on Science And Technology Council</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,12 +10,12 @@
 		
 		
 		
-			<atom:link href="https://sntiitk.co.in/tags/encryption-and-decryption/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/encryption-and-decryption/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Encryption and Decryption using MATLAB</title>
-				<link>https://sntiitk.co.in/summer-projects/descon_encryptionanddecryptionusingmatlab---ankit-kumar/</link>
+				<link>http://localhost:1313/summer-projects/descon_encryptionanddecryptionusingmatlab---ankit-kumar/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://sntiitk.co.in/summer-projects/descon_encryptionanddecryptionusingmatlab---ankit-kumar/</guid>
+				<guid>http://localhost:1313/summer-projects/descon_encryptionanddecryptionusingmatlab---ankit-kumar/</guid>
 				<description>In this project, our main aim was to implement and create ciphers in MATLAB using both classical and modern techniques. We started with MATLAB basics, progressed through various ciphers and advanced to image and audio encryption.At the end everyone created a unique cipher, blending programming with cryptographic principles</description>
 			</item>
 	</channel>

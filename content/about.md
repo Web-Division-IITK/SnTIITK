@@ -7,7 +7,7 @@ featured_image: "/images/SnT_Cover.JPG"
 layout: "about"
 gensec: "Aayush Jhawar"
 gensecPhoto: "/teams/Aayush-Jhawar.jpg"
-gensecEmail: "gensec@sntiitk.co.in"
+gensecEmail: "sjaayush23@iitk.ac.in"
 insta: "https://www.instagram.com/_silentcipher/"
 linkedin: "https://www.linkedin.com/in/aayushjhawar05/"
 github: "https://github.com/Aayush-Jhawar"
@@ -34,20 +34,10 @@ isec:
 
 facad:
   - name: 'Abhilash Patel'
-    position: 'Faculty Advisor, SnT Council 2025-26'
+    position: 'Faculty Advisor, SnT Council 2026-27'
     photo: '/teams/Abhilash.png'
     email: ''
     website: 'https://home.iitk.ac.in/~apatel/'
-  - name: 'Amitabha Bandyopadhyay'
-    position: 'Faculty Advisor, Makespace 2025-26'
-    photo: '/teams/Amitabha.jpg'
-    email: ''
-    website: 'https://sites.google.com/view/ablab-iitk/home'
-  - name: 'Shubham Sahay'
-    position: 'Faculty Advisor, SnT Council 2024-25'
-    photo: '/teams/Shubham.png'
-    email: ''
-    website: 'https://home.iitk.ac.in/~ssahay/people.html'
 ---
 ---
 Discover the world of technology where you can innovate, learn, and create. Join us to explore new ideas, develop cutting-edge solutions, and advance your skills in a dynamic environment. Be part of the next breakthrough in technology—start your journey with us today!
