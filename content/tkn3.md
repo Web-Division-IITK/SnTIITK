@@ -95,6 +95,36 @@ zenith:
       Peshwas: 0
       Shauryas: 0
 
+  # - title: 'Fine Shyt <<< FPGA Shyt'
+  #   link: 'https://drive.google.com/file/d/1W3yCDBLR0sqKaVYucl0e--T1LVyDw1_2/view?usp=sharing'
+  #   image: '/takneek_2026/Takneek_2026.jpeg'
+  #   scores:
+  #     Aryans: 0
+  #     Nawabs: 0
+  #     Kshatriyas: 0
+  #     Peshwas: 0
+  #     Shauryas: 0
+
+  - title: 'SUPERNOVA'
+    link: 'https://drive.google.com/file/d/1u6_m5AiMAcGrcxidPZOB7Ephu_j6atf1/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+
+  - title: 'GridVision'
+    link: 'https://drive.google.com/file/d/1ooCsufkqWr8nTcPMGqyI2_2emo-2Vzdc/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+
 on_spot:
   - title: 'Harry Potter and the Segmentation Fault'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
