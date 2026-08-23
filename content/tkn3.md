@@ -26,7 +26,7 @@ totals:
 
 zenith:
   - title: 'TBD'
-    link: '#'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
     image: '/takneek_2026/Takneek_2026.jpeg'
     scores:
       Aryans: 0
@@ -37,7 +37,7 @@ zenith:
 
 on_spot:
   - title: 'TBD'
-    link: ''
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
     image: '/takneek_2026/Takneek_2026.jpeg'
     scores:
       Aryans: 0
@@ -48,8 +48,8 @@ on_spot:
     summary: TBD
 
 snt_code:
-  - title: ''
-    link: ''
+  - title: 'TBD'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
     image: '/takneek_2026/Takneek_2026.jpeg'
     scores:
       Aryans: 0
