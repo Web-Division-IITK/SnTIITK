@@ -45,7 +45,7 @@ on_spot:
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-    summary: TBD
+    summary:
 
 snt_code:
   - title: 'Game of Drones'
@@ -57,5 +57,5 @@ snt_code:
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-    summary: TBD
+    summary:
 ---
