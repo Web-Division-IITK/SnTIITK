@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tkn3/</loc>
+    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tkn/</loc>
     <lastmod>2025-08-24T05:03:50+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tkn2/</loc>
     <lastmod>2025-09-06T08:11:55+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-09T15:32:30+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-06-14T17:05:22+05:30</lastmod>
@@ -57,7 +60,7 @@
     <lastmod>2026-05-23T18:29:52+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-    <lastmod>2026-08-09T15:32:30+05:30</lastmod>
+    <lastmod>2026-08-10T23:24:43+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/takneek/takneek-post-1/</loc>
     <lastmod>2024-08-28T01:10:53+05:30</lastmod>

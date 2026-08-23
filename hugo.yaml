@@ -168,6 +168,10 @@ menu:
       url: /categories/council-coordinators/
       weight: 50
   competitions:
+    - identifier: takneek'26
+      name: Takneek'26
+      url: "/tkn3/"
+      weight: 10
     - identifier: takneek'25
       name: Takneek'25
       url: "/tkn2/"

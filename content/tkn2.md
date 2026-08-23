@@ -1,7 +1,28 @@
 ---
-title: 'Content Overview'
+title: "Takneek'25"
 layout: 'tkn2'
 date: 2024-08-24T00:00:00Z
+
+# Final total scores for each section (adjust independently of individual scores)
+totals:
+  zenith:
+    Aryans: 0
+    Nawabs: 0
+    Kshatriyas: 0
+    Peshwas: 0
+    Shauryas: 0
+  on_spot:
+    Aryans: 0
+    Nawabs: 0
+    Kshatriyas: 0
+    Peshwas: 0
+    Shauryas: 0
+  snt_code:
+    Aryans: 120.36
+    Nawabs: 209.71
+    Kshatriyas: 161.10
+    Peshwas: 158.5
+    Shauryas: 93.26
 zenith:
   - title: '10 Days Over Kanpur'
     link: 'https://drive.google.com/file/d/1-fI2KUTSomAwXhq3h07KM8HtHXHD-Ozv/view'
