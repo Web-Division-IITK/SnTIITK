@@ -25,7 +25,7 @@ totals:
     Shauryas: 0
 
 zenith:
-  - title: 'TBD'
+  - title: 'How I met your deadline'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
     image: '/takneek_2026/Takneek_2026.jpeg'
     scores:
@@ -36,7 +36,7 @@ zenith:
       Shauryas: 0
 
 on_spot:
-  - title: 'TBD'
+  - title: 'Harry Potter and the Segmentation Fault'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
     image: '/takneek_2026/Takneek_2026.jpeg'
     scores:
@@ -48,7 +48,7 @@ on_spot:
     summary: TBD
 
 snt_code:
-  - title: 'TBD'
+  - title: 'Game of Drones'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
     image: '/takneek_2026/Takneek_2026.jpeg'
     scores:
