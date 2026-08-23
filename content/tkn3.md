@@ -55,6 +55,46 @@ zenith:
       Peshwas: 0
       Shauryas: 0
 
+  - title: 'AGE OF AUTONOMY'
+    link: 'https://drive.google.com/file/d/1h74RvTVad4wngX9OntGIpZT7outQzj66/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+
+  - title: 'Can He Master It All?'
+    link: 'https://drive.google.com/file/d/16pSQQoYdRxktNnRGPsN3hKRJ8w12ubSo/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+
+  - title: 'SynapseFS'
+    link: 'https://drive.google.com/file/d/1LUAjC88b_RG6zfku1ktNndn7s_cnl-1G/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+
+  - title: 'Agent-Zero'
+    link: 'https://drive.google.com/file/d/19CYwfJ3nrZRkL9fvxUIse6f_IJKFUG9p/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+
 on_spot:
   - title: 'Harry Potter and the Segmentation Fault'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
