@@ -67,7 +67,7 @@ zenith:
 
   - title: 'Can He Master It All?'
     link: 'https://drive.google.com/file/d/16pSQQoYdRxktNnRGPsN3hKRJ8w12ubSo/view?usp=sharing'
-    image: '/takneek_2026/Zenith/BCS_High_Prep.jpeg'
+    image: '/takneek_2026/Zenith/Can_He_Master_It_All.png'
     scores:
       Aryans: 0
       Nawabs: 0
