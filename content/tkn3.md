@@ -27,7 +27,7 @@ totals:
 zenith:
   - title: 'Second Screen: Beyond the Controller'
     link: 'https://drive.google.com/file/d/1-6dfdGrg4KPh8oqzAvpV-_jArEoWGLpO/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Zenith/Second_Screen.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -47,7 +47,7 @@ zenith:
 
   - title: 'ALPHA- Algorithmic Long/Short Portfolio Holdings Allocation'
     link: 'https://drive.google.com/file/d/1UuaZfk07Av16nFdoN9MVbgWlvIpHYsBk/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Zenith/ALPHA.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -67,7 +67,7 @@ zenith:
 
   - title: 'Can He Master It All?'
     link: 'https://drive.google.com/file/d/16pSQQoYdRxktNnRGPsN3hKRJ8w12ubSo/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Zenith/BCS_High_Prep.jpeg'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -97,7 +97,7 @@ zenith:
 
   - title: 'The Big-GEM Theory'
     link: 'https://drive.google.com/file/d/1e9XWvXmUXIjc1wjD5TFxveDmh91fw9wh/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Zenith/The_Big_Gem_Theory.jpeg'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -107,7 +107,7 @@ zenith:
 
   - title: 'SUPERNOVA'
     link: 'https://drive.google.com/file/d/1u6_m5AiMAcGrcxidPZOB7Ephu_j6atf1/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Zenith/Supernova.jpg'
     scores:
       Aryans: 0
       Nawabs: 0
