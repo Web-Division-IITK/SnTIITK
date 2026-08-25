@@ -77,7 +77,7 @@ zenith:
 
   - title: 'SynapseFS'
     link: 'https://drive.google.com/file/d/1LUAjC88b_RG6zfku1ktNndn7s_cnl-1G/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Zenith/SynapseFS.jpeg'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -87,7 +87,7 @@ zenith:
 
   - title: 'Agent-Zero'
     link: 'https://drive.google.com/file/d/19CYwfJ3nrZRkL9fvxUIse6f_IJKFUG9p/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Zenith/AgentZero.jpeg'
     scores:
       Aryans: 0
       Nawabs: 0
