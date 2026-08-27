@@ -11,6 +11,12 @@ totals:
     Kshatriyas: 0
     Peshwas: 0
     Shauryas: 0
+  mid_prep:
+    Aryans: 0
+    Nawabs: 0
+    Kshatriyas: 0
+    Peshwas: 0
+    Shauryas: 0
   on_spot:
     Aryans: 0
     Nawabs: 0
@@ -117,6 +123,57 @@ zenith:
 
   - title: 'GridVision'
     link: 'https://drive.google.com/file/d/1ooCsufkqWr8nTcPMGqyI2_2emo-2Vzdc/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+
+mid_prep:
+  - title: 'CHAOS JAM26'
+    link: 'https://drive.google.com/file/d/18PHov3YEXndlwV9O1qhWXW4Y89UpozIf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+
+  - title: 'InfraPulse'
+    link: 'https://drive.google.com/file/d/1FPco33TSqzoz5WY-hPqP_WWh6IUijGpY/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+
+  - title: 'Picture Imperfect'
+    link: 'https://drive.google.com/file/d/1IB8sH2bTkYinUuTjR7Oidb2E2v5NehRe/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+
+  - title: 'Inverted Lattice'
+    link: 'https://drive.google.com/file/d/1umsbihKG9TljqCFqOo5kl302KxdZznbX/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+
+  - title: 'The Edge of Magic'
+    link: 'https://drive.google.com/file/d/1GzC12Kjcoy9A4e055LixgP8EOo996cOv/view?usp=sharing'
     image: '/takneek_2026/Takneek_2026.jpeg'
     scores:
       Aryans: 0

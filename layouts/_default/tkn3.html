@@ -164,6 +164,114 @@
                 </tr>
               </tbody>
             </table>
+
+            <h3 class="text-xl font-bold mt-4">MID-PREP</h3>
+            <table
+              class="min-w-full bg-white dark:bg-gray-800 rounded-lg shadow-lg mb-6"
+            >
+              <thead>
+                <tr>
+                  <th
+                    class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider"
+                  >
+                    Problem Statement
+                  </th>
+                  <th
+                    class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider"
+                  >
+                    Aryans
+                  </th>
+                  <th
+                    class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider"
+                  >
+                    Nawabs
+                  </th>
+                  <th
+                    class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider"
+                  >
+                    Kshatriyas
+                  </th>
+                  <th
+                    class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider"
+                  >
+                    Peshwas
+                  </th>
+                  <th
+                    class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider"
+                  >
+                    Shauryas
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                {{ range .Params.mid_prep }}
+                <tr>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .title }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Aryans }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Nawabs }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Kshatriyas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Peshwas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Shauryas }}
+                  </td>
+                </tr>
+                {{ end }}
+                <tr>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    Total
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.mid_prep.Aryans }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.mid_prep.Nawabs }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.mid_prep.Kshatriyas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.mid_prep.Peshwas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.mid_prep.Shauryas }}
+                  </td>
+                </tr>
+              </tbody>
+            </table>
           </div>
 
           <div id="OnSpot" class="tabcontent" style="display: none">
@@ -425,6 +533,35 @@
           </a>
           {{ end }} {{ else }}
           <p>No High-Prep content available.</p>
+          {{ end }}
+        </div>
+
+        <!-- Mid-Prep Section -->
+        <h2 class="text-2xl font-bold mt-8">MID-PREP</h2>
+        <div
+          class="grid gap-4 mt-4 mb-4 lg:max-w-none grid-cols-1 sm:grid-cols-2 md:grid-cols-5 lg:grid-cols-5"
+        >
+          {{ with .Params.mid_prep }} {{ range . }}
+          <a
+            href="{{ .link }}"
+            class="flex flex-col sm:w-64 lg:w-48 overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900 hover:shadow-xl transition-shadow duration-300"
+          >
+            <img
+              src="{{ .image }}"
+              class="object-cover overflow-hidden w-32 sm:w-64"
+              loading="lazy"
+              alt="{{ .title }}"
+            />
+            <div class="p-6 flex-grow w-full">
+              <h2
+                class="block mt-2 text-lg font-bold text-gray-900 dark:text-gray-200"
+              >
+                {{ .title }}
+              </h2>
+            </div>
+          </a>
+          {{ end }} {{ else }}
+          <p>No Mid-Prep content available.</p>
           {{ end }}
         </div>
 
