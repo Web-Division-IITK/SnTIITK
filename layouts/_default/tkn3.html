@@ -94,28 +94,66 @@
                   <td
                     class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
                   >
-                    {{ .title }}{{ partial "tkn-display-tag.html" .display }}
+                    {{ .title }}
                   </td>
-                  {{ $cell := dict "display" .display "scores" .scores "ranks" .ranks }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Aryans")) }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Nawabs")) }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Kshatriyas")) }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Peshwas")) }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Shauryas")) }}
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Aryans }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Nawabs }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Kshatriyas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Peshwas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Shauryas }}
+                  </td>
                 </tr>
                 {{ end }}
                 <tr>
                   <td
                     class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
                   >
-                    Total{{ partial "tkn-display-tag.html" .Params.totals.zenith.display }}
+                    Total
                   </td>
-                  {{ $zt := .Params.totals.zenith }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $zt "pool" "Aryans") }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $zt "pool" "Nawabs") }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $zt "pool" "Kshatriyas") }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $zt "pool" "Peshwas") }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $zt "pool" "Shauryas") }}
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.zenith.Aryans }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.zenith.Nawabs }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.zenith.Kshatriyas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.zenith.Peshwas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.zenith.Shauryas }}
+                  </td>
                 </tr>
               </tbody>
             </table>
@@ -164,28 +202,66 @@
                   <td
                     class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
                   >
-                    {{ .title }}{{ partial "tkn-display-tag.html" .display }}
+                    {{ .title }}
                   </td>
-                  {{ $cell := dict "display" .display "scores" .scores "ranks" .ranks }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Aryans")) }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Nawabs")) }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Kshatriyas")) }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Peshwas")) }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Shauryas")) }}
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Aryans }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Nawabs }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Kshatriyas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Peshwas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Shauryas }}
+                  </td>
                 </tr>
                 {{ end }}
                 <tr>
                   <td
                     class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
                   >
-                    Total{{ partial "tkn-display-tag.html" .Params.totals.mid_prep.display }}
+                    Total
                   </td>
-                  {{ $mt := .Params.totals.mid_prep }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $mt "pool" "Aryans") }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $mt "pool" "Nawabs") }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $mt "pool" "Kshatriyas") }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $mt "pool" "Peshwas") }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $mt "pool" "Shauryas") }}
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.mid_prep.Aryans }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.mid_prep.Nawabs }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.mid_prep.Kshatriyas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.mid_prep.Peshwas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.mid_prep.Shauryas }}
+                  </td>
                 </tr>
               </tbody>
             </table>
@@ -235,28 +311,66 @@
                   <td
                     class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
                   >
-                    {{ .title }}{{ partial "tkn-display-tag.html" .display }}
+                    {{ .title }}
                   </td>
-                  {{ $cell := dict "display" .display "scores" .scores "ranks" .ranks }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Aryans")) }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Nawabs")) }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Kshatriyas")) }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Peshwas")) }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Shauryas")) }}
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Aryans }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Nawabs }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Kshatriyas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Peshwas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Shauryas }}
+                  </td>
                 </tr>
                 {{ end }}
                 <tr>
                   <td
                     class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
                   >
-                    Total{{ partial "tkn-display-tag.html" .Params.totals.on_spot.display }}
+                    Total
                   </td>
-                  {{ $ot := .Params.totals.on_spot }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $ot "pool" "Aryans") }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $ot "pool" "Nawabs") }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $ot "pool" "Kshatriyas") }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $ot "pool" "Peshwas") }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $ot "pool" "Shauryas") }}
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.on_spot.Aryans }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.on_spot.Nawabs }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.on_spot.Kshatriyas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.on_spot.Peshwas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.on_spot.Shauryas }}
+                  </td>
                 </tr>
               </tbody>
             </table>
@@ -306,28 +420,66 @@
                   <td
                     class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
                   >
-                    {{ .title }}{{ partial "tkn-display-tag.html" .display }}
+                    {{ .title }}
                   </td>
-                  {{ $cell := dict "display" .display "scores" .scores "ranks" .ranks }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Aryans")) }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Nawabs")) }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Kshatriyas")) }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Peshwas")) }}
-                  {{ partial "tkn-pool-cell.html" (merge $cell (dict "pool" "Shauryas")) }}
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Aryans }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Nawabs }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Kshatriyas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Peshwas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .scores.Shauryas }}
+                  </td>
                 </tr>
                 {{ end }}
                 <tr>
                   <td
                     class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
                   >
-                    Total{{ partial "tkn-display-tag.html" .Params.totals.snt_code.display }}
+                    Total
                   </td>
-                  {{ $st := .Params.totals.snt_code }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $st "pool" "Aryans") }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $st "pool" "Nawabs") }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $st "pool" "Kshatriyas") }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $st "pool" "Peshwas") }}
-                  {{ partial "tkn-totals-cell.html" (dict "section" $st "pool" "Shauryas") }}
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.snt_code.Aryans }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.snt_code.Nawabs }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.snt_code.Kshatriyas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.snt_code.Peshwas }}
+                  </td>
+                  <td
+                    class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
+                  >
+                    {{ .Params.totals.snt_code.Shauryas }}
+                  </td>
                 </tr>
               </tbody>
             </table>

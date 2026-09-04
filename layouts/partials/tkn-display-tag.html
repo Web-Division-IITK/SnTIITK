@@ -1,9 +1,0 @@
-{{- /* Badge showing whether a row displays scores, ranks, or both. */ -}}
-{{- $display := default "score" . -}}
-{{- if eq $display "rank" -}}
-<span class="ml-2 inline-block align-middle rounded px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide bg-amber-100 text-amber-800 dark:bg-amber-900/40 dark:text-amber-200">Rank</span>
-{{- else if eq $display "both" -}}
-<span class="ml-2 inline-block align-middle rounded px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide bg-violet-100 text-violet-800 dark:bg-violet-900/40 dark:text-violet-200">Both</span>
-{{- else -}}
-<span class="ml-2 inline-block align-middle rounded px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide bg-slate-100 text-slate-600 dark:bg-slate-700 dark:text-slate-300">Score</span>
-{{- end -}}
