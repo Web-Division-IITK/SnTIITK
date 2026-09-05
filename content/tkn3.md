@@ -298,11 +298,11 @@ snt_code:
     link: 'https://drive.google.com/file/d/1A-uqPVCP_Q7SpeHmfb38Fh87fDmJy--h/view?usp=sharing'
     image: '/takneek_2026/SnT_Code/TheMFRobotWhoLied.png'
     scores:
-      Aryans: 0
-      Nawabs: 0
-      Kshatriyas: 0
-      Peshwas: 0
-      Shauryas: 0
+      Aryans: 65
+      Nawabs: 20
+      Kshatriyas: 35
+      Peshwas: 100
+      Shauryas: 10
     summary:
 
   - title: 'Supply chain war[77]'
@@ -316,9 +316,9 @@ snt_code:
       Shauryas: 0
     summary:
 
-  - title: 'SNT Code PS-5'
-    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.png'
+  - title: 'rockme[64]'
+    link: 'https://drive.google.com/file/d/1k5DtSzgOVwamLjM4ZGVP9TjIyFeF-aS-/view?usp=sharing'
+    image: '/takneek_2026/SnT_Code/rockme.jpeg'
     scores:
       Aryans: 0
       Nawabs: 0
