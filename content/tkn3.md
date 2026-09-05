@@ -349,9 +349,9 @@ snt_code:
       Shauryas: 0
     summary:
 
-  - title: 'SNT Code PS-8'
-    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.png'
+  - title: 'The Thing that refuses to die'
+    link: 'https://drive.google.com/file/d/1HdEaFZ2Ohz1NoAotRE5jfX7ab9jw-b-b/view?usp=sharing'
+    image: '/takneek_2026/SnT_Code/gdc_89.png'
     scores:
       Aryans: 0
       Nawabs: 0
