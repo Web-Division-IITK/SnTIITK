@@ -360,8 +360,8 @@ snt_code:
       Shauryas: 0
     summary:
 
-  - title: ''
-    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+  - title: 'Writ of Aüle[47]'
+    link: 'https://drive.google.com/file/d/1ti9k7DdNPs6rKnR0MjXlBMnbHx7UTaEm/view?usp=sharing'
     image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
