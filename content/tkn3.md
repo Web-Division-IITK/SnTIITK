@@ -327,9 +327,9 @@ snt_code:
       Shauryas: 0
     summary:
 
-  - title: 'SNT Code PS-6'
-    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.png'
+  - title: 'EAU de Algorithm[96]'
+    link: 'https://drive.google.com/file/d/1bOnlFBnhpv_FW878YiPWbrnECgtpfhrp/view?usp=sharing'
+    image: '/takneek_2026/SnT_Code/bcs_96.jpeg'
     scores:
       Aryans: 0
       Nawabs: 0
