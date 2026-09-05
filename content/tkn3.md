@@ -415,9 +415,9 @@ snt_code:
       Shauryas: 0
     summary:
 
-  - title: 'SNT Code PS-14'
-    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.png'
+  - title: 'Clavis Occulta[59]'
+    link: 'https://drive.google.com/file/d/1msCJgRo19NvnuBVYZH1HpKtkEC1_kwTC/view?usp=sharing'
+    image: '/takneek_2026/SnT_Code/speedcubing_59.png'
     scores:
       Aryans: 0
       Nawabs: 0
