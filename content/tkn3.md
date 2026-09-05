@@ -373,7 +373,7 @@ snt_code:
 
   - title: 'Pale Blue Dot[51]'
     link: 'https://drive.google.com/file/d/1wANrNHOcRSo7TkuqMPqLYerkC6ahwx9Q/view?usp=sharing'
-    image: '/takneek_2026/SnT_Code/Astro_51.png'
+    image: '/takneek_2026/SnT_Code/astro_51.png'
     scores:
       Aryans: 0
       Nawabs: 0
