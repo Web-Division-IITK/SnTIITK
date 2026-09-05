@@ -425,6 +425,11 @@
                 </tr>
               </thead>
               <tbody>
+                {{ $totalAryans := 0 }}
+                {{ $totalNawabs := 0 }}
+                {{ $totalKshatriyas := 0 }}
+                {{ $totalPeshwas := 0 }}
+                {{ $totalShauryas := 0 }}
                 {{ range .Params.snt_code }}
                 <tr>
                   <td
@@ -458,6 +463,11 @@
                     {{ .scores.Shauryas }}
                   </td>
                 </tr>
+                {{ $totalAryans = add $totalAryans .scores.Aryans }}
+                {{ $totalNawabs = add $totalNawabs .scores.Nawabs }}
+                {{ $totalKshatriyas = add $totalKshatriyas .scores.Kshatriyas }}
+                {{ $totalPeshwas = add $totalPeshwas .scores.Peshwas }}
+                {{ $totalShauryas = add $totalShauryas .scores.Shauryas }}
                 {{ end }}
                 <tr>
                   <td
@@ -468,27 +478,27 @@
                   <td
                     class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
                   >
-                    {{ .Params.totals.snt_code.Aryans }}
+                    {{ $totalAryans }}
                   </td>
                   <td
                     class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
                   >
-                    {{ .Params.totals.snt_code.Nawabs }}
+                    {{ $totalNawabs }}
                   </td>
                   <td
                     class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
                   >
-                    {{ .Params.totals.snt_code.Kshatriyas }}
+                    {{ $totalKshatriyas }}
                   </td>
                   <td
                     class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
                   >
-                    {{ .Params.totals.snt_code.Peshwas }}
+                    {{ $totalPeshwas }}
                   </td>
                   <td
                     class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
                   >
-                    {{ .Params.totals.snt_code.Shauryas }}
+                    {{ $totalShauryas }}
                   </td>
                 </tr>
               </tbody>
