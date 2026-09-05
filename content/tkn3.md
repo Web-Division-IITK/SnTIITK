@@ -393,8 +393,8 @@ snt_code:
       Shauryas: 0
     summary:
 
-  - title: 'SNT Code PS-12'
-    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+  - title: 'Aero Trivia[69]'
+    link: 'https://drive.google.com/file/d/1zBiZ9rc9GX3_vz8H0gOf9_V6m7yUUtS0/view?usp=sharing'
     image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
