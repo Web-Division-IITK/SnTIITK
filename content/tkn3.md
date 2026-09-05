@@ -338,9 +338,9 @@ snt_code:
       Shauryas: 0
     summary:
 
-  - title: 'SNT Code PS-7'
-    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.png'
+  - title: 'Lost Flight Log[81]'
+    link: 'https://drive.google.com/file/d/14QcytVv932LPrqu7NwAq6F3800saU6CB/view?usp=sharing'
+    image: '/takneek_2026/SnT_Code/aero_81.jpeg'
     scores:
       Aryans: 0
       Nawabs: 0
