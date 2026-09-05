@@ -349,7 +349,7 @@ snt_code:
       Shauryas: 0
     summary:
 
-  - title: 'The Thing that refuses to die'
+  - title: 'The Thing that refuses to die[89]'
     link: 'https://drive.google.com/file/d/1HdEaFZ2Ohz1NoAotRE5jfX7ab9jw-b-b/view?usp=sharing'
     image: '/takneek_2026/SnT_Code/gdc_89.png'
     scores:
@@ -360,7 +360,7 @@ snt_code:
       Shauryas: 0
     summary:
 
-  - title: 'SNT Code PS-9'
+  - title: ''
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
     image: '/takneek_2026/Takneek_2026.png'
     scores:
