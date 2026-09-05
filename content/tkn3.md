@@ -371,9 +371,9 @@ snt_code:
       Shauryas: 0
     summary:
 
-  - title: 'SNT Code PS-10'
-    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.png'
+  - title: 'Pale Blue Dot[51]'
+    link: 'https://drive.google.com/file/d/1wANrNHOcRSo7TkuqMPqLYerkC6ahwx9Q/view?usp=sharing'
+    image: '/takneek_2026/SnT_Code/Astro_51.png'
     scores:
       Aryans: 0
       Nawabs: 0
