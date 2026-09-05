@@ -272,8 +272,8 @@ on_spot:
     summary:
 
 snt_code:
-  - title: 'SNT Code PS-1'
-    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+  - title: 'Scavenger Hunt'
+    link: 'https://drive.google.com/file/d/1Us0EqMxySB68Kva4rwSoYbmYKkLW8LI7/view?usp=sharing'
     image: '/takneek_2026/Takneek_2026.jpeg'
     scores:
       Aryans: 0
