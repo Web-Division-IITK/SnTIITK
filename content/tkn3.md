@@ -382,9 +382,9 @@ snt_code:
       Shauryas: 0
     summary:
 
-  - title: 'SNT Code PS-11'
-    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.png'
+  - title: 'The Journey[49]'
+    link: 'https://drive.google.com/file/d/1Xfuzi-69qELN0Y0hw2iVIBU9gN2OCYYw/view?usp=sharing'
+    image: '/takneek_2026/SnT_Code/eclub_49.jpeg'
     scores:
       Aryans: 0
       Nawabs: 0
