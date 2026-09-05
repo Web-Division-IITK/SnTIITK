@@ -404,9 +404,9 @@ snt_code:
       Shauryas: 0
     summary:
 
-  - title: 'SNT Code PS-13'
-    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.png'
+  - title: 'Cascade[76]'
+    link: 'https://drive.google.com/file/d/1EbaEcaF8bUyDDGJpvkUkbtubMye2JPv7/view?usp=sharing'
+    image: '/takneek_2026/SnT_Code/sms_76.png'
     scores:
       Aryans: 0
       Nawabs: 0
