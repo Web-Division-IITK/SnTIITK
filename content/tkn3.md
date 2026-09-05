@@ -272,7 +272,194 @@ on_spot:
     summary:
 
 snt_code:
-  - title: 'Game of Drones'
+  - title: 'SNT Code PS-1'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-2'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-3'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-4'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-5'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-6'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-7'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-8'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-9'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-10'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-11'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-12'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-13'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-14'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-15'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-16'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-17'
+    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+    summary:
+
+  - title: 'SNT Code PS-18'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
     image: '/takneek_2026/Takneek_2026.jpeg'
     scores:
