@@ -285,7 +285,7 @@ snt_code:
 
   - title: 'Guess the Timestamp[58]'
     link: 'https://drive.google.com/file/d/1FBV5kook-dK-C9mbb7QmBHzkbWqMfJVi/view?usp=sharing'
-    image: '/takneek_2026/SnT_code/Guess_The_Timestamps.jpeg'
+    image: '/takneek_2026/SnT_Code/Guess_The_Timestamps.jpeg'
     scores:
       Aryans: 0
       Nawabs: 0
