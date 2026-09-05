@@ -43,7 +43,7 @@ zenith:
 
   - title: 'Cargon'
     link: 'https://drive.google.com/file/d/19LqWMqRDgf2UkFzH1Im74Agwg5BXDpeq/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -63,7 +63,7 @@ zenith:
 
   - title: 'AGE OF AUTONOMY'
     link: 'https://drive.google.com/file/d/1h74RvTVad4wngX9OntGIpZT7outQzj66/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -123,7 +123,7 @@ zenith:
 
   - title: 'GridVision'
     link: 'https://drive.google.com/file/d/1ooCsufkqWr8nTcPMGqyI2_2emo-2Vzdc/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -134,7 +134,7 @@ zenith:
 mid_prep:
   - title: 'CHAOS JAM26'
     link: 'https://drive.google.com/file/d/18PHov3YEXndlwV9O1qhWXW4Y89UpozIf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -144,7 +144,7 @@ mid_prep:
 
   - title: 'InfraPulse'
     link: 'https://drive.google.com/file/d/1FPco33TSqzoz5WY-hPqP_WWh6IUijGpY/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -164,7 +164,7 @@ mid_prep:
 
   - title: 'Inverted Lattice'
     link: 'https://drive.google.com/file/d/1umsbihKG9TljqCFqOo5kl302KxdZznbX/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -174,7 +174,7 @@ mid_prep:
 
   - title: 'The Edge of Magic'
     link: 'https://drive.google.com/file/d/1GzC12Kjcoy9A4e055LixgP8EOo996cOv/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -185,7 +185,7 @@ mid_prep:
 on_spot:
   - title: 'Astro Physics'
     link: 'https://drive.google.com/file/d/1dpG6UBShcm9NCcd5uhrb7EDkbedwlXou/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 20
       Nawabs: 7
@@ -196,7 +196,7 @@ on_spot:
 
   - title: 'Math Bowl'
     link: 'https://drive.google.com/file/d/1dbewTD3sEH0sA1Ck0ejCdP1dd5plHsgP/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 20
       Nawabs: 13
@@ -207,7 +207,7 @@ on_spot:
 
   - title: 'Chequered Flag'
     link: 'https://drive.google.com/file/d/1Ia76eUdiYl2PSrQfY6l92vukZHyDQ0fG/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 4
       Nawabs: 7
@@ -218,7 +218,7 @@ on_spot:
 
   - title: 'Aeromodelling'
     link: 'https://drive.google.com/file/d/1kZIHDXEIs0IVh4Qdl7ff7Oj3y0C3ucE1/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 4
       Nawabs: 7
@@ -229,7 +229,7 @@ on_spot:
 
   - title: 'Operation Twin Turtle'
     link: 'https://drive.google.com/file/d/1qFgO0iYvAtTyCR2M5BvxTDHYF0xZHnvn/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 2
       Nawabs: 20
@@ -240,7 +240,7 @@ on_spot:
 
   - title: 'FAC-Technical'
     link: 'https://drive.google.com/file/d/1umdRkK9hPUxBV_MeZDhHv-ZzUR7aDw_Z/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 13
       Nawabs: 2
@@ -251,7 +251,7 @@ on_spot:
 
   - title: 'FAC-Fundamental'
     link: 'https://drive.google.com/file/d/1UdnMAcoSC-vldsWxOsGAhET0SFM7X8gJ/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 4
       Nawabs: 13
@@ -262,7 +262,7 @@ on_spot:
 
   - title: 'The Logic Trap'
     link: 'https://drive.google.com/file/d/13xNjTsohK3LKzYXhkMeOxUsqsE4eHKVO/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 20
       Nawabs: 20
@@ -274,7 +274,18 @@ on_spot:
 snt_code:
   - title: 'Scavenger Hunt'
     link: 'https://drive.google.com/file/d/1Us0EqMxySB68Kva4rwSoYbmYKkLW8LI7/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
+    scores:
+      Aryans: 214
+      Nawabs: 243
+      Kshatriyas: 251
+      Peshwas: 264
+      Shauryas: 222.5
+    summary:
+
+  - title: 'Guess the Timestamp[58]'
+    link: 'https://drive.google.com/file/d/1FBV5kook-dK-C9mbb7QmBHzkbWqMfJVi/view?usp=sharing'
+    image: '/takneek_2026/SnT_code/Guess_The_Timestamps.jpeg'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -283,9 +294,9 @@ snt_code:
       Shauryas: 0
     summary:
 
-  - title: 'SNT Code PS-2'
-    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+  - title: 'The MF robot who lied[43]'
+    link: 'https://drive.google.com/file/d/1A-uqPVCP_Q7SpeHmfb38Fh87fDmJy--h/view?usp=sharing'
+    image: '/takneek_2026/SnT_Code/TheMFRobotWhoLied.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -294,20 +305,9 @@ snt_code:
       Shauryas: 0
     summary:
 
-  - title: 'SNT Code PS-3'
-    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
-    scores:
-      Aryans: 0
-      Nawabs: 0
-      Kshatriyas: 0
-      Peshwas: 0
-      Shauryas: 0
-    summary:
-
-  - title: 'SNT Code PS-4'
-    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+  - title: 'Supply chain war[77]'
+    link: 'https://drive.google.com/file/d/16VgdHMEBc_ldVjoFCExelIxAO2ByZGp6/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -318,7 +318,7 @@ snt_code:
 
   - title: 'SNT Code PS-5'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -329,7 +329,7 @@ snt_code:
 
   - title: 'SNT Code PS-6'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -340,7 +340,7 @@ snt_code:
 
   - title: 'SNT Code PS-7'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -351,7 +351,7 @@ snt_code:
 
   - title: 'SNT Code PS-8'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -362,7 +362,7 @@ snt_code:
 
   - title: 'SNT Code PS-9'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -373,7 +373,7 @@ snt_code:
 
   - title: 'SNT Code PS-10'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -384,7 +384,7 @@ snt_code:
 
   - title: 'SNT Code PS-11'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -395,7 +395,7 @@ snt_code:
 
   - title: 'SNT Code PS-12'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -406,7 +406,7 @@ snt_code:
 
   - title: 'SNT Code PS-13'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -417,7 +417,7 @@ snt_code:
 
   - title: 'SNT Code PS-14'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -428,7 +428,7 @@ snt_code:
 
   - title: 'SNT Code PS-15'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -439,7 +439,7 @@ snt_code:
 
   - title: 'SNT Code PS-16'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -450,7 +450,7 @@ snt_code:
 
   - title: 'SNT Code PS-17'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -461,7 +461,7 @@ snt_code:
 
   - title: 'SNT Code PS-18'
     link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
       Nawabs: 0
