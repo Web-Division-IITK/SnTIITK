@@ -306,6 +306,11 @@
                 </tr>
               </thead>
               <tbody>
+                {{ $totalAryans := 0 }}
+                {{ $totalNawabs := 0 }}
+                {{ $totalKshatriyas := 0 }}
+                {{ $totalPeshwas := 0 }}
+                {{ $totalShauryas := 0 }}
                 {{ range .Params.on_spot }}
                 <tr>
                   <td
@@ -339,6 +344,11 @@
                     {{ .scores.Shauryas }}
                   </td>
                 </tr>
+                {{ $totalAryans = add $totalAryans .scores.Aryans }}
+                {{ $totalNawabs = add $totalNawabs .scores.Nawabs }}
+                {{ $totalKshatriyas = add $totalKshatriyas .scores.Kshatriyas }}
+                {{ $totalPeshwas = add $totalPeshwas .scores.Peshwas }}
+                {{ $totalShauryas = add $totalShauryas .scores.Shauryas }}
                 {{ end }}
                 <tr>
                   <td
@@ -349,27 +359,27 @@
                   <td
                     class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
                   >
-                    {{ .Params.totals.on_spot.Aryans }}
+                    {{ $totalAryans }}
                   </td>
                   <td
                     class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
                   >
-                    {{ .Params.totals.on_spot.Nawabs }}
+                    {{ $totalNawabs }}
                   </td>
                   <td
                     class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
                   >
-                    {{ .Params.totals.on_spot.Kshatriyas }}
+                    {{ $totalKshatriyas }}
                   </td>
                   <td
                     class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
                   >
-                    {{ .Params.totals.on_spot.Peshwas }}
+                    {{ $totalPeshwas }}
                   </td>
                   <td
                     class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200"
                   >
-                    {{ .Params.totals.on_spot.Shauryas }}
+                    {{ $totalShauryas }}
                   </td>
                 </tr>
               </tbody>

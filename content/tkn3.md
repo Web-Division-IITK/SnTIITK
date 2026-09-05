@@ -154,7 +154,7 @@ mid_prep:
 
   - title: 'Picture Imperfect'
     link: 'https://drive.google.com/file/d/1IB8sH2bTkYinUuTjR7Oidb2E2v5NehRe/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.jpeg'
+    image: '/takneek_2026/Mid_Prep/PictureImperfect.jpeg'
     scores:
       Aryans: 0
       Nawabs: 0
@@ -194,26 +194,26 @@ on_spot:
       Shauryas: 2
     summary:
 
-  - title: 'SciMathSoc'
+  - title: 'Math Bowl'
     link: 'https://drive.google.com/file/d/1dbewTD3sEH0sA1Ck0ejCdP1dd5plHsgP/view?usp=sharing'
     image: '/takneek_2026/Takneek_2026.jpeg'
     scores:
-      Aryans: 0
-      Nawabs: 0
-      Kshatriyas: 0
-      Peshwas: 0
-      Shauryas: 0
+      Aryans: 20
+      Nawabs: 13
+      Kshatriyas: 4
+      Peshwas: 7
+      Shauryas: 2
     summary:
 
   - title: 'Chequered Flag'
     link: 'https://drive.google.com/file/d/1Ia76eUdiYl2PSrQfY6l92vukZHyDQ0fG/view?usp=sharing'
     image: '/takneek_2026/Takneek_2026.jpeg'
     scores:
-      Aryans: 0
-      Nawabs: 0
-      Kshatriyas: 0
-      Peshwas: 0
-      Shauryas: 0
+      Aryans: 4
+      Nawabs: 7
+      Kshatriyas: 13
+      Peshwas: 20
+      Shauryas: 2
     summary:
 
   - title: 'Aeromodelling'
@@ -257,6 +257,17 @@ on_spot:
       Nawabs: 13
       Kshatriyas: 20
       Peshwas: 7
+      Shauryas: 2
+    summary:
+
+  - title: 'The Logic Trap'
+    link: 'https://drive.google.com/file/d/13xNjTsohK3LKzYXhkMeOxUsqsE4eHKVO/view?usp=sharing'
+    image: '/takneek_2026/Takneek_2026.jpeg'
+    scores:
+      Aryans: 20
+      Nawabs: 20
+      Kshatriyas: 4
+      Peshwas: 20
       Shauryas: 2
     summary:
 
