@@ -426,9 +426,9 @@ snt_code:
       Shauryas: 0
     summary:
 
-  - title: 'SNT Code PS-15'
-    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
-    image: '/takneek_2026/Takneek_2026.png'
+  - title: 'Architecture of Void[83]'
+    link: 'https://drive.google.com/file/d/1hu8WQPBJhS36cZ758FiDT5fDx2hsr0EJ/view?usp=sharing'
+    image: '/takneek_2026/SnT_Code/descon_83.png'
     scores:
       Aryans: 0
       Nawabs: 0
