@@ -437,8 +437,8 @@ snt_code:
       Shauryas: 0
     summary:
 
-  - title: 'SNT Code PS-16'
-    link: 'https://drive.google.com/file/d/1zUwtKV3-tSCyCI6JrJRAi-QMbXYULrlf/view?usp=sharing'
+  - title: 'The Riddle Hunt[93]'
+    link: 'https://drive.google.com/file/d/1kOC16aPLmYfhJjd86VAZR5Y9nwBdeNDO/view?usp=sharing'
     image: '/takneek_2026/Takneek_2026.png'
     scores:
       Aryans: 0
